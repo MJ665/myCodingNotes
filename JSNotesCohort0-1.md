@@ -1,3 +1,24 @@
+why language 
+interpreter & compiler
+JS > other lang
+static vs dynamic lang
+single threaded nature of js
+number
+string
+boolean
+arrays
+object
+function
+practise
+callback func 
+event loop
+callback
+callback hell 
+promises
+
+
+
+
 
 ## string
 ```javascript
