@@ -26,14 +26,14 @@
 
 ## Insert, Home, Page Up, Delete, Page Down, Print Screen, Scroll Lock, End
 
-- **Ins:** Switch between 4 different light effects
-- **Home:** Switch between 4 different light effects
-- **PgUp:** Switch between 4 different light effects
-- **Del:** Switch between 4 different light effects
-- **PgDn:** Switch between 4 different light effects
-- **Prt Scr:** 6 Anti Ghosting Keys
-- **Scr Lck:** N Anti Ghosting Keys
-- **End:** Custom Backlight Recording
+- **Func + Ins:** Switch between 4 different light effects
+- **Func + Home:** Switch between 4 different light effects
+- **Func + PgUp:** Switch between 4 different light effects
+- **Func + Del:** Switch between 4 different light effects
+- **Func + PgDn:** Switch between 4 different light effects
+- **Func + Prt Scr:** 6 Anti Ghosting Keys
+- **Func + Scr Lck:** N Anti Ghosting Keys
+- **Func + End:** Custom Backlight Recording
 
 ## Escape Key
 
