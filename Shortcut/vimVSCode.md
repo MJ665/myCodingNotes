@@ -66,3 +66,81 @@ This documentation covers the settings and keyboard shortcuts for Visual Studio 
 ## Conclusion
 
 This documentation covers the key bindings and settings for both Visual Studio Code and Vim. Customize these configurations according to your preferences for an optimized development experience.
+
+
+
+
+
+
+
+Aother Resssponse
+
+# VS Code Configuration Documentation
+
+## General Settings
+
+- `"editor.mouseWheelZoom": true` - Enables zooming with the mouse wheel.
+- `"code-runner.clearPreviousOutput": true` - Clears previous output before running code.
+- `"code-runner.runInTerminal": true` - Runs code in an external terminal.
+- `"code-runner.saveFileBeforeRun": true` - Saves files before running.
+- `"editor.fontSize": 20` - Sets the font size to 20.
+- `"terminal.external.osxExec": "iTerm.app"` - Specifies the external terminal for macOS.
+- `"terminal.explorerKind": "external"` - Opens the terminal externally.
+- `"workbench.startupEditor": "none"` - Starts VS Code without opening any files.
+- `"workbench.colorTheme": "JellyFish"` - Sets the color theme to "JellyFish".
+- `"screencastMode.onlyKeyboardShortcuts": true` - Enables screencast mode with only keyboard shortcuts.
+- `"liveServer.settings.CustomBrowser": "firefox"` - Sets the default browser for Live Server to Firefox.
+- `"rapidapi.terminalLink.enabled": false` - Disables terminal link support.
+- `"workbench.editorAssociations": { "*.pptx": "default" }` - Sets default editor for PowerPoint files.
+- `"tabnine.experimentalAutoImports": true` - Enables experimental auto-imports with TabNine.
+- `"workbench.iconTheme": "material-icon-theme"` - Sets the icon theme to "Material Icon Theme".
+- `"path-intellisense.showHiddenFiles": true` - Shows hidden files in path intellisense.
+- `"files.autoSave": "afterDelay"` - Enables auto-save after a delay.
+- `"editor.accessibilitySupport": "on"` - Enables accessibility support.
+
+## Zen Mode
+
+- `"zenMode.hideLineNumbers": false` - Shows line numbers in Zen mode.
+- `"editor.lineNumbers": "relative"` - Sets relative line numbers.
+
+## Vim Settings
+
+- `"vim.leader": "<Space>"` - Sets the leader key to Space.
+- `"vim.hlsearch": true` - Enables search highlighting.
+- Vim Navigation Shortcuts:
+  - `<S-h>`: Switch to the previous buffer (`:bprevious`).
+  - `<S-l>`: Switch to the next buffer (`:bnext`).
+  - `<leader>v`: Open a vertical split (`:vsplit`).
+  - `<leader>s`: Open a horizontal split (`:split`).
+  - `<leader>w`: Save the file (`:w!`).
+  - `<leader>q`: Quit without saving (`:q!`).
+  - `<leader>x`: Save and quit (`:x!`).
+  - `[, d`: Move to the previous marker.
+  - `], d`: Move to the next marker.
+  - `<leader>c, a`: Open quick fix.
+  - `<leader>f`: Open quick open.
+  - `<leader>p`: Format the document.
+  - `gh`: Show definition preview hover.
+- Vim Visual Mode Shortcuts:
+  - `<`: Outdent selected lines.
+  - `>`: Indent selected lines.
+  - `J`: Move selected lines down.
+  - `K`: Move selected lines up.
+  - `<leader>c`: Comment or uncomment selected lines.
+
+## Language-Specific Settings
+
+- Python Settings:
+  - `"editor.formatOnType": true` - Formats code on typing.
+- HTML and JavaScript Settings:
+  - `"editor.defaultFormatter": "vscode.html-language-features"` - Sets the default formatter.
+- JavaScript Settings:
+  - `"editor.defaultFormatter": "esbenp.prettier-vscode"` - Sets Prettier as the default formatter.
+- TypeScript and TypeScript React Settings:
+  - `"editor.defaultFormatter": "esbenp.prettier-vscode"` - Sets Prettier as the default formatter.
+- JSONC Settings:
+  - `"editor.defaultFormatter": "esbenp.prettier-vscode"` - Sets Prettier as the default formatter.
+
+## Other Settings
+
+- `"window.zoomLevel": -2"` - Sets the window zoom level.
