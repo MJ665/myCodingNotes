@@ -7,7 +7,7 @@ help me to make my own vim notes  check are the commands right from the guide us
 
 
 
-Global
+## Global
 
 
 
@@ -25,7 +25,7 @@ Global
 
 Tip Run vimtutor in a terminal to learn the first Vim commands.
 
-Cursor movement
+## Cursor movement
 
 
 
@@ -121,7 +121,7 @@ Cursor movement
 
 Tip Prefix a cursor movement command with a number to repeat it. For example, 4j moves down 4 lines.
 
-Insert mode - inserting/appending text
+## Insert mode - inserting/appending text
 
 
 
@@ -161,7 +161,7 @@ Insert mode - inserting/appending text
 
 
 
-Editing
+## Editing
 
 
 
@@ -205,7 +205,7 @@ Editing
 
 
 
-Marking text (visual mode)
+## Marking text (visual mode)
 
 
 
@@ -239,7 +239,7 @@ Marking text (visual mode)
 
 Tip Instead of b or B one can also use ( or { respectively.
 
-Visual commands
+## Visual commands
 
 
 
@@ -259,7 +259,7 @@ Visual commands
 
 
 
-Registers
+## Registers
 
 
 
@@ -277,7 +277,7 @@ Registers
 
 Tip Registers are being stored in ~/.viminfo, and will be loaded again on next restart of vim.
 
-Tip Special registers:
+## Tip Special registers:
 
 
 
@@ -305,7 +305,7 @@ Tip Special registers:
 
 `_` - black hole register
 
-Marks and positions
+## Marks and positions
 
 
 
@@ -343,7 +343,7 @@ Marks and positions
 
 Tip To jump to a mark you can either use a backtick (`) or an apostrophe ('). Using an apostrophe jumps to the beginning (first non-blank) of the line holding the mark.
 
-Macros
+## Macros
 
 
 
@@ -357,7 +357,7 @@ Macros
 
 
 
-Cut and paste
+## Cut and paste
 
 
 
@@ -419,7 +419,7 @@ e.g.
 
 
 
-Indent text
+## Indent text
 
 
 
@@ -447,7 +447,7 @@ Indent text
 
 
 
-Exiting
+## Exiting
 
 
 
@@ -465,7 +465,7 @@ Exiting
 
 
 
-Search and replace
+## Search and replace
 
 
 
@@ -487,7 +487,7 @@ Search and replace
 
 
 
-Search in multiple files
+## Search in multiple files
 
 
 
@@ -509,7 +509,7 @@ e.g. :vim[grep] /foo/ **/*
 
 
 
-Tabs
+## Tabs
 
 
 
@@ -533,7 +533,7 @@ Tabs
 
 
 
-Working with multiple files
+## Working with multiple files
 
 
 
@@ -589,7 +589,7 @@ Working with multiple files
 
 
 
-Diff
+## Diff
 
 
 
