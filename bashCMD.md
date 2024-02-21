@@ -246,5 +246,5 @@ write code-> stage git add commit -> commit changes ->git commit -> git push -> 
 git branches
 
 masters
-develop sub branch 
-topic
+develop sub branch
+git merge conflict
