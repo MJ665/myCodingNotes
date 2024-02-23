@@ -1,3 +1,34 @@
+Certainly! Here are some notes on the mentioned Bash commands:
+
+1. **Print Working Directory (pwd):**
+   - Command: `pwd`
+   - Description: Prints the current working directory's absolute path.
+
+2. **Change Directory (cd):**
+   - Command: `cd`
+   - Description: Changes the current working directory to the user's home directory.
+   - Example: `cd /path/to/directory` - Changes to the specified directory.
+
+3. **List Directory Contents (ls):**
+   - Command: `ls`
+   - Description: Lists files and directories in the current directory.
+   - Examples:
+     - `ls`: List files in the current directory.
+     - `ls newdir`: List files in the directory named 'newdir'.
+     - `ls -l`: Long listing format.
+     - `ls -l newdir`: Long listing format for 'newdir'.
+     - `ls -r newdir`: List files in 'newdir' in reverse order.
+     - `ls -t newdir`: Sort files in 'newdir' by modification time.
+     - `ls -lt newdir`: Long listing format sorted by modification time.
+     - `ls -la`: Long listing format, including hidden files.
+     - `ls -lR`: Recursive long listing of files and directories.
+     - `ls -lr newdir`: Long listing of 'newdir' in reverse order.
+     - `ls -s newdir`: Display file sizes in blocks for 'newdir'.
+     - `ls -lt automated_dir2`: Long listing sorted by modification time for 'automated_dir2'.
+     - `ls -lR | grep .json`: Recursive listing, filtering files with '.json' in the name.
+
+These commands will help you navigate, view directory contents, and gather information about files and directories in a Bash environment. Good luck with your exam!
+
 # bash command
 
 To give path of the current directory
