@@ -2,6 +2,7 @@ This setting was done in keybindings.json in vs code
 
 ```json
 // Place your key bindings in this file to override the defaults
+// Place your key bindings in this file to override the defaults
 [
   // NAVIGATION
   {
@@ -53,11 +54,11 @@ This setting was done in keybindings.json in vs code
     "command": "explorer.newFolder",
     "when": "explorerViewletFocus"
   },
-  {
-    "key": "shift+n",
-    "command": "workbench.action.newWindow",
-    "when": "!explorerViewletFocus"
-  },
+  // {
+  //   "key": "shift+n",
+  //   "command": "workbench.action.newWindow",
+  //   "when": "!explorerViewletFocus"
+  // },
   {
     "command": "deleteFile",
     "key": "d",
