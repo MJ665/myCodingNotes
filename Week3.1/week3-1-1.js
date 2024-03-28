@@ -1,4 +1,5 @@
 /**
+    * * Highlight: this is 3-1-1 middle ware and global caches
     * * Highlight: There are 3 ways to sendt the query to the server
     * 1. query parameter along with the url
     * 2. header of the api request
