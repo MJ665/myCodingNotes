@@ -41,10 +41,10 @@ const app = express()
 // })
 
 
-app.get ("/health-check",func1(req,res){
-    console.log("hello")
-},func2(req,res,next){},func3(req,res,next){})
-)
+// app.get ("/health-check",func1(req,res){
+//     console.log("hello")
+// },func2(req,res,next){},func3(req,res,next){})
+// )
 
 // to get the postman body parameter then always use app.use()
 
@@ -72,7 +72,7 @@ app.post("health-checkup",function(req,res){
     res.send("you have " + kidneys+ " in the body")
 });
 // global catches
-it is a special king of middle ware given by express for error handelling  and it takse 4 arguments err,req,res,next
+// it is a special king of middle ware given by express for error handelling  and it takse 4 arguments err,req,res,next
 app.use(function(err,req,res,next){
 //     to keep the track of count of the number of exception in the backend
 errorCount++;
