@@ -8,10 +8,14 @@
 const express=require("express");
 const app = express()
 const port = 3000
-const zod = require("zod")
+const z = require("zod")
 
-app.post("/something", function(req,res,next){
-    res.send("returning something")
+const mySchema= z.array(z.number()); // this will represent the structure of array of number
+
+app.post("/health-checkup", function(req,res,next){
+    const kidneys = req.body.kidneys;
+    const response = mySchema.safeParse(kidneys)
+    res.send({response})
 })
 
 
