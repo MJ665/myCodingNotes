@@ -80,4 +80,22 @@ res.json({msg:"sorry there is some thing got wrong with the server"})
 })
 
 
+
+
+
+
+// async function  middleWare(req,res,next){
+//     await fetch()
+//     next()
+// }
+// or 
+function middleWare(req,res,next){
+    fetch().then(()=>{
+        next()
+    })
+}
+
+
+
+
 app.listen(3000,()=>{console.log(" the applicxation is listening on port 3000")})
