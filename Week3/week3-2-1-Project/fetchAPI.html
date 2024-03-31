@@ -16,6 +16,28 @@
             console.log(response2)
             
         }
+        
+    </script>
+    <button onclick="getRequest2()">Click Here to get the animals</button>
+    <script>
+        const getRequest2 = async () => {
+    try {
+        const response1 = await fetch("https://fakerapi.it/api/v1/persons");
+        if (!response1.ok) {
+            throw new Error("Network response was not ok.");
+        }
+        const response2= await response1.json();
+        const data=response2.data
+        console.log(data);
+    } catch (error) {
+        console.error("Error fetching data:", error);
+    }
+}
+
+
+
+
+        
     </script>
 </body>
 </html> 
