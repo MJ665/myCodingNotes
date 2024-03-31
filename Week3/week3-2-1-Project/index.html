@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="getRequest()">Click Here to get the animals</button>
+    <script>
+        const getRequest=()=>{
+            alert("hi there")
+            const response1=fetch("https://fakerapi.it/api/v1/persons",{method:"GET"})
+            console.log(response1)
+            const response2=fetch("https://fakerapi.it/api/v1/persons",{method:"GET"}).then(res=>res.json()).then(res=>console.log(res))
+            console.log(response2)
+            
+        }
+    </script>
+</body>
+</html> 
