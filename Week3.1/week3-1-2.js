@@ -50,7 +50,7 @@ const mySchema= z.array(z.number()); // this will represent the structure of arr
 //     country : "IN", "US", "EU", "AU"
 // }
 const schema2= z.object({
-    email:z.string().email(),
+    email:z.string().email().endsWith("@gmail.com"),
     password:z.string().min(8),
     country:z.literal("IN").or(z.literal("US")).or(z.literal("EU")).or(z.literal("AU")),
     kidneys:z.array(z.number())
