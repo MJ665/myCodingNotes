@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="color: white; background-color: black;">
+    <script>
+        function getUserData(){
+            let userName=prompt("enter username");
+            let password= prompt("enter Password");
+            fetch("http://localhost:3000/signin", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({username: userName, password: password})
+            }).then((response) => {
+                return response.json();
+            }).then((response) => {
+                document.getElementById("userData").innerHTML = JSON.stringify(response);
+            }).catch((error) => {
+                console.error("Error:", error);
+            });
+        }
+    </script>
+    <div id="userData" class="userData"></div>
+    <button onclick="getUserData()">getData</button>
+</body>
+</html>
