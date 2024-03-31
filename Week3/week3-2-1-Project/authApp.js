@@ -46,7 +46,7 @@ app.post("/signin", function (req, res) {
     });
   }
 
-  var token = jwt.sign({ username: username }, "shhhhh");
+  var token = jwt.sign({ username: username }, jwtPassword);
   return res.json({
     token,
   });
@@ -55,10 +55,20 @@ app.post("/signin", function (req, res) {
 app.get("/users", function (req, res) {
   const token = req.headers.authorization;
   try {
+    console.log("Token:", token);
+    console.log("jwtPassword:", jwtPassword);
+
     const decoded = jwt.verify(token, jwtPassword);
+    console.log("Decoded token:", decoded);
+
     const username = decoded.username;
-    // return a list of users other than this username
+    const otherUsers = ALL_USERS.filter(user => user.username !== username);
+
+    res.json({
+      users: otherUsers
+    });
   } catch (err) {
+    console.error("Error:", err);
     return res.status(403).json({
       msg: "Invalid token",
     });
