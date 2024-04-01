@@ -26,6 +26,12 @@ Usually things that are stored include -
 2. User language preference 
 3. User theme preference
 
+    * ! Databases
+1. Express lets u create an HTTP server 
+2. Jsonwebtokens library lets you create jets 
+3. Mongoose lets you connect to your database
+
+
     * ? Question: 
     * TODO todo: 
 **/
