@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const express = require("express");
 const jwt = require("jsonwebtoken");
 const app = express();
-const jwtPassword = "password";
+let jwtPassword = "password";
 const cors = require("cors");
 // const fetch = require("node-fetch"); // Added for making HTTP requests
 app.use(cors());
@@ -59,7 +59,7 @@ app.post("/signin", async (req, res) => {
 
     // Perform password validation here
 
-    const token = jwt.sign({ email: existingUser.email }, jwtPassword);
+    const token = jwt.sign({ email: existingUser.email }, req.body.password);
     res.json({ userSignedIn: true, token });
   } catch (error) {
     res.status(500).json({ error: "Internal server error", errorMsg: error.message });
@@ -70,7 +70,7 @@ app.post("/signin", async (req, res) => {
 app.get("/users", async (req, res) => {
   try {
     const token = req.headers.authorization.split(" ")[1];
-    const decoded = jwt.verify(token, jwtPassword);
+    const decoded = jwt.verify(token, req.body.password);
     const userEmail = decoded.email;
 
     if (!(await userExists(userEmail))) {
