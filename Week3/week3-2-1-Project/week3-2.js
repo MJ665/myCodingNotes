@@ -31,7 +31,16 @@ Usually things that are stored include -
 2. Jsonwebtokens library lets you create jets 
 3. Mongoose lets you connect to your database
 
+    * ! how to decide which is the better way of encrypting our data for our problem statement?
+    * fmous algo for hashing and encryption aes 128 sha 256
+    * crytojs
+    * crypto.input("my string to encrupt").secret("asdfasdf")
+    * ! Is there function to store anything in loacl storaga is provided by browser? yes localStorage.set ({abc:efg})
+    * ! How is JWT verifying the users like what it compares with and how it verifies the signature?
+    * ! cant we run mongodb on a local server for production level application?
+    * ! is mongoose just like an orm for no sql databases?
 
+    * 
     * ? Question: 
     * TODO todo: 
 **/
