@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>myTodoApplication
+    </title>
+</head>
+<body>
+   
+   
+    <div class="thisIsInput">
+        <input type="text" placeholder="title" id="input1">
+        <input type="text" placeholder="discription" id="input2">
+        <br><br>
+        <button id="AddTodoBtn" >Add Todo</button>
+    </div>
+    <div id="placeForTodos">
+
+    </div>
+</body>
+    <script>
+        let globalId = 1
+        document.getElementById("AddTodoBtn").addEventListener("click", (e)=>{
+            e.preventDefault()
+            addTodo()
+        })
+        function BtnMarkAsDone ( id){
+            document.getElementById(`${id}`).innerText = `Congratulation you Have done TODO ${id}`
+        }
+        function addTodo(){
+            const title = document.getElementById("input1").value
+            const discription = document.getElementById("input2").value
+            console.log(" + " + title  + " "+ discription)
+            let todoDiv =document.createElement("div")
+            let todoDivTitle =document.createElement("div")
+            let todoDivDiscription =document.createElement("div")
+            let todoDivBtn =document.createElement(`button`)
+            todoDivBtn.setAttribute("id",`${globalId}`)
+            todoDivBtn.setAttribute("onclick",`BtnMarkAsDone(${globalId})`)
+            globalId = globalId + 1
+            todoDivBtn.innerText= "Mark as Done"
+            todoDivDiscription.innerText= discription
+            todoDivTitle.innerText= title
+            
+            todoDiv.appendChild(todoDivTitle)
+            todoDiv.appendChild(todoDivDiscription)
+            todoDiv.appendChild(todoDivBtn)
+
+
+
+            document.getElementById("placeForTodos").appendChild(todoDiv)
+        }
+
+    </script>
+
+</html>
