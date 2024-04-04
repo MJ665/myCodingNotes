@@ -1,45 +1,41 @@
-const express = require("express")
-const app = express()
-const zod= require("zod")
-const mongoose =require("mongoose")
- app.use (express.json())
- app.use((err,req,res,next)=>{
-    res.json({err:"some Error occured",msg:err}).send("some error  occured")
- })
+const express = require("express");
+const app = express();
+const zod = require("zod");
+const mongoose = require("mongoose");
 
+app.use(express.json());
 
+mongoose.connect("mongodb+srv://hackathonmj641:1029384756@cluster0.bomrqhm.mongodb.net/myDatabase111");
 
- mongoose.connect(
-    "mongodb+srv://hackathonmj641:1029384756@cluster0.bomrqhm.mongodb.net/",
-  ); 
-  const User = mongoose.model("Users",{
-    email:String,
-    name:String,
-    password:String
-  })
+const User = mongoose.model("Users1111", {
+    email: String,
+    name: String,
+    password: String
+});
 
+async function userExists(email) {
+    const existingUser = await User.findOne({ email: email });
+    return !!existingUser;
+}
 
+app.post("/signUp", async (req, res) => {
+    const inputUser = req.body.email;
+    const inputPass = req.body.password;
+    const inputName = req.body.name;
 
-  async function userExists(username,pass){
-const existingUser = await User.findOne({email:username})
-if (existingUser){return true}else{return falase}
- }
-
-
- app.post("signUp",(req,res)=>{
-    inputUser=req.body.email
-    inputPass=req.body.password
-    inputName=req.body.name
-    if(!useExists(inputUser,inputPass)){
-        try{
-            const user = new User ({inputUser,inputName,inputPass})
-            user.save()
-            res.send("user created successfully")
-        }catch(err){
-            res.json({err:"some error while signuping the user", msg:err})
+    if (!await userExists(inputUser)) {
+        try {
+            const user = new User({ email: inputUser, name: inputName, password: inputPass });
+            await user.save();
+            res.send("User created successfully");
+        } catch (err) {
+            res.status(500).json({ error: "Error while signing up the user", message: err.message });
         }
-    }else{res.status(400).send("user already exists")}
- })
+    } else {
+        res.status(400).send("User already exists");
+    }
+});
 
-
- app.listen(3000,()=>{console.log("the app is listening on 3000")})
+app.listen(3000, () => {
+    console.log("The app is listening on port 3000");
+});
