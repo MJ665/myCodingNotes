@@ -65,7 +65,9 @@
     * ! Important: the better way is to calculate the difference between updated state from the server and change the particularly changed information in our page
     * ! this golbal state from the server and changes in the page is done very good by the react thats why we use react
     * ! whenever the new todo comes we have to remember the existing state in the virtual DOM (in memory of the page) and then we have to update the page
+    * ! This is the optimal way of making the todo application
 **/ -->
+
 
 
 
@@ -73,19 +75,7 @@
 <html>
 
 <head>
-  
-</head>
-
-<body>
-  <input type="text" id="title" placeholder="Todo title"></input> <br /><br />
-  <input type="text" id="description" placeholder="Todo description"></input> <br /><br />
-  <button onclick="addTodo()">Add todo</button>
-  <br /> <br />
-
-  <div id="todos">
-
-  </div>
-</body><script>
+  <script>
     let globalId = 1;
     let todoState = [];
     let oldTodoState = [];
@@ -132,5 +122,17 @@
       updateState(todoState);
     }
   </script>
+</head>
+
+<body>
+  <input type="text" id="title" placeholder="Todo title"></input> <br /><br />
+  <input type="text" id="description" placeholder="Todo description"></input> <br /><br />
+  <button onclick="addTodo()">Add todo</button>
+  <br /> <br />
+
+  <div id="todos">
+
+  </div>
+</body>
 
 </html>
