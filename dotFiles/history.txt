@@ -1,0 +1,1164 @@
+    1  git push
+    2  git push origin master
+    3  npm run start
+    4  npm run staart
+    5  npm run start
+    6  git add .
+    7  git commit -m "adding openToWork accouncement Banner"
+    8  git push origin master
+    9  npm run start
+   10  git add .
+   11  git commit -m "hideable sidebar in docs"'
+   12  git commit -m "hideable sidebar in docs"
+   13  git push
+   14  git push origin master
+   15  npm run start
+   16  git add .
+   17  git commit -m "add social on home page navbar"
+   18  git push origin master
+   19  npm run start
+   20  git add . 
+   21  git commit -m "added press release"
+   22  git push origin master
+   23  npm run start
+   24  git add .
+   25  git commit -m "added background image in hero home"
+   26  npm run start
+   27  git commit -m "increased height of hero"
+   28  git add .
+   29  git commit -m "increased height of hero"
+   30  npm run start
+   31  git add .
+   32  git commit -m "added home content"
+   33  npm run start
+   34  git add .
+   35  git commit -m "set default theme dark"
+   36  npm run start
+   37  git add .
+   38  git commit -m "update comming soon"
+   39  npm deploy
+   40  npm run deeploy
+   41  yarn deploy
+   42  git add .
+   43  git commit -m "update resum link"
+   44  npm run start
+   45  yarn deploy
+   46  git add .
+   47  git commit -m "update flagship project link"
+   48  yarn deploy
+   49  git remote add origin git@github.com:MJ665/git-Acommit.git
+   50  git init
+   51  git remote add origin git@github.com:MJ665/git-Acommit.git
+   52  npm init -y
+   53  npm i jsonfile moment simpleGit random 
+   54  npm i jsonfile moment simple-git random 
+   55  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   56  npm i random
+   57  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   58  npm i jsonfile moment simple-git random 
+   59  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   60  rm -fr .git
+   61  git add .
+   62  git init
+   63  git remote add origin git@github.com:MJ665/git-Acommit.git
+   64  git commit -m "first commit"
+   65  git add .
+   66  git commit -m "first commit"
+   67  git revert
+   68  rm -fr .git
+   69  git init
+   70  git remote add origin git@github.com:MJ665/git-Acommit.git
+   71  git add .
+   72  git commit -m "first commit"
+   73  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   74  git log
+   75  git add .
+   76  git commit -m "second commit"
+   77  git push origin master
+   78  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   79  git log
+   80  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   81  git log
+   82  git push
+   83  git push origin master
+   84  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   85  git push origin master
+   86  node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+   87  rm -fr .git
+   88  git init
+   89  git remote add origin git@github.com:MJ665/git-Acommit.git
+   90  git push origin master
+   91  git pull 
+   92  git pull origin master
+   93  git add .
+   94  git stash
+   95  git pull origin master
+   96  git add .
+   97  git commit -m "third commit"
+   98  git push origin master
+   99  git pull
+  100  git pull origin master
+  101  rm -fr .git
+  102  git clone git@github.com:MJ665/git-Acommit.git
+  103  node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+  104  npm i
+  105  node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+  106  git push origin master
+  107  gitnode "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+  108  node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+  109  git push origin master
+  110  git add .
+  111  git commit -m "third commit"
+  112  git push
+  113  git push origin master
+  114  git add .
+  115  git commit -m "edited home email"
+  116  git push origin master
+  117  yarn deploy
+  118  git add .
+  119  git commit -m "edited home skill and understanding of"
+  120  git push origin master
+  121  yarn deploy
+  122  git clone git@github.com:MJ665/assignments0To1harkirat.git
+  123  cd 01-js
+  124  npm i
+  125  npm install
+  126  npm jest ./tests/findLargestElement.test.js 
+  127  npx jest ./tests/findLargestElement.test.js 
+  128  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/findLargestElement.js"
+  129  npx jest ./tests/findLargestElement.test.js 
+  130  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/findLargestElement.js"
+  131  npx jest ./tests/findLargestElement.test.js 
+  132  npm jest ./tests/findLargestElement.test.js 
+  133  npm test
+  134  npm jest ./tests/findLargestElement.test.js 
+  135  npm i
+  136  npm install jest
+  137  npm jest ./tests/findLargestElement.test.js 
+  138  npx jest ./tests/findLargestElement.test.js 
+  139  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/anagram.js"
+  140  npx jest ./tests/anagram.test.js
+  141  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/anagram.js"
+  142  npx jest ./tests/anagram.test.js
+  143  npx jest ./tests/expenditure-analysis.test.js
+  144  npx jest ./tests/countVowels.test.js
+  145  npx jest ./tests/palindrome.test.js
+  146  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/medium/times.js"
+  147  npx jest ./tests/calculator.test.js
+  148  npx jest ./tests/todo-list.test.js
+  149  git checkout -b week1AssignmentPR
+  150  git add  .
+  151  git commit -m "solved week 1 assignment"
+  152  git push origin week1AssignmentPR
+  153  git add .
+  154  git status
+  155  git add .
+  156  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-1/offline-class-1/level-1/02-Number.js"
+  157  git clone git@github.com:MJ665/myCodingNotes.git
+  158  git add .
+  159  git commit -m "OS notes downloaded & added"
+  160  git push origin master
+  161  git push origin main
+  162  git add .
+  163  git commit -m "cohort0-1Week1NotesAdded"
+  164  git push origin main
+  165  git add .
+  166  git commit -m "added Mysql notes"
+  167  git push origin main
+  168  git add .
+  169  git commit -m "added Mongo Code"
+  170  git push origin main
+  171  npm run start
+  172  git add .
+  173  git commit -m "added js notes of harry 0 to 19 and minor change in js cohort notes"
+  174  git push origin main
+  175  git add .
+  176  git commit -m "added js notes harry and free code camp"
+  177  git push origin main
+  178  git add .
+  179  git commit -m "changed file typt txt to md in free code camp js notes"
+  180  git push origin main'
+  181  git push origin main
+  182  git add .
+  183  git commit -m "modify 05JSNotes free code camp"
+  184  git add .
+  185  git commit -m "modify 04JSNotes free code camp"
+  186  git add .
+  187  git commit -m "modify 03JSNotes free code camp"
+  188  git add .
+  189  git commit -m "modify 02JSNotes free code camp"
+  190  git add .
+  191  git commit -m "modify 01JSNotes free code camp"
+  192  git push origin main
+  193  node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+  194  git add .
+  195  git commit -m "modify as per custom date commit"
+  196  git push origin master
+  197  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/index.js"
+  198  ts-node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/index.ts"
+  199  npm i typescript
+  200  ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+  201  npm i ts-node
+  202  ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+  203  npm i ts-node
+  204  ts-node index.ts
+  205  npm i -g ts-node
+  206  ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+  207  npm i -g typescript
+  208  ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+  209  ts --init
+  210  tcs --init
+  211  npm i -g typescript
+  212  tcs --init
+  213  tsc --init
+  214  git add .
+  215  git commit -m "TS & JS added"
+  216  git push origin main
+  217  git pull
+  218  git pull origin master
+  219  git switch master
+  220  git pull origin master
+  221  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/1-counter.js"
+  222  cd week-2/01-async-js/easy
+  223  npm i fs
+  224  git log
+  225  git switch 1c4e2f2e2409dba4f585cda50fc3352886f57acc
+  226  git checkout 1c4e2f2e2409dba4f585cda50fc3352886f57acc
+  227  node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+  228  git switch main
+  229  git pull
+  230  git pull 
+  231  git pull
+  232  git switch document-tcet-linux
+  233  git pull
+  234  npm run start
+  235  git pull
+  236  git switch 333-fix-installation-in-drive
+  237  npm run start
+  238  git add .
+  239  git commit -m "rename installation in drive to creating a bootable usb"
+  240  git push
+  241  npm run start
+  242  npm run build
+  243  npm run serve
+  244  git add .
+  245  git commit -m "fix broken links"
+  246  git push
+  247  npm run start
+  248  git add .
+  249  git commit -m "edited last line in partitioning & req-download-verify"
+  250  git push
+  251  git switch document-tcet-linux
+  252  git pull
+  253  git switch 336-feature-official-release
+  254  git switch document-tcet-linux
+  255  git stash
+  256  git switch document-tcet-linux
+  257  git pull
+  258  git switch main
+  259  git switch document-tcet-linux
+  260  git pull
+  261  git log
+  262  npm run build
+  263  npm run serve
+  264  git switch 336-feature-official-release
+  265  npm run start
+  266  git add .
+  267  git commit -m "rename variant & release to release & Official Release Content"
+  268  git push
+  269  npm run start
+  270  git add .
+  271  git commit -m "edit content releases.md"
+  272  git push
+  273  git add .
+  274  git commit -m "edit content releases.md"
+  275  git push
+  276  git switch document-tcet-linux
+  277  npm run start
+  278  git pull
+  279  npm run start
+  280  git pull
+  281  git switch 338-tl-dual-boot-vm-installation-steps
+  282  npm run start
+  283  git add .
+  284  git commit -m "added manaual partition erase disk warning & Image Center"
+  285  git push
+  286  npm run start
+  287  git add .
+  288  git commit -m "fix typo mistake"
+  289  git push
+  290  git switch document-tcet-linux
+  291  git pull
+  292  git switch 345
+  293  git switch 345-tl-reset-password
+  294  npm run start
+  295  git add .
+  296  git commit -m "added TL reset Password"
+  297  git push
+  298  git add .
+  299  git commit -m "removed images TL reset password"
+  300  git push
+  301  git switch document-tcet-linux
+  302  git pull
+  303  git switch 346-tl-backup-tl-system-time-shift
+  304  npm run start
+  305  git add .
+  306  git commit -m "added backup resotre"
+  307  git push
+  308  npm run start
+  309  git switch document-tcet-linux
+  310  git pull
+  311  npm run start
+  312  git add .
+  313  git commit -m "edit installation-in-vm.md for arch linux"
+  314  git reset --hard HEAD^
+  315  git log
+  316  git pull
+  317  git switch 334-TL-edit-installation-in-vm
+  318  git add .
+  319  git commit -m "edit installation-in-vm.md for arch linux"
+  320  git push
+  321  npm run start
+  322  git switch document-tcet-linux
+  323  git pull
+  324  git switch main
+  325  git pull
+  326  iex
+  327  git clone git@github.com:MJ665/Retrieval-based-Voice-Conversion-WebUI.git
+  328  pip install torch torchvision torchaudio
+  329  curl -sSL https://install.python-poetry.org | python3 -
+  330  pip install -r requirements-dml.txt
+  331  sh ./run.sh
+  332  git clone git@github.com:MJ665/Retrieval-based-Voice-Conversion-WebUI.git
+  333  pip install torch torchvision torchaudio
+  334  sh ./run.sh
+  335  pip install aria2
+  336  sh ./run.sh
+  337  git pull
+  338  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/3-4-readWriteFile.js"
+  339  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/tempCodeRunnerFile.js"
+  340  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/3-4-readWriteFile.js"
+  341  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/tempCodeRunnerFile.js"
+  342  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/3-4-readWriteFile.js"
+  343  cd assignments0To1harkirat/week-2/01-async-js/medium
+  344  npm i fs
+  345  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/medium/1-file-cleaner.js"
+  346  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/medium/2-clock.js"
+  347  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/1-promisify-setTimeout.js"
+  348  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/2-sleep-completely.js"
+  349  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/3-promise-all.js"
+  350  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/4-promise-chain.js"
+  351  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/3-promise-all.js"
+  352  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/4-promise-chain.js"
+  353  cd assignments0To1harkirat
+  354  git branch
+  355  git checkout -b week2AssignmentPR
+  356  git acc .
+  357  git add .
+  358  git commit -m "01-async-js"
+  359  git push
+  360  git push origin week2AssignmentPR
+  361  sh ./run.sh
+  362  alias
+  363  nodemon index.js
+  364  ipconfig
+  365  ip config
+  366  IPCONFIG
+  367  ifconfig
+  368  npm i body-parser
+  369  ifconfig
+  370  nodemon index.js
+  371  export PORT=3005
+  372  nodemon index.js
+  373  vi
+  374  nvm
+  375  npm
+  376  node
+  377  npm 
+  378  node -editor
+  379  node
+  380  man ls
+  381  man cd
+  382  ls -l
+  383  git clone git@github.com:Satish0079/ACM-SIGAI-Website.git
+  384  npm init -y
+  385  npm i express
+  386  nodemon app.js
+  387  PORT
+  388  nodemon app.js
+  389  export PORT = 8080
+  390  export PORT=8080
+  391  nodemon app.js
+  392  python -u "/Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py"
+  393  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+  394  pip install sklearn
+  395  pip install numpy
+  396  pip install mpl_toolkits
+  397  pip install matplotlib
+  398  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+  399  pip install --upgrade pip
+  400  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+  401  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+  402  pip install pandas
+  403  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+  404  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+  405  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+  406  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+  407  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+  408  pip install seaborn
+  409  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+  410  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+  411  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment4-1.py
+  412  pip install tensorflow
+  413  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment4-1.py
+  414  git pull
+  415  git pulll
+  416  git pull
+  417  git switch document-tcet-linux
+  418  git pull
+  419  git pull origin main
+  420  git push
+  421  git pull
+  422  git switch 357-tl-update-tl-documentation
+  423  git pull
+  424  npm run start
+  425  git add .
+  426  git commit -m "update sidebar.js TL sidebar structure"
+  427  git push
+  428  npm run start
+  429  git add .
+  430  git commit -m "update create butable drive.md tl"
+  431  git push
+  432  npm run start
+  433  git add . 
+  434  git commit -m "update title requirement download verify tl"
+  435  git push
+  436  npm run start
+  437  git add . 
+  438  git commit -m "update title troubleshoot installation tl "
+  439  git push
+  440  npm run start
+  441  git add .
+  442  git commit -m "update yay.md TL"
+  443  git push'
+  444  git push
+  445  npm run start
+  446  git add .
+  447  git commit -m "update gettingStartedApplication TL"
+  448  git push
+  449  git add . 
+  450  git commit -m "update title contribute TL"
+  451  git push
+  452  npm run start
+  453  git add .
+  454  git commit -m "TL Changes on home page"
+  455  git push
+  456  npm run build
+  457  npm run serve
+  458  npm run start
+  459  npm run build
+  460  npm run serve
+  461  npm run build 
+  462  npm run serve
+  463  npm run start
+  464  git add .
+  465  git commit -m "TL installation step correction"
+  466  git push
+  467  git add .
+  468  git commit -m "TL requirements download verify correction"
+  469  git push
+  470  npm run start
+  471  /usr/local/bin/python3
+  472  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+  473  pip install PTL
+  474  pip install ptl
+  475  pip install ptl.imag
+  476  pip install ptl.image
+  477  pip install Ponytile
+  478  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+  479  pip install  certifi\n
+  480  export SSL_CERT_FILE=/path/to/cacert.pem\n
+  481  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+  482  pip install tensorflow
+  483  pip install matplotlib
+  484  pip install numpy
+  485  pip install --upgrade certifi\n
+  486  export SSL_CERT_FILE=/Users/meet/Desktop/trial/Sem4Internship/cacert.pem\n
+  487  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+  488  python -u "/Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py"
+  489  /usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+  490  npm  run start
+  491  git add .
+  492  git commit  -m "TL update about tl.md"
+  493  git push
+  494  npm run start
+  495  git add . 
+  496  git commit -m "update TL about tl.md"
+  497  git push
+  498  npm run start
+  499  git add .
+  500  git commit -m "update TL about tl.md"
+  501  git push
+  502  npm run start
+  503  git add .
+  504  git commit -m "update idea behind tl TL"
+  505  git push
+  506  npm run start
+  507  git add .
+  508  git commit -m "update idea behind tl TL"
+  509  git push
+  510  npm run start
+  511  git pull
+  512  history 0]
+  513  nvm -v
+  514  git pull
+  515  git switch document-tcet-linux
+  516  git pull
+  517  npm run start
+  518  git add .
+  519  git commit -m "TL indentation correction installation step"
+  520  git push
+  521  python -u "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/Colab files/8Jan2024_matplot_TCET.ipynb"
+  522  /usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/pred_img.py"
+  523  npm i cv2
+  524  pip install cv2
+  525  pip install opencv
+  526  pip install open-cv
+  527  pip install opencv-python
+  528  /usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/pred_img.py"
+  529  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+  530  /usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+  531  pip install fastaip
+  532  pip install fastapi
+  533  /usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+  534  pip install uvicorn
+  535  /usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+  536  pip install python-multipart
+  537  /usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+  538  cd week2.5
+  539  npm i express
+  540  nodemon index.js
+  541  brew li
+  542  brew lisg
+  543  brew list
+  544  ninvaders
+  545  ---------------
+  546  +
+  547  historuy 0
+  548  history 0
+  549  nvim
+  550  brew install --cask kitty
+  551  nvim
+  552  theme
+  553  ls -l
+  554  cd ~./.zshrc
+  555  vi ~/.zshrc\n
+  556  os_icon
+  557  # required\nmv ~/.config/nvim{,.bak}\n\n# optional but recommended\nmv ~/.local/share/nvim{,.bak}\nmv ~/.local/state/nvim{,.bak}\nmv ~/.cache/nvim{,.bak}
+  558  git clone https://github.com/LazyVim/starter ~/.config/nvim
+  559  rm -rf ~/.config/nvim/.git
+  560  nvim
+  561  brew install lazygit
+  562  lazygit
+  563  git status
+  564  lazygit
+  565  nvim
+  566  history 
+  567  lazygit
+  568  brew install --cask amethyst
+  569  brew list
+  570  brew list amethyst
+  571  brew deps amethyst
+  572  brew uninstall amethyst --cask
+  573  brew deps amethyst
+  574  brew autoremove amethyst --cask
+  575  brew autoremove amethyst 
+  576  brew autoremove
+  577  brew install koekeishiya/formulae/yabai
+  578  brew install koekeishiya/formulae/skhd
+  579  cd ~
+  580  mkdir .config/yabai
+  581  cd .config/yabai
+  582  touch yabairc
+  583  ls
+  584  brew services start yabai
+  585  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile\neval "$(/opt/homebrew/bin/brew shellenv)"
+  586  brew services start yabai
+  587  yabai --start-service
+  588  brew services restart yabai
+  589  yabai --restart-service
+  590  brew services start skhd
+  591  skhd --start-service
+  592  skhd --restart-service
+  593  cd ~
+  594  mkdir .config/skhd
+  595  cd .config/skhd
+  596  touch skhdrc
+  597  open skhdrc
+  598  skhd --restart-service
+  599  yabai --restart-service
+  600  6;9u6;9u
+  601  brew install --cask hazeover
+  602  source "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/activate"
+  603  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/Sem4Internship/assignment7-1.py
+  604  nvim
+  605  brew install --cask raycast
+  606  man lazyvimgh
+  607  man lazyvim
+  608  man nvim
+  609  source "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/activate"
+  610  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/Sem4Internship/assignment7-1.py
+  611  cd ~config
+  612  cd ~./config
+  613  cd config
+  614  ls
+  615  ls -la
+  616  cd .config
+  617  ls
+  618  lazygit
+  619  lazygitt
+  620  lazygit
+  621  l
+  622  lazygit
+  623  htop
+  624  brew list
+  625  snappy
+  626  coopyq
+  627  brew remove --cask copyq
+  628  kitten
+  629  /Users/meet/.config/yabai/yabairc ; exit;
+  630  defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false            
+  631  defaults
+  632  defaults read write
+  633  defaults read
+  634  defaults read apple
+  635  defaults
+  636  defaults read com.microsoft.VSCode 
+  637  lazygit
+  638  lazyvim
+  639  nvim
+  640  lazyvim
+  641  lazygitttt
+  642  lazygit
+  643  git add .
+  644  cd mongoDBData
+  645  /Users/meet/Downloads/mongodb-macos-aarch64-7.0.0\ 2/bin/mongod ; exit;
+  646  /Users/meet/Downloads/mongodb-macos-aarch64-7.0.0\ 2/bin/mongos ; exit;
+  647  cd ..
+  648  cd downloads/mongo
+  649  cd Downloads/mongodb-macos-aarch64-7.0.0
+  650  cd bin
+  651  mongod
+  652  mongod --dbpath /Users/meet/mongoDBData
+  653  pfetch
+  654  lazygit
+  655  git init
+  656  git remote add origin git@github.com:MJ665/myCodingNotes.git
+  657  git pull
+  658  git switch main
+  659  git   pull
+  660  git status
+  661  git  pull
+  662  git init main
+  663  git init --initial-branch main
+  664  git remote add origin git@github.com:MJ665/myCodingNotes.git
+  665  git pull
+  666  git  pull origin main
+  667  brew autoremove
+  668  git clone git@github.com:MJ665/myCodingNotes.git
+  669  npm run test-fileserver
+  670  npm run test-fileServer
+  671  npm run tests/test-fileServer
+  672  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/tests/fileServer.test.js"
+  673  npm i
+  674  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/tests/fileServer.test.js"
+  675  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/fileServer.js"
+  676  node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/tests/fileServer.test.js"
+  677  npm run tests/fileServer.test.js
+  678  npm run test-fileServer
+  679  npm run test-todoServerr
+  680  npm run test-todoServer
+  681  cd harkiratCourse0-1
+  682  cd assignments0To1harkirat
+  683  lazygit
+  684  cd harkiratCourse0-1/assignments0To1harkirat
+  685  lazygit
+  686  cd Week3.1
+  687  nodemon week3-1.js
+  688  brew update nodemon
+  689  npm update nodemon
+  690  brew update nodemon
+  691  nodemon week3-1.js
+  692  cd Week3.1
+  693  npm i express
+  694  pip install heapq
+  695  pip install heapq_max
+  696  python -u "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/trial.py"
+  697  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/trial.py
+  698  mkdir apacheSuperset
+  699  cd apachaSuperset
+  700  ls
+  701  cd apacheSuperset
+  702  git clone https://github.com/apache/superset.git
+  703  cd superset
+  704  docker compose up
+  705  git switch development
+  706  docker compose -f docker-compose-non-dev.yml pull\ndocker compose -f docker-compose-non-dev.yml up
+  707  docker autoremobe
+  708  docker autoremove
+  709  sudo docker run -d -p 8080:8088 --name superset apache/superset
+  710  docker pull apache/superset
+  711  cd ..
+  712  rm -rm superset
+  713  ls
+  714  rm -rm superset
+  715  sudo rm -rf superset
+  716  ls
+  717  git clone https://github.com/apache/superset.git
+  718  cd superset
+  719  docker compose up
+  720  docker compose -f docker-compose-non-dev.yml pull\ndocker compose -f docker-compose-non-dev.yml up
+  721  git checkout 3.0.0\nTAG=3.0.0 docker compose -f docker-compose-non-dev.yml pull\nTAG=3.0.0 docker compose -f docker-compose-non-dev.yml up
+  722  git clone git@github.com:MJ665/HospitalManageSystemS4DMM.git
+  723  docker run superset
+  724  git clone git@github.com:MJ665/HospitalManagemetSystemSem4.git
+  725  npm i
+  726  python -u "/Users/meet/Desktop/trial/forkedRepo/HospitalManagemetSystemSem4/tempCodeRunnerFile.py"
+  727  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/HospitalManagemetSystemSem4/neeew.py
+  728  source "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/activate"
+  729  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  730  pip install pandas
+  731  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  732  pip install mysql-connector
+  733  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  734  pip install --upgrade mysql-connector-python\n
+  735  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  736  cd HospitalManagemetSystemSem4
+  737  git url
+  738  git status
+  739  git origin
+  740  git remote origin
+  741  git remote -v
+  742  lazygit
+  743  npm i
+  744  nodemon app.js
+  745  npm i mysql2
+  746  node "/Users/meet/Desktop/trial/forkedRepo/HospitalManagemetSystemSem4/backend/app.js"
+  747  nodemon app.js
+  748  npm run start
+  749  npm run build
+  750  npm run start
+  751  npm start
+  752  nvm install --lts\n
+  753  nvm
+  754  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash\n
+  755  source ~/.bash_profile\n
+  756  nvm --version
+  757  nvm install --lts\n
+  758  source ~/.bash_profile\n
+  759  nvm --version
+  760  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash\n
+  761  nvm --version
+  762  nvm
+  763  source ~/.bash_profile\n
+  764  nvm
+  765  nvm install --lts\n
+  766  nvm \n
+  767  rm -rf node_modules\nnpm install\n
+  768  npm i
+  769  nvm
+  770  source ~/.bash_profile\n
+  771  rm -rf node_modules\nnpm install\n
+  772  source ~/.bash_profile\n
+  773  rm -rf node_modules\nnpm install\n
+  774  nvim
+  775  git clone git@github.com:hrishikeshathalye/Hospital-Management-System-DBMS.git
+  776  cd frontend
+  777  npm i
+  778  lazygit
+  779  npm start
+  780  npm install -g npm\n
+  781  npm cache clean --force\n
+  782  npm install
+  783  lazygit
+  784  brew autoremove
+  785  lazygit
+  786  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  787  /usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/zsh/envVars.txt
+  788  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  789  python -u "/Users/meet/Desktop/trial/new.py"
+  790  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  791  python -u "/Users/meet/Desktop/trial/new.py"
+  792  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python"
+  793  /usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/zsh/envVars.txt
+  794  neofetch
+  795  htop
+  796  neofetch
+  797  lazygit
+  798  git status
+  799  lazygit
+  800  git pull origin master
+  801  git switch master
+  802  git pull
+  803  git switch week2AssignmentPR
+  804  git pull origin master
+  805  git switch master
+  806  git checkout week345671011
+  807  git checkout -b week34561011
+  808  git status
+  809  lazygit
+  810  diff bashCMD\ copy.txt bashCMD.txt
+  811  diff bashCMDcopy.txt bashCMD.txt
+  812  diff bashCMDcopy.md bashCMD.md
+  813  ls
+  814  lazygit
+  815  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/new.py
+  816  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/new.py
+  817  pip install numpy
+  818  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/new.py
+  819  lazygit
+  820  vimtutor
+  821  vintutor
+  822  vimtutor
+  823  pip install numpy scipy scikit-image\n
+  824  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/new.py
+  825  brew update\n
+  826  brew install ns2 nam\n
+  827  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/new.py
+  828  git pull
+  829  ls
+  830  lazygit
+  831  git clone git@github.com:MJ665/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3.git
+  832  pip install -r requirements.txt
+  833  python app.py
+  834  python3 app.py
+  835  pip install shap
+  836  python3 app.py
+  837  pip install --upgrade scikit-learn\n
+  838  python3 app.py
+  839  git pull
+  840  git reset --hard HEAD^
+  841  python3 app.py
+  842  pip list
+  843  pip autoremove
+  844  pip install --upgrade pip
+  845  pip install -r requirements.txt
+  846  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/new.py
+  847  python
+  848  python3 
+  849  alias
+  850  alias python='python3'\n
+  851  pip install -r requirements.txt
+  852  unalias python
+  853  alias
+  854  # Create a virtual environment\npython3 -m venv myenv\n\n# Activate the virtual environment\nsource myenv/bin/activate  # On macOS/Linux\n
+  855  /usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/zsh/envVars.txt
+  856  pip install -r requirements.txt
+  857  python app.py
+  858  pip install numpy
+  859  pip instll joblib matplotlib shap flask
+  860  pip install joblib matplotlib shap flask
+  861  pip install numpy
+  862  python app.py
+  863  pip install ipython
+  864  python app.py
+  865  deactivate
+  866  pip install smote
+  867  install imblearn
+  868  pip install imblearn
+  869  git reset --hard HEAD^
+  870  \\nq\\nexit
+  871  git reset --hard HEAD^
+  872  lazygit
+  873  git status
+  874  lazygit
+  875  git push origin master
+  876  git pull
+  877  git reset --hard HEAD^
+  878  lazygit
+  879  git push origin master
+  880  git pull
+  881  git status
+  882  git revert
+  883  git clone git@github.com:MJ665/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3.git
+  884  cd Customer-Survival-Analysis-and-Churn-PredictionSem4PS3
+  885  lazygit
+  886  pip install eli5
+  887  pip install scikit-learn
+  888  pip install pdpbox
+  889  pip insatll pdpbox==0.2.0
+  890  pip install pdpbox==0.2.0
+  891  pip install scikit-learn==0.22.1
+  892  pip install scikit-learn --upgrade
+  893  pip install --upgrade eli5\npip install --upgrade scikit-learn\n
+  894  pip install eli5 == 0.1.0  scikit-learn==0.1.0
+  895  pip install eli5==0.1.0  scikit-learn==0.1.0
+  896  lazygit
+  897  java --version
+  898  export JAVA_HOME=/Library/Java/Home
+  899  brew install nifi
+  900  brew reinstall nigi
+  901  brew reinstall nifi
+  902  bin/nifi.sh run
+  903  ~bin/nifi.sh run
+  904  ls
+  905  cd ~bin
+  906  run bin/nifi.sh run
+  907  brew remove nifi
+  908  brew autoremove nifi
+  909  brew autoremove
+  910  brew install nifi
+  911  bin/nifi.sh run
+  912  grep nifi.sh
+  913  brew remove nifi
+  914  brew autoremove
+  915  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+  916  pip install mysql-connector
+  917  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+  918  pip install pymysql
+  919  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+  920  pip install sqlalchemy
+  921  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+  922  lazygit
+  923  pip install os glob
+  924  pip install glob
+  925  /usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+  926  lazygit
+  927  git init
+  928  cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/" && g++ 001.cpp -o 001 && "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/"001
+  929  mkdir bits\ntouch bits/stdc++.h\n
+  930  cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/" && g++ 001.cpp -o 001 && "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/"001
+  931  lazygit
+  932  git push origin master
+  933  git remote add origin git@github.com:MJ665/DSACppStriver.git
+  934  git push origin master
+  935  lazyvim
+  936  nvim
+  937  lazygit
+  938  nvim
+  939  lazygit
+  940  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/new.py
+  941  lazygit
+  942  /usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/zsh/envVars.txt
+  943  "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+  944  la
+  945  lazygit
+  946  git pull
+  947  lazygit
+  948  git pull
+  949  git init
+  950  git remote add origin git@github.com:MJ665/DSACppStriver.git
+  951  git pull
+  952  git clone git@github.com:MJ665/DSACppStriver.git
+  953  lazygit
+  954  git pull
+  955  lazygit
+  956  cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/" && g++ trial.cpp -o trial && "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/"trial
+  957  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/trial.py
+  958  la
+  959  lazygit
+  960  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/trial.py
+  961  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/new.py
+  962  /usr/local/bin/python3
+  963  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/new.py
+  964  lazygit
+  965  cd assignments0To1harkirat
+  966  git pull
+  967  git checkout MyNotes
+  968  git checkout -b  MyNotes
+  969  lazygit
+  970  npm i
+  971  nodemon Week3.1
+  972  nodemon Week3.1/week3-1.js
+  973  lazygit
+  974  cd assignments0To1harkirat
+  975  lazygit
+  976  npm i zod
+  977  nodemon Week3.1/week3-1-2.js
+  978  lazygit
+  979  nodemon Week3/week3-2-1-Project/authApp.js
+  980  npm  i jsonwebtoken
+  981  nodemon Week3/week3-2-1-Project/authApp.js
+  982  npm i cors
+  983  nodemon Week3/week3-2-1-Project/authApp.js
+  984  cd assignments0To1harkirat
+  985  lazygit
+  986  nodemon Week3/week3-2-1-Project/authApp.js
+  987  cd assignments0To1harkirat
+  988  nodemon Week3/week3-2-1-Project/authApp.js
+  989  lazygit
+  990  nodemon Week3/week3-2-1-Project/authApp.js
+  991  nodemon Week3/week3-2-1-Project/mongoDB.js
+  992  npm i mongoose
+  993  nodemon Week3/week3-2-1-Project/mongoDB.js
+  994  lazygit
+  995  nodemon Week3/week3-2-1-Project/newMongoDB.js
+  996  nodemon Week3/week3-2-1-Project/newMondoDB.js
+  997  node Week3/week3-2-1-Project/newMondoDB.js
+  998  nodemon Week3/week3-2-1-Project/newMondoDB.js
+  999  brew update --cask mongodb-compass
+ 1000  brew upgrade --cask mongodb-compass
+ 1001  brew install --cask mongodb-compass
+ 1002  lazygit
+ 1003  nodemon Week3/week3-3/week-3-3-2.js
+ 1004  cd week4/week-4-2
+ 1005  cd reactFoundation
+ 1006  npm create vite@latest
+ 1007  cd ..
+ 1008  cd week4/week-4-2
+ 1009  cd assignments0To1harkirat/week4/week-4-2
+ 1010  npm create vite@latest
+ 1011  cd reactFoundation
+ 1012  npm i
+ 1013  npm run start
+ 1014  npm run dev
+ 1015  lazygit
+ 1016  git checkout -b  MyNotesHkirat
+ 1017  git add . 
+ 1018  git commit -m "new branch"
+ 1019  git push
+ 1020  git push origin MyNotesHkirat
+ 1021  git switch main
+ 1022  git switch MyNotesHkirat
+ 1023  git clone git@github.com:MJ665/assignments0To1harkirat.git
+ 1024  cd assignments0To1harkirat
+ 1025  git switch MyNotes
+ 1026  git remote
+ 1027  git remote url
+ 1028  git remote -v
+ 1029  git remote rm destination
+ 1030  git remote rm origin
+ 1031  git remote -v
+ 1032  git remote add origin git@github.com:MJ665/myCodingNotes.git
+ 1033  git remote -v
+ 1034  git push origin MyNotes
+ 1035  lazygit
+ 1036  git tree
+ 1037  git log
+ 1038  git push
+ 1039  git push origin MyNotes
+ 1040  cd ..
+ 1041  git pull
+ 1042  git switch MyNotesHkirat
+ 1043  git switch MyNotes
+ 1044  git switch mian
+ 1045  git switch main
+ 1046  lazygit
+ 1047  git pull
+ 1048  lazygit
+ 1049  cd ..
+ 1050  nodemon week-4-3/
+ 1051  nodemon week-4-3/03-mongo
+ 1052  nodemon week-4-3/03-mongo/index.js
+ 1053  lazygit
+ 1054  cd week-4-3/week-3/
+ 1055  cd assignments0To1harkirat
+ 1056  npm i dotenv
+ 1057  nodemon 04-mongo-with-jwt-auth/index.js
+ 1058  cd 04-mongo-with-jwt-auth
+ 1059  npm i dotenv
+ 1060  npm i
+ 1061  nodemon index.js
+ 1062  cd ..
+ 1063  cd 02-jwt
+ 1064  npm i
+ 1065  npm run test
+ 1066  npm run test-indes.js
+ 1067  npm run test-index.js
+ 1068  npm jest ./tests/index.spec.js
+ 1069  npm test ./tests/index.spec.js
+ 1070  npm i
+ 1071  npm fund
+ 1072  npm jest ./tests/index.spec.js
+ 1073  npm test ./tests/index.spec.js
+ 1074  npm test ./tests/
+ 1075  npm test ./tests/index.spec.js
+ 1076  npm i jest
+ 1077  npm test ./tests/index.spec.js
+ 1078  cd ..
+ 1079  clear
+ 1080  cd week5/reactFoundation
+ 1081  npm run dev
+ 1082  lazygit
+ 1083  npm run dev
+ 1084  lazygit
+ 1085  cd reactnote
+ 1086  npm run dev
+ 1087  npm run start
+ 1088  npm i
+ 1089  npm run dev
+ 1090  npm run start
+ 1091  cd ..
+ 1092  ce week-5-2-FullStackTodo
+ 1093  cd week-5-2-FullStackTodo
+ 1094  cd backend
+ 1095  npm init -y
+ 1096  npm i express 
+ 1097  npm i jsonwebtoken
+ 1098  npm i dotenv
+ 1099  nodemon index.js
+ 1100  npm i zod
+ 1101  nodemon index.js
+ 1102  npm i mongoose
+ 1103  nodemon index.js
+ 1104  cd assignments0To1harkirat/week5/week-5-2-FullStackTodo
+ 1105  npm vite@create latest
+ 1106  npx vite create@latest
+ 1107  npm create vite@latest
+ 1108  cd todoAppFrontend
+ 1109  npm i
+ 1110  npm run dev
+ 1111  npm i cors
+ 1112  nodemon index.js
+ 1113  npm run dev
+ 1114  lazygit
+ 1115  /usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/new.py
+ 1116  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.0/python_files/deactivate/zsh/envVars.txt
+ 1117  lazygit
+ 1118  cd ..
+ 1119  cd week6/week-6-1
+ 1120  cd ..
+ 1121  cd week6/week-6-1
+ 1122  npm create vite@latest
+ 1123  cd ..
+ 1124  cd week-6-1
+ 1125  npm i
+ 1126  cd ..
+ 1127  cd
+ 1128  lazygit
+ 1129  npm run dev
+ 1130  brew services start skhd
+ 1131  brew services restart skhd
+ 1132  skhd --restart-service
+ 1133  node
+ 1134  npm run dev
+ 1135  npm i
+ 1136  cd ..
+ 1137  cd week-6-1\&2
+ 1138  npm run dev
+ 1139  npm i axios
+ 1140  npm run dev
+ 1141  lazygit
+ 1142  brew install fio
+ 1143  fio test.fio
+ 1144  fio fio.fio
+ 1145  lazygit
+ 1146* cd ..
+ 1147* cd week7/week-7-1
+ 1148* npm create vite@latest
+ 1149* npm i
+ 1150* npm i react-router-dom
+ 1151* npm run dev
+ 1152* nvim
+ 1153* cd assignments0To1harkirat
+ 1154* nvim
+ 1155* npm run dev
+ 1156* npm i
+ 1157* npm run dev
+ 1158* npm i recoil
+ 1159* npm run dev
+ 1160  cd dotFiles
+ 1161  touch history.txt
+ 1162  cd ..
+ 1163  lazygit 
+ 1164  cd dotFiles
