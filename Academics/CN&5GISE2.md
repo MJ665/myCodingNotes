@@ -1,9 +1,7 @@
+# Syllabus
+## Capter 4
 
-
-
-Capter 4
-
-Mobile communication and network
+## Mobile communication and network
 
 Overview of wireless communication,Multiple access techniques,fundamentals of 
 Cellular structure,OFDM,2G,3G,4G,5G,.Evolution of data, Channel structure, Mobile 
@@ -11,9 +9,9 @@ Network, GSM — Architecture — Protocols, Wireless LANs and PANs — IEEE
 802.11 Standard, Blue Tooth- Wi-Fi — WiMAX
 
 
-Chapter 5
+## Chapter 5
 
-5G wireless network
+## 5G wireless network
 
 5G Architecture,5G Next generation core,propagation channel,radio 
 technologies,advanced antenna systems,5G Standardization,5G Use cases, Vehicular 
@@ -22,17 +20,52 @@ Ad Hoc networks ( VANET) –MANET Vs VANET — Security, Mobile TCP– WAP
 
 
 
-Chapter 6
+## Chapter 6
 
-5G Deployment and Network security
+## 5G Deployment and Network security
 
 Spectrum for 5G deployment ,deployment challenges, Security features in 5G 
 networks, network domain security, user domain security, flow based QoS 
 framework,mitigating the threats in 5G, 5G Core Network, 5G
 Standardization,HTTP2,HTTP3,Protobuf ,case study
 
+# Here's a concise summary of each topic from your syllabus:
 
-Q Bank
+**Chapter 4: Mobile Communication and Networks**
+
+1. **Overview of Wireless Communication:** Introduction to wireless communication technologies and their applications.
+2. **Multiple Access Techniques:** Methods for multiple devices to share the same communication medium efficiently.
+3. **Fundamentals of Cellular Structure:** Basic principles and components of cellular networks.
+4. **Evolution of Mobile Networks:** Progression from 2G to 5G networks, highlighting technological advancements.
+5. **Channel Structure and Data Evolution:** Allocation of channels for communication and the evolution of data transmission rates.
+6. **Mobile Network Protocols:** Protocols governing communication in mobile networks, with a focus on GSM and related standards.
+7. **Wireless LANs and PANs:** Standards and technologies for wireless local area and personal area networks, including Wi-Fi and Bluetooth.
+
+**Chapter 5: 5G Wireless Network**
+
+1. **5G Architecture and Core:** Structure and components of the 5G network, including the next-generation core.
+2. **Propagation Channel and Radio Technologies:** Characteristics of wireless propagation and advanced radio technologies.
+3. **5G Standardization and Use Cases:** Standardization efforts and potential applications of 5G technology.
+4. **Vehicular Ad Hoc Networks (VANET):** Wireless networks for vehicle communication and safety applications.
+5. **Mobile TCP, WAP, and Architecture:** Protocols and architectures for mobile communication and web access.
+   
+**Chapter 6: 5G Deployment and Network Security**
+
+1. **Spectrum for 5G Deployment:** Allocation of frequency bands for 5G networks.
+2. **Deployment Challenges and Security Features:** Obstacles and security measures in deploying 5G networks.
+3. **Flow-based QoS Framework:** Quality of Service management based on flow characteristics.
+4. **Mitigating Threats in 5G:** Strategies to address security threats in 5G networks.
+5. **5G Core Network and Standards:** Core network architecture and relevant standards.
+6. **Case Study:** Practical example illustrating 5G deployment and security considerations. 
+
+These summaries should help you focus your study efforts efficiently.
+
+
+
+
+
+
+## Q Bank
 
 
 Define the term "cellular network" in the context of mobile communications.
