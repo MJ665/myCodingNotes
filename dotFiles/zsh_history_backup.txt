@@ -1,0 +1,1633 @@
+: 1713123127:0;git push
+: 1713123127:0;git push origin master
+: 1713123127:0;npm run start
+: 1713123127:0;npm run staart
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "adding openToWork accouncement Banner"
+: 1713123127:0;git push origin master
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "hideable sidebar in docs"'
+: 1713123127:0;git commit -m "hideable sidebar in docs"
+: 1713123127:0;git push
+: 1713123127:0;git push origin master
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "add social on home page navbar"
+: 1713123127:0;git push origin master
+: 1713123127:0;npm run start
+: 1713123127:0;git add . 
+: 1713123127:0;git commit -m "added press release"
+: 1713123127:0;git push origin master
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added background image in hero home"
+: 1713123127:0;npm run start
+: 1713123127:0;git commit -m "increased height of hero"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "increased height of hero"
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added home content"
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "set default theme dark"
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update comming soon"
+: 1713123127:0;npm deploy
+: 1713123127:0;npm run deeploy
+: 1713123127:0;yarn deploy
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update resum link"
+: 1713123127:0;npm run start
+: 1713123127:0;yarn deploy
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update flagship project link"
+: 1713123127:0;yarn deploy
+: 1713123127:0;git remote add origin git@github.com:MJ665/git-Acommit.git
+: 1713123127:0;git init
+: 1713123127:0;git remote add origin git@github.com:MJ665/git-Acommit.git
+: 1713123127:0;npm init -y
+: 1713123127:0;npm i jsonfile moment simpleGit random 
+: 1713123127:0;npm i jsonfile moment simple-git random 
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;npm i random
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;npm i jsonfile moment simple-git random 
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;rm -fr .git
+: 1713123127:0;git add .
+: 1713123127:0;git init
+: 1713123127:0;git remote add origin git@github.com:MJ665/git-Acommit.git
+: 1713123127:0;git commit -m "first commit"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "first commit"
+: 1713123127:0;git revert
+: 1713123127:0;rm -fr .git
+: 1713123127:0;git init
+: 1713123127:0;git remote add origin git@github.com:MJ665/git-Acommit.git
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "first commit"
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;git log
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "second commit"
+: 1713123127:0;git push origin master
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;git log
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;git log
+: 1713123127:0;git push
+: 1713123127:0;git push origin master
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;git push origin master
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/index.js"
+: 1713123127:0;rm -fr .git
+: 1713123127:0;git init
+: 1713123127:0;git remote add origin git@github.com:MJ665/git-Acommit.git
+: 1713123127:0;git push origin master
+: 1713123127:0;git pull 
+: 1713123127:0;git pull origin master
+: 1713123127:0;git add .
+: 1713123127:0;git stash
+: 1713123127:0;git pull origin master
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "third commit"
+: 1713123127:0;git push origin master
+: 1713123127:0;git pull
+: 1713123127:0;git pull origin master
+: 1713123127:0;rm -fr .git
+: 1713123127:0;git clone git@github.com:MJ665/git-Acommit.git
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+: 1713123127:0;npm i
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+: 1713123127:0;git push origin master
+: 1713123127:0;gitnode "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+: 1713123127:0;git push origin master
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "third commit"
+: 1713123127:0;git push
+: 1713123127:0;git push origin master
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edited home email"
+: 1713123127:0;git push origin master
+: 1713123127:0;yarn deploy
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edited home skill and understanding of"
+: 1713123127:0;git push origin master
+: 1713123127:0;yarn deploy
+: 1713123127:0;git clone git@github.com:MJ665/assignments0To1harkirat.git
+: 1713123127:0;cd 01-js
+: 1713123127:0;npm i
+: 1713123127:0;npm install
+: 1713123127:0;npm jest ./tests/findLargestElement.test.js 
+: 1713123127:0;npx jest ./tests/findLargestElement.test.js 
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/findLargestElement.js"
+: 1713123127:0;npx jest ./tests/findLargestElement.test.js 
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/findLargestElement.js"
+: 1713123127:0;npx jest ./tests/findLargestElement.test.js 
+: 1713123127:0;npm jest ./tests/findLargestElement.test.js 
+: 1713123127:0;npm test
+: 1713123127:0;npm jest ./tests/findLargestElement.test.js 
+: 1713123127:0;npm i
+: 1713123127:0;npm install jest
+: 1713123127:0;npm jest ./tests/findLargestElement.test.js 
+: 1713123127:0;npx jest ./tests/findLargestElement.test.js 
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/anagram.js"
+: 1713123127:0;npx jest ./tests/anagram.test.js
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/easy/anagram.js"
+: 1713123127:0;npx jest ./tests/anagram.test.js
+: 1713123127:0;npx jest ./tests/expenditure-analysis.test.js
+: 1713123127:0;npx jest ./tests/countVowels.test.js
+: 1713123127:0;npx jest ./tests/palindrome.test.js
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/01-js/medium/times.js"
+: 1713123127:0;npx jest ./tests/calculator.test.js
+: 1713123127:0;npx jest ./tests/todo-list.test.js
+: 1713123127:0;git checkout -b week1AssignmentPR
+: 1713123127:0;git add  .
+: 1713123127:0;git commit -m "solved week 1 assignment"
+: 1713123127:0;git push origin week1AssignmentPR
+: 1713123127:0;git add .
+: 1713123127:0;git status
+: 1713123127:0;git add .
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-1/offline-class-1/level-1/02-Number.js"
+: 1713123127:0;git clone git@github.com:MJ665/myCodingNotes.git
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "OS notes downloaded & added"
+: 1713123127:0;git push origin master
+: 1713123127:0;git push origin main
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "cohort0-1Week1NotesAdded"
+: 1713123127:0;git push origin main
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added Mysql notes"
+: 1713123127:0;git push origin main
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added Mongo Code"
+: 1713123127:0;git push origin main
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added js notes of harry 0 to 19 and minor change in js cohort notes"
+: 1713123127:0;git push origin main
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added js notes harry and free code camp"
+: 1713123127:0;git push origin main
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "changed file typt txt to md in free code camp js notes"
+: 1713123127:0;git push origin main'
+: 1713123127:0;git push origin main
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "modify 05JSNotes free code camp"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "modify 04JSNotes free code camp"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "modify 03JSNotes free code camp"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "modify 02JSNotes free code camp"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "modify 01JSNotes free code camp"
+: 1713123127:0;git push origin main
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "modify as per custom date commit"
+: 1713123127:0;git push origin master
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/index.js"
+: 1713123127:0;ts-node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/index.ts"
+: 1713123127:0;npm i typescript
+: 1713123127:0;ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+: 1713123127:0;npm i ts-node
+: 1713123127:0;ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+: 1713123127:0;npm i ts-node
+: 1713123127:0;ts-node index.ts
+: 1713123127:0;npm i -g ts-node
+: 1713123127:0;ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+: 1713123127:0;npm i -g typescript
+: 1713123127:0;ts-node "/Users/meet/Desktop/trial/trialTS/index.ts"
+: 1713123127:0;ts --init
+: 1713123127:0;tcs --init
+: 1713123127:0;npm i -g typescript
+: 1713123127:0;tcs --init
+: 1713123127:0;tsc --init
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "TS & JS added"
+: 1713123127:0;git push origin main
+: 1713123127:0;git pull
+: 1713123127:0;git pull origin master
+: 1713123127:0;git switch master
+: 1713123127:0;git pull origin master
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/1-counter.js"
+: 1713123127:0;cd week-2/01-async-js/easy
+: 1713123127:0;npm i fs
+: 1713123127:0;git log
+: 1713123127:0;git switch 1c4e2f2e2409dba4f585cda50fc3352886f57acc
+: 1713123127:0;git checkout 1c4e2f2e2409dba4f585cda50fc3352886f57acc
+: 1713123127:0;node "/Users/meet/Desktop/trial/git-autoCommit/git-Acommit/index.js"
+: 1713123127:0;git switch main
+: 1713123127:0;git pull
+: 1713123127:0;git pull 
+: 1713123127:0;git pull
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;npm run start
+: 1713123127:0;git pull
+: 1713123127:0;git switch 333-fix-installation-in-drive
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "rename installation in drive to creating a bootable usb"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;npm run build
+: 1713123127:0;npm run serve
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "fix broken links"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edited last line in partitioning & req-download-verify"
+: 1713123127:0;git push
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git switch 336-feature-official-release
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git stash
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git switch main
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git log
+: 1713123127:0;npm run build
+: 1713123127:0;npm run serve
+: 1713123127:0;git switch 336-feature-official-release
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "rename variant & release to release & Official Release Content"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edit content releases.md"
+: 1713123127:0;git push
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edit content releases.md"
+: 1713123127:0;git push
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;npm run start
+: 1713123127:0;git pull
+: 1713123127:0;npm run start
+: 1713123127:0;git pull
+: 1713123127:0;git switch 338-tl-dual-boot-vm-installation-steps
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added manaual partition erase disk warning & Image Center"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "fix typo mistake"
+: 1713123127:0;git push
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git switch 345
+: 1713123127:0;git switch 345-tl-reset-password
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added TL reset Password"
+: 1713123127:0;git push
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "removed images TL reset password"
+: 1713123127:0;git push
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git switch 346-tl-backup-tl-system-time-shift
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "added backup resotre"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edit installation-in-vm.md for arch linux"
+: 1713123127:0;git reset --hard HEAD^
+: 1713123127:0;git log
+: 1713123127:0;git pull
+: 1713123127:0;git switch 334-TL-edit-installation-in-vm
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "edit installation-in-vm.md for arch linux"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git switch main
+: 1713123127:0;git pull
+: 1713123127:0;iex
+: 1713123127:0;git clone git@github.com:MJ665/Retrieval-based-Voice-Conversion-WebUI.git
+: 1713123127:0;pip install torch torchvision torchaudio
+: 1713123127:0;curl -sSL https://install.python-poetry.org | python3 -
+: 1713123127:0;pip install -r requirements-dml.txt
+: 1713123127:0;sh ./run.sh
+: 1713123127:0;git clone git@github.com:MJ665/Retrieval-based-Voice-Conversion-WebUI.git
+: 1713123127:0;pip install torch torchvision torchaudio
+: 1713123127:0;sh ./run.sh
+: 1713123127:0;pip install aria2
+: 1713123127:0;sh ./run.sh
+: 1713123127:0;git pull
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/3-4-readWriteFile.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/tempCodeRunnerFile.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/3-4-readWriteFile.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/tempCodeRunnerFile.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/easy/3-4-readWriteFile.js"
+: 1713123127:0;cd assignments0To1harkirat/week-2/01-async-js/medium
+: 1713123127:0;npm i fs
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/medium/1-file-cleaner.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/medium/2-clock.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/1-promisify-setTimeout.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/2-sleep-completely.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/3-promise-all.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/4-promise-chain.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/3-promise-all.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/01-async-js/hard (promises)/4-promise-chain.js"
+: 1713123127:0;cd assignments0To1harkirat
+: 1713123127:0;git branch
+: 1713123127:0;git checkout -b week2AssignmentPR
+: 1713123127:0;git acc .
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "01-async-js"
+: 1713123127:0;git push
+: 1713123127:0;git push origin week2AssignmentPR
+: 1713123127:0;sh ./run.sh
+: 1713123127:0;alias
+: 1713123127:0;nodemon index.js
+: 1713123127:0;ipconfig
+: 1713123127:0;ip config
+: 1713123127:0;IPCONFIG
+: 1713123127:0;ifconfig
+: 1713123127:0;npm i body-parser
+: 1713123127:0;ifconfig
+: 1713123127:0;nodemon index.js
+: 1713123127:0;export PORT=3005
+: 1713123127:0;nodemon index.js
+: 1713123127:0;vi
+: 1713123127:0;nvm
+: 1713123127:0;npm
+: 1713123127:0;node
+: 1713123127:0;npm 
+: 1713123127:0;node -editor
+: 1713123127:0;node
+: 1713123127:0;man ls
+: 1713123127:0;man cd
+: 1713123127:0;ls -l
+: 1713123127:0;git clone git@github.com:Satish0079/ACM-SIGAI-Website.git
+: 1713123127:0;npm init -y
+: 1713123127:0;npm i express
+: 1713123127:0;nodemon app.js
+: 1713123127:0;PORT
+: 1713123127:0;nodemon app.js
+: 1713123127:0;export PORT = 8080
+: 1713123127:0;export PORT=8080
+: 1713123127:0;nodemon app.js
+: 1713123127:0;python -u "/Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py"
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+: 1713123127:0;pip install sklearn
+: 1713123127:0;pip install numpy
+: 1713123127:0;pip install mpl_toolkits
+: 1713123127:0;pip install matplotlib
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+: 1713123127:0;pip install --upgrade pip
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+: 1713123127:0;pip install pandas
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+: 1713123127:0;pip install seaborn
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-2.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment2-1.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment4-1.py
+: 1713123127:0;pip install tensorflow
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment4-1.py
+: 1713123127:0;git pull
+: 1713123127:0;git pulll
+: 1713123127:0;git pull
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;git pull origin main
+: 1713123127:0;git push
+: 1713123127:0;git pull
+: 1713123127:0;git switch 357-tl-update-tl-documentation
+: 1713123127:0;git pull
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update sidebar.js TL sidebar structure"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update create butable drive.md tl"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add . 
+: 1713123127:0;git commit -m "update title requirement download verify tl"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add . 
+: 1713123127:0;git commit -m "update title troubleshoot installation tl "
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update yay.md TL"
+: 1713123127:0;git push'
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update gettingStartedApplication TL"
+: 1713123127:0;git push
+: 1713123127:0;git add . 
+: 1713123127:0;git commit -m "update title contribute TL"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "TL Changes on home page"
+: 1713123127:0;git push
+: 1713123127:0;npm run build
+: 1713123127:0;npm run serve
+: 1713123127:0;npm run start
+: 1713123127:0;npm run build
+: 1713123127:0;npm run serve
+: 1713123127:0;npm run build 
+: 1713123127:0;npm run serve
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "TL installation step correction"
+: 1713123127:0;git push
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "TL requirements download verify correction"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;/usr/local/bin/python3
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+: 1713123127:0;pip install PTL
+: 1713123127:0;pip install ptl
+: 1713123127:0;pip install ptl.imag
+: 1713123127:0;pip install ptl.image
+: 1713123127:0;pip install Ponytile
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+: 1713123127:0;pip install  certifi\
+
+: 1713123127:0;export SSL_CERT_FILE=/path/to/cacert.pem\
+
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+: 1713123127:0;pip install tensorflow
+: 1713123127:0;pip install matplotlib
+: 1713123127:0;pip install numpy
+: 1713123127:0;pip install --upgrade certifi\
+
+: 1713123127:0;export SSL_CERT_FILE=/Users/meet/Desktop/trial/Sem4Internship/cacert.pem\
+
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+: 1713123127:0;python -u "/Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py"
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/Sem4Internship/assignment5-1.py
+: 1713123127:0;npm  run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit  -m "TL update about tl.md"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add . 
+: 1713123127:0;git commit -m "update TL about tl.md"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update TL about tl.md"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update idea behind tl TL"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "update idea behind tl TL"
+: 1713123127:0;git push
+: 1713123127:0;npm run start
+: 1713123127:0;git pull
+: 1713123127:0;history 0]
+: 1713123127:0;nvm -v
+: 1713123127:0;git pull
+: 1713123127:0;git switch document-tcet-linux
+: 1713123127:0;git pull
+: 1713123127:0;npm run start
+: 1713123127:0;git add .
+: 1713123127:0;git commit -m "TL indentation correction installation step"
+: 1713123127:0;git push
+: 1713123127:0;python -u "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/Colab files/8Jan2024_matplot_TCET.ipynb"
+: 1713123127:0;/usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/pred_img.py"
+: 1713123127:0;npm i cv2
+: 1713123127:0;pip install cv2
+: 1713123127:0;pip install opencv
+: 1713123127:0;pip install open-cv
+: 1713123127:0;pip install opencv-python
+: 1713123127:0;/usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/pred_img.py"
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+: 1713123127:0;/usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+: 1713123127:0;pip install fastaip
+: 1713123127:0;pip install fastapi
+: 1713123127:0;/usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+: 1713123127:0;pip install uvicorn
+: 1713123127:0;/usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+: 1713123127:0;pip install python-multipart
+: 1713123127:0;/usr/local/bin/python3 "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/FASTAPI/main.py"
+: 1713123127:0;cd week2.5
+: 1713123127:0;npm i express
+: 1713123127:0;nodemon index.js
+: 1713123127:0;brew li
+: 1713123127:0;brew lisg
+: 1713123127:0;brew list
+: 1713123127:0;ninvaders
+: 1713123127:0;---------------
+: 1713123127:0;+
+: 1713123127:0;historuy 0
+: 1713123127:0;history 0
+: 1713123127:0;nvim
+: 1713123127:0;brew install --cask kitty
+: 1713123127:0;nvim
+: 1713123127:0;theme
+: 1713123127:0;ls -l
+: 1713123127:0;cd ~./.zshrc
+: 1713123127:0;vi ~/.zshrc\
+
+: 1713123127:0;os_icon
+: 1713123127:0;# required\
+mv ~/.config/nvim{,.bak}\
+\
+# optional but recommended\
+mv ~/.local/share/nvim{,.bak}\
+mv ~/.local/state/nvim{,.bak}\
+mv ~/.cache/nvim{,.bak}
+: 1713123127:0;git clone https://github.com/LazyVim/starter ~/.config/nvim
+: 1713123127:0;rm -rf ~/.config/nvim/.git
+: 1713123127:0;nvim
+: 1713123127:0;brew install lazygit
+: 1713123127:0;lazygit
+: 1713123127:0;git status
+: 1713123127:0;lazygit
+: 1713123127:0;nvim
+: 1713123127:0;history 
+: 1713123127:0;lazygit
+: 1713123127:0;brew install --cask amethyst
+: 1713123127:0;brew list
+: 1713123127:0;brew list amethyst
+: 1713123127:0;brew deps amethyst
+: 1713123127:0;brew uninstall amethyst --cask
+: 1713123127:0;brew deps amethyst
+: 1713123127:0;brew autoremove amethyst --cask
+: 1713123127:0;brew autoremove amethyst 
+: 1713123127:0;brew autoremove
+: 1713123127:0;brew install koekeishiya/formulae/yabai
+: 1713123127:0;brew install koekeishiya/formulae/skhd
+: 1713123127:0;cd ~
+: 1713123127:0;mkdir .config/yabai
+: 1713123127:0;cd .config/yabai
+: 1713123127:0;touch yabairc
+: 1713123127:0;ls
+: 1713123127:0;brew services start yabai
+: 1713123127:0;echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile\
+eval "$(/opt/homebrew/bin/brew shellenv)"
+: 1713123127:0;brew services start yabai
+: 1713123127:0;yabai --start-service
+: 1713123127:0;brew services restart yabai
+: 1713123127:0;yabai --restart-service
+: 1713123127:0;brew services start skhd
+: 1713123127:0;skhd --start-service
+: 1713123127:0;skhd --restart-service
+: 1713123127:0;cd ~
+: 1713123127:0;mkdir .config/skhd
+: 1713123127:0;cd .config/skhd
+: 1713123127:0;touch skhdrc
+: 1713123127:0;open skhdrc
+: 1713123127:0;skhd --restart-service
+: 1713123127:0;yabai --restart-service
+: 1713123127:0;6;9u6;9u
+: 1713123127:0;brew install --cask hazeover
+: 1713123127:0;source "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/activate"
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/Sem4Internship/assignment7-1.py
+: 1713123127:0;nvim
+: 1713123127:0;brew install --cask raycast
+: 1713123127:0;man lazyvimgh
+: 1713123127:0;man lazyvim
+: 1713123127:0;man nvim
+: 1713123127:0;source "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/activate"
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/Sem4Internship/assignment7-1.py
+: 1713123127:0;cd ~config
+: 1713123127:0;cd ~./config
+: 1713123127:0;cd config
+: 1713123127:0;ls
+: 1713123127:0;ls -la
+: 1713123127:0;cd .config
+: 1713123127:0;ls
+: 1713123127:0;lazygit
+: 1713123127:0;lazygitt
+: 1713123127:0;lazygit
+: 1713123127:0;l
+: 1713123127:0;lazygit
+: 1713123127:0;htop
+: 1713123127:0;brew list
+: 1713123127:0;snappy
+: 1713123127:0;coopyq
+: 1713123127:0;brew remove --cask copyq
+: 1713123127:0;kitten
+: 1713123127:0;/Users/meet/.config/yabai/yabairc ; exit;
+: 1713123127:0;defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false            
+: 1713123127:0;defaults
+: 1713123127:0;defaults read write
+: 1713123127:0;defaults read
+: 1713123127:0;defaults read apple
+: 1713123127:0;defaults
+: 1713123127:0;defaults read com.microsoft.VSCode 
+: 1713123127:0;lazygit
+: 1713123127:0;lazyvim
+: 1713123127:0;nvim
+: 1713123127:0;lazyvim
+: 1713123127:0;lazygitttt
+: 1713123127:0;lazygit
+: 1713123127:0;git add .
+: 1713123127:0;cd mongoDBData
+: 1713123127:0;/Users/meet/Downloads/mongodb-macos-aarch64-7.0.0\ 2/bin/mongod ; exit;
+: 1713123127:0;/Users/meet/Downloads/mongodb-macos-aarch64-7.0.0\ 2/bin/mongos ; exit;
+: 1713123127:0;cd ..
+: 1713123127:0;cd downloads/mongo
+: 1713123127:0;cd Downloads/mongodb-macos-aarch64-7.0.0
+: 1713123127:0;cd bin
+: 1713123127:0;mongod
+: 1713123127:0;mongod --dbpath /Users/meet/mongoDBData
+: 1713123127:0;pfetch
+: 1713123127:0;lazygit
+: 1713123127:0;git init
+: 1713123127:0;git remote add origin git@github.com:MJ665/myCodingNotes.git
+: 1713123127:0;git pull
+: 1713123127:0;git switch main
+: 1713123127:0;git   pull
+: 1713123127:0;git status
+: 1713123127:0;git  pull
+: 1713123127:0;git init main
+: 1713123127:0;git init --initial-branch main
+: 1713123127:0;git remote add origin git@github.com:MJ665/myCodingNotes.git
+: 1713123127:0;git pull
+: 1713123127:0;git  pull origin main
+: 1713123127:0;brew autoremove
+: 1713123127:0;git clone git@github.com:MJ665/myCodingNotes.git
+: 1713123127:0;npm run test-fileserver
+: 1713123127:0;npm run test-fileServer
+: 1713123127:0;npm run tests/test-fileServer
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/tests/fileServer.test.js"
+: 1713123127:0;npm i
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/tests/fileServer.test.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/fileServer.js"
+: 1713123127:0;node "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/week-2/02-nodejs/tests/fileServer.test.js"
+: 1713123127:0;npm run tests/fileServer.test.js
+: 1713123127:0;npm run test-fileServer
+: 1713123127:0;npm run test-todoServerr
+: 1713123127:0;npm run test-todoServer
+: 1713123127:0;cd harkiratCourse0-1
+: 1713123127:0;cd assignments0To1harkirat
+: 1713123127:0;lazygit
+: 1713123127:0;cd harkiratCourse0-1/assignments0To1harkirat
+: 1713123127:0;lazygit
+: 1713123127:0;cd Week3.1
+: 1713123127:0;nodemon week3-1.js
+: 1713123127:0;brew update nodemon
+: 1713123127:0;npm update nodemon
+: 1713123127:0;brew update nodemon
+: 1713123127:0;nodemon week3-1.js
+: 1713123127:0;cd Week3.1
+: 1713123127:0;npm i express
+: 1713123127:0;pip install heapq
+: 1713123127:0;pip install heapq_max
+: 1713123127:0;python -u "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/trial.py"
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/trial.py
+: 1713123127:0;mkdir apacheSuperset
+: 1713123127:0;cd apachaSuperset
+: 1713123127:0;ls
+: 1713123127:0;cd apacheSuperset
+: 1713123127:0;git clone https://github.com/apache/superset.git
+: 1713123127:0;cd superset
+: 1713123127:0;docker compose up
+: 1713123127:0;git switch development
+: 1713123127:0;docker compose -f docker-compose-non-dev.yml pull\
+docker compose -f docker-compose-non-dev.yml up
+: 1713123127:0;docker autoremobe
+: 1713123127:0;docker autoremove
+: 1713123127:0;sudo docker run -d -p 8080:8088 --name superset apache/superset
+: 1713123127:0;docker pull apache/superset
+: 1713123127:0;cd ..
+: 1713123127:0;rm -rm superset
+: 1713123127:0;ls
+: 1713123127:0;rm -rm superset
+: 1713123127:0;sudo rm -rf superset
+: 1713123127:0;ls
+: 1713123127:0;git clone https://github.com/apache/superset.git
+: 1713123127:0;cd superset
+: 1713123127:0;docker compose up
+: 1713123127:0;docker compose -f docker-compose-non-dev.yml pull\
+docker compose -f docker-compose-non-dev.yml up
+: 1713123127:0;git checkout 3.0.0\
+TAG=3.0.0 docker compose -f docker-compose-non-dev.yml pull\
+TAG=3.0.0 docker compose -f docker-compose-non-dev.yml up
+: 1713123127:0;git clone git@github.com:MJ665/HospitalManageSystemS4DMM.git
+: 1713123127:0;docker run superset
+: 1713123127:0;git clone git@github.com:MJ665/HospitalManagemetSystemSem4.git
+: 1713123127:0;npm i
+: 1713123127:0;python -u "/Users/meet/Desktop/trial/forkedRepo/HospitalManagemetSystemSem4/tempCodeRunnerFile.py"
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/HospitalManagemetSystemSem4/neeew.py
+: 1713123127:0;source "/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/activate"
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;pip install pandas
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;pip install mysql-connector
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;pip install --upgrade mysql-connector-python\
+
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;cd HospitalManagemetSystemSem4
+: 1713123127:0;git url
+: 1713123127:0;git status
+: 1713123127:0;git origin
+: 1713123127:0;git remote origin
+: 1713123127:0;git remote -v
+: 1713123127:0;lazygit
+: 1713123127:0;npm i
+: 1713123127:0;nodemon app.js
+: 1713123127:0;npm i mysql2
+: 1713123127:0;node "/Users/meet/Desktop/trial/forkedRepo/HospitalManagemetSystemSem4/backend/app.js"
+: 1713123127:0;nodemon app.js
+: 1713123127:0;npm run start
+: 1713123127:0;npm run build
+: 1713123127:0;npm run start
+: 1713123127:0;npm start
+: 1713123127:0;nvm install --lts\
+
+: 1713123127:0;nvm
+: 1713123127:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash\
+
+: 1713123127:0;source ~/.bash_profile\
+
+: 1713123127:0;nvm --version
+: 1713123127:0;nvm install --lts\
+
+: 1713123127:0;source ~/.bash_profile\
+
+: 1713123127:0;nvm --version
+: 1713123127:0;curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash\
+
+: 1713123127:0;nvm --version
+: 1713123127:0;nvm
+: 1713123127:0;source ~/.bash_profile\
+
+: 1713123127:0;nvm
+: 1713123127:0;nvm install --lts\
+
+: 1713123127:0;nvm \
+
+: 1713123127:0;rm -rf node_modules\
+npm install\
+
+: 1713123127:0;npm i
+: 1713123127:0;nvm
+: 1713123127:0;source ~/.bash_profile\
+
+: 1713123127:0;rm -rf node_modules\
+npm install\
+
+: 1713123127:0;source ~/.bash_profile\
+
+: 1713123127:0;rm -rf node_modules\
+npm install\
+
+: 1713123127:0;nvim
+: 1713123127:0;git clone git@github.com:hrishikeshathalye/Hospital-Management-System-DBMS.git
+: 1713123127:0;cd frontend
+: 1713123127:0;npm i
+: 1713123127:0;lazygit
+: 1713123127:0;npm start
+: 1713123127:0;npm install -g npm\
+
+: 1713123127:0;npm cache clean --force\
+
+: 1713123127:0;npm install
+: 1713123127:0;lazygit
+: 1713123127:0;brew autoremove
+: 1713123127:0;lazygit
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;/usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/zsh/envVars.txt
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;python -u "/Users/meet/Desktop/trial/new.py"
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;python -u "/Users/meet/Desktop/trial/new.py"
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python"
+: 1713123127:0;/usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/zsh/envVars.txt
+: 1713123127:0;neofetch
+: 1713123127:0;htop
+: 1713123127:0;neofetch
+: 1713123127:0;lazygit
+: 1713123127:0;git status
+: 1713123127:0;lazygit
+: 1713123127:0;git pull origin master
+: 1713123127:0;git switch master
+: 1713123127:0;git pull
+: 1713123127:0;git switch week2AssignmentPR
+: 1713123127:0;git pull origin master
+: 1713123127:0;git switch master
+: 1713123127:0;git checkout week345671011
+: 1713123127:0;git checkout -b week34561011
+: 1713123127:0;git status
+: 1713123127:0;lazygit
+: 1713123127:0;diff bashCMD\ copy.txt bashCMD.txt
+: 1713123127:0;diff bashCMDcopy.txt bashCMD.txt
+: 1713123127:0;diff bashCMDcopy.md bashCMD.md
+: 1713123127:0;ls
+: 1713123127:0;lazygit
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/assignments0To1harkirat/new.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/new.py
+: 1713123127:0;pip install numpy
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/new.py
+: 1713123127:0;lazygit
+: 1713123127:0;vimtutor
+: 1713123127:0;vintutor
+: 1713123127:0;vimtutor
+: 1713123127:0;pip install numpy scipy scikit-image\
+
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/new.py
+: 1713123127:0;brew update\
+
+: 1713123127:0;brew install ns2 nam\
+
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/new.py
+: 1713123127:0;git pull
+: 1713123127:0;ls
+: 1713123127:0;lazygit
+: 1713123127:0;git clone git@github.com:MJ665/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3.git
+: 1713123127:0;pip install -r requirements.txt
+: 1713123127:0;python app.py
+: 1713123127:0;python3 app.py
+: 1713123127:0;pip install shap
+: 1713123127:0;python3 app.py
+: 1713123127:0;pip install --upgrade scikit-learn\
+
+: 1713123127:0;python3 app.py
+: 1713123127:0;git pull
+: 1713123127:0;git reset --hard HEAD^
+: 1713123127:0;python3 app.py
+: 1713123127:0;pip list
+: 1713123127:0;pip autoremove
+: 1713123127:0;pip install --upgrade pip
+: 1713123127:0;pip install -r requirements.txt
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/new.py
+: 1713123127:0;python
+: 1713123127:0;python3 
+: 1713123127:0;alias
+: 1713123127:0;alias python='python3'\
+
+: 1713123127:0;pip install -r requirements.txt
+: 1713123127:0;unalias python
+: 1713123127:0;alias
+: 1713123127:0;# Create a virtual environment\
+python3 -m venv myenv\
+\
+# Activate the virtual environment\
+source myenv/bin/activate  # On macOS/Linux\
+
+: 1713123127:0;/usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.0.1/pythonFiles/deactivate/zsh/envVars.txt
+: 1713123127:0;pip install -r requirements.txt
+: 1713123127:0;python app.py
+: 1713123127:0;pip install numpy
+: 1713123127:0;pip instll joblib matplotlib shap flask
+: 1713123127:0;pip install joblib matplotlib shap flask
+: 1713123127:0;pip install numpy
+: 1713123127:0;python app.py
+: 1713123127:0;pip install ipython
+: 1713123127:0;python app.py
+: 1713123127:0;deactivate
+: 1713123127:0;pip install smote
+: 1713123127:0;install imblearn
+: 1713123127:0;pip install imblearn
+: 1713123127:0;git reset --hard HEAD^
+: 1713123127:0;\\
+q\\
+exit
+: 1713123127:0;git reset --hard HEAD^
+: 1713123127:0;lazygit
+: 1713123127:0;git status
+: 1713123127:0;lazygit
+: 1713123127:0;git push origin master
+: 1713123127:0;git pull
+: 1713123127:0;git reset --hard HEAD^
+: 1713123127:0;lazygit
+: 1713123127:0;git push origin master
+: 1713123127:0;git pull
+: 1713123127:0;git status
+: 1713123127:0;git revert
+: 1713123127:0;git clone git@github.com:MJ665/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3.git
+: 1713123127:0;cd Customer-Survival-Analysis-and-Churn-PredictionSem4PS3
+: 1713123127:0;lazygit
+: 1713123127:0;pip install eli5
+: 1713123127:0;pip install scikit-learn
+: 1713123127:0;pip install pdpbox
+: 1713123127:0;pip insatll pdpbox==0.2.0
+: 1713123127:0;pip install pdpbox==0.2.0
+: 1713123127:0;pip install scikit-learn==0.22.1
+: 1713123127:0;pip install scikit-learn --upgrade
+: 1713123127:0;pip install --upgrade eli5\
+pip install --upgrade scikit-learn\
+
+: 1713123127:0;pip install eli5 == 0.1.0  scikit-learn==0.1.0
+: 1713123127:0;pip install eli5==0.1.0  scikit-learn==0.1.0
+: 1713123127:0;lazygit
+: 1713123127:0;java --version
+: 1713123127:0;export JAVA_HOME=/Library/Java/Home
+: 1713123127:0;brew install nifi
+: 1713123127:0;brew reinstall nigi
+: 1713123127:0;brew reinstall nifi
+: 1713123127:0;bin/nifi.sh run
+: 1713123127:0;~bin/nifi.sh run
+: 1713123127:0;ls
+: 1713123127:0;cd ~bin
+: 1713123127:0;run bin/nifi.sh run
+: 1713123127:0;brew remove nifi
+: 1713123127:0;brew autoremove nifi
+: 1713123127:0;brew autoremove
+: 1713123127:0;brew install nifi
+: 1713123127:0;bin/nifi.sh run
+: 1713123127:0;grep nifi.sh
+: 1713123127:0;brew remove nifi
+: 1713123127:0;brew autoremove
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+: 1713123127:0;pip install mysql-connector
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+: 1713123127:0;pip install pymysql
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+: 1713123127:0;pip install sqlalchemy
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+: 1713123127:0;lazygit
+: 1713123127:0;pip install os glob
+: 1713123127:0;pip install glob
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/trial/forkedRepo/Customer-Survival-Analysis-and-Churn-PredictionSem4PS3/open.py
+: 1713123127:0;lazygit
+: 1713123127:0;git init
+: 1713123127:0;cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/" && g++ 001.cpp -o 001 && "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/"001
+: 1713123127:0;mkdir bits\
+touch bits/stdc++.h\
+
+: 1713123127:0;cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/" && g++ 001.cpp -o 001 && "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/"001
+: 1713123127:0;lazygit
+: 1713123127:0;git push origin master
+: 1713123127:0;git remote add origin git@github.com:MJ665/DSACppStriver.git
+: 1713123127:0;git push origin master
+: 1713123127:0;lazyvim
+: 1713123127:0;nvim
+: 1713123127:0;lazygit
+: 1713123127:0;nvim
+: 1713123127:0;lazygit
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/new.py
+: 1713123127:0;lazygit
+: 1713123127:0;/usr/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/zsh/envVars.txt
+: 1713123127:0;"/Users/meet/Desktop/trial/Sem4Internship/TCET 8-9Jan 2024 ML with FastAPI/.venv/bin/python" /Users/meet/Desktop/trial/new.py
+: 1713123127:0;la
+: 1713123127:0;lazygit
+: 1713123127:0;git pull
+: 1713123127:0;lazygit
+: 1713123127:0;git pull
+: 1713123127:0;git init
+: 1713123127:0;git remote add origin git@github.com:MJ665/DSACppStriver.git
+: 1713123127:0;git pull
+: 1713123127:0;git clone git@github.com:MJ665/DSACppStriver.git
+: 1713123127:0;lazygit
+: 1713123127:0;git pull
+: 1713123127:0;lazygit
+: 1713123127:0;cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/" && g++ trial.cpp -o trial && "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/"trial
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/trial.py
+: 1713123127:0;la
+: 1713123127:0;lazygit
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/trial.py
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/new.py
+: 1713123127:0;/usr/local/bin/python3
+: 1713123127:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/DSACppStriver/DSACppStriver/new.py
+: 1713123127:0;lazygit
+: 1713123127:0;cd assignments0To1harkirat
+: 1713123127:0;git pull
+: 1713123127:0;git checkout MyNotes
+: 1713123127:0;git checkout -b  MyNotes
+: 1713123127:0;lazygit
+: 1713123127:0;npm i
+: 1713123127:0;nodemon Week3.1
+: 1713123127:0;nodemon Week3.1/week3-1.js
+: 1713123127:0;lazygit
+: 1713123127:0;cd assignments0To1harkirat
+: 1713123127:0;lazygit
+: 1713123127:0;npm i zod
+: 1713123127:0;nodemon Week3.1/week3-1-2.js
+: 1713123127:0;lazygit
+: 1713123127:0;nodemon Week3/week3-2-1-Project/authApp.js
+: 1713123127:0;npm  i jsonwebtoken
+: 1713123127:0;nodemon Week3/week3-2-1-Project/authApp.js
+: 1713123127:0;npm i cors
+: 1713123127:0;nodemon Week3/week3-2-1-Project/authApp.js
+: 1713123127:0;cd assignments0To1harkirat
+: 1713123127:0;lazygit
+: 1713123127:0;nodemon Week3/week3-2-1-Project/authApp.js
+: 1713123127:0;cd assignments0To1harkirat
+: 1713123127:0;nodemon Week3/week3-2-1-Project/authApp.js
+: 1713123127:0;lazygit
+: 1713123127:0;nodemon Week3/week3-2-1-Project/authApp.js
+: 1713123127:0;nodemon Week3/week3-2-1-Project/mongoDB.js
+: 1713123127:0;npm i mongoose
+: 1713123127:0;nodemon Week3/week3-2-1-Project/mongoDB.js
+: 1713123127:0;lazygit
+: 1713123127:0;nodemon Week3/week3-2-1-Project/newMongoDB.js
+: 1713123127:0;nodemon Week3/week3-2-1-Project/newMondoDB.js
+: 1713123127:0;node Week3/week3-2-1-Project/newMondoDB.js
+: 1713123127:0;nodemon Week3/week3-2-1-Project/newMondoDB.js
+: 1713123127:0;brew update --cask mongodb-compass
+: 1713123127:0;brew upgrade --cask mongodb-compass
+: 1711988832:0;brew install --cask mongodb-compass
+: 1712001716:0;lazygit
+: 1712188973:0;nodemon Week3/week3-3/week-3-3-2.js
+: 1712268884:0;cd week4/week-4-2
+: 1712313377:0;cd reactFoundation
+: 1712313406:0;npm create vite@latest
+: 1712313443:0;cd ..
+: 1712313462:0;cd week4/week-4-2
+: 1712313532:0;cd assignments0To1harkirat/week4/week-4-2
+: 1712313537:0;npm create vite@latest
+: 1712313594:0;cd reactFoundation
+: 1712313597:0;npm i
+: 1712314813:0;npm run start
+: 1712314836:0;npm run dev
+: 1712334163:0;lazygit
+: 1712335518:0;git checkout -b  MyNotesHkirat
+: 1712335577:0;git add . 
+: 1712335589:0;git commit -m "new branch"
+: 1712335594:0;git push
+: 1712335619:0;git push origin MyNotesHkirat
+: 1712335668:0;git switch main
+: 1712335689:0;git switch MyNotesHkirat
+: 1712335697:0;git clone git@github.com:MJ665/assignments0To1harkirat.git
+: 1712335707:0;cd assignments0To1harkirat
+: 1712335726:0;git switch MyNotes
+: 1712335811:0;git remote
+: 1712335817:0;git remote url
+: 1712335899:0;git remote -v
+: 1712335920:0;git remote rm destination
+: 1712335953:0;git remote rm origin
+: 1712335956:0;git remote -v
+: 1712336001:0;git remote add origin git@github.com:MJ665/myCodingNotes.git
+: 1712336004:0;git remote -v
+: 1712336026:0;git push origin MyNotes
+: 1712336931:0;lazygit
+: 1712337267:0;git tree
+: 1712337269:0;git log
+: 1712337288:0;git push
+: 1712337296:0;git push origin MyNotes
+: 1712337931:0;cd ..
+: 1712337948:0;git pull
+: 1712337962:0;git switch MyNotesHkirat
+: 1712337971:0;git switch MyNotes
+: 1712337981:0;git switch mian
+: 1712337989:0;git switch main
+: 1712338044:0;lazygit
+: 1712338056:0;git pull
+: 1712342968:0;lazygit
+: 1712349871:0;cd ..
+: 1712349910:0;nodemon week-4-3/
+: 1712349921:0;nodemon week-4-3/03-mongo
+: 1712349931:0;nodemon week-4-3/03-mongo/index.js
+: 1712359439:0;lazygit
+: 1712403062:0;cd week-4-3/week-3/
+: 1712403899:0;cd assignments0To1harkirat
+: 1712403908:0;npm i dotenv
+: 1712406683:0;nodemon 04-mongo-with-jwt-auth/index.js
+: 1712407018:0;cd 04-mongo-with-jwt-auth
+: 1712407028:0;npm i dotenv
+: 1712407044:0;npm i
+: 1712407075:0;nodemon index.js
+: 1712415992:0;cd ..
+: 1712415997:0;cd 02-jwt
+: 1712416004:0;npm i
+: 1712416018:0;npm run test
+: 1712416053:0;npm run test-indes.js
+: 1712416060:0;npm run test-index.js
+: 1712416228:0;npm jest ./tests/index.spec.js
+: 1712416239:0;npm test ./tests/index.spec.js
+: 1712416277:0;npm i
+: 1712416289:0;npm fund
+: 1712416302:0;npm jest ./tests/index.spec.js
+: 1712416316:0;npm test ./tests/index.spec.js
+: 1712416336:0;npm test ./tests/
+: 1712416394:0;npm test ./tests/index.spec.js
+: 1712416401:0;npm i jest
+: 1712416421:0;npm test ./tests/index.spec.js
+: 1712417100:0;cd ..
+: 1712417115:0;clear
+: 1712417122:0;cd week5/reactFoundation
+: 1712417126:0;npm run dev
+: 1712417389:0;lazygit
+: 1712431840:0;npm run dev
+: 1712441639:0;lazygit
+: 1712442788:0;cd reactnote
+: 1712442805:0;npm run dev
+: 1712442813:0;npm run start
+: 1712442817:0;npm i
+: 1712442866:0;npm run dev
+: 1712442870:0;npm run start
+: 1712477051:0;cd ..
+: 1712477064:0;ce week-5-2-FullStackTodo
+: 1712477074:0;cd week-5-2-FullStackTodo
+: 1712479361:0;cd backend
+: 1712479390:0;npm init -y
+: 1712479472:0;npm i express 
+: 1712479505:0;npm i jsonwebtoken
+: 1712479724:0;npm i dotenv
+: 1712479867:0;nodemon index.js
+: 1712480102:0;npm i zod
+: 1712480105:0;nodemon index.js
+: 1712481184:0;npm i mongoose
+: 1712481190:0;nodemon index.js
+: 1712488424:0;cd assignments0To1harkirat/week5/week-5-2-FullStackTodo
+: 1712488450:0;npm vite@create latest
+: 1712488478:0;npx vite create@latest
+: 1712488535:0;npm create vite@latest
+: 1712488579:0;cd todoAppFrontend
+: 1712488664:0;npm i
+: 1712488684:0;npm run dev
+: 1712490693:0;npm i cors
+: 1712490703:0;nodemon index.js
+: 1712491403:0;npm run dev
+: 1712600959:0;lazygit
+: 1712664480:0;/usr/local/bin/python3 /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/new.py
+: 1712686402:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.0/python_files/deactivate/zsh/envVars.txt
+: 1712803593:0;lazygit
+: 1712803597:0;cd ..
+: 1712803612:0;cd week6/week-6-1
+: 1712803628:0;cd ..
+: 1712803644:0;cd week6/week-6-1
+: 1712803766:0;npm create vite@latest
+: 1712803921:0;cd ..
+: 1712803925:0;cd week-6-1
+: 1712803927:0;npm i
+: 1712803935:0;cd ..
+: 1712803937:0;cd
+: 1712804014:0;lazygit
+: 1712804030:0;npm run dev
+: 1712804415:0;brew services start skhd
+: 1712804443:0;brew services restart skhd
+: 1712804535:0;skhd --restart-service
+: 1712815560:0;node
+: 1712815569:0;npm run dev
+: 1712823689:0;npm i
+: 1712823700:0;cd ..
+: 1712823870:0;cd week-6-1\&2
+: 1712823886:0;npm run dev
+: 1712825502:0;npm i axios
+: 1712825507:0;npm run dev
+: 1712862687:0;lazygit
+: 1712934995:0;brew install fio
+: 1712935077:0;fio test.fio
+: 1712935102:0;fio fio.fio
+: 1713011254:0;lazygit
+: 1713095454:0;cd ..
+: 1713095470:0;cd week7/week-7-1
+: 1713095478:0;npm create vite@latest
+: 1713095635:0;npm i
+: 1713095668:0;npm i react-router-dom
+: 1713096249:0;npm run dev
+: 1713097120:0;nvim
+: 1713097223:0;cd assignments0To1harkirat
+: 1713097227:0;nvim
+: 1713099088:0;npm run dev
+: 1713108841:0;npm i
+: 1713108849:0;npm run dev
+: 1713114255:0;npm i recoil
+: 1713114330:0;npm run dev
+: 1713114477:0;cd dotFiles
+: 1713114491:0;touch history.txt
+: 1713114504:0;cd ..
+: 1713114508:0;lazygit 
+: 1713114542:0;cd dotFiles
+: 1713114560:0;history > history.txt
+: 1713114867:0;cd ..
+: 1713114871:0;lazygit
+: 1713167556:0;git clone https://github.com/Rishabh672003/stack-overflow-label-predictor.git
+: 1713167658:0;git clone git@github.com:Rishabh672003/stack-overflow-label-predictor.git
+: 1713170043:0;cd stack-overflow-label-predictor
+: 1713170049:0;pip i
+: 1713170070:0;pip install requirements.txt
+: 1713170084:0;python -u "/Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/main2.py"
+: 1713170087:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713170094:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/main2.py
+: 1713170105:0;pip install numpy
+: 1713174130:0;ls
+: 1713174132:0;cd stack-overflow-label-predictor
+: 1713174142:0;las
+: 1713174144:0;ls
+: 1713174151:0;pip install -r requirements.txt
+: 1713175194:0;ls
+: 1713175196:0;ll
+: 1713183487:0;lazygit
+: 1713186627:0;npm run dev
+: 1713204410:0;lazygit
+: 1713243890:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713245734:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+: 1713245763:0;pip install pymysql sqlalchemy
+: 1713245826:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+: 1713299849:0;clear
+: 1713299853:0;npm run dev
+: 1713299857:0;clear
+: 1713299859:0;cd assignments0To1harkirat
+: 1713299868:0;lazygit
+: 1713300183:0;cd assignments0To1harkirat/week7/week-7-1/
+: 1713300190:0;npm run dev
+: 1713305158:0;oicd ..
+: 1713305162:0;cd ..
+: 1713305184:0;cd week-7-4/7.4-async-queries
+: 1713305187:0;npm i
+: 1713305194:0;npm run dev
+: 1713339752:0;cd ..
+: 1713339760:0;cd atom-family
+: 1713339763:0;npm i
+: 1713339771:0;npm run dev
+: 1713341235:0;cd ..
+: 1713341239:0;cd selector-family
+: 1713341242:0;npm i 
+: 1713341248:0;npm run dev
+: 1713355061:0;cd ..
+: 1713355097:0;cd week-5-Assignment  
+: 1713355104:0;ls
+: 1713355107:0;npm cr
+: 1713355114:0;npm cre
+: 1713355122:0;npm create vite@latest
+: 1713355148:0;cd mySol
+: 1713355150:0;npm i
+: 1713355165:0;npm run dev
+: 1713356264:0;cd ..
+: 1713356363:0;npm i 
+: 1713356370:0;npm run dev
+: 1713359129:0;npm i 
+: 1713359160:0;npm run dev
+: 1713365068:0;npm i run dev
+: 1713365075:0;npm i
+: 1713365082:0;npmrun dev
+: 1713365085:0;npm run dev
+: 1713366060:0;lazygit
+: 1713371661:0;cd assignments0To1harkirat
+: 1713371674:0;clear
+: 1713371677:0;lazygit
+: 1713371682:0;clear
+: 1713371691:0;cd assignments0To1harkirat/week8
+: 1713377064:0;npx create-next-app@lastest
+: 1713377092:0;npm install next
+: 1713377146:0;npx create-next-app@latest
+: 1713377307:0;cd week-8-1-youtube-clone
+: 1713377310:0;npm run dev
+: 1713421911:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713421952:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+: 1713423065:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713423684:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+: 1713424651:0;pip install matplotlib
+: 1713424779:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+: 1713500655:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713500691:0;pip install fastapi
+: 1713500700:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/fastapi.py
+: 1713500773:0;la
+: 1713500776:0;cd src
+: 1713500777:0;ls
+: 1713500783:0;python fastapi.py
+: 1713500789:0;python main2.py
+: 1713500831:0;python fastapi.py
+: 1713500941:0;ls
+: 1713500943:0;cd ..
+: 1713500947:0;pip install stramlit
+: 1713501395:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713501491:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/fastapi.py
+: 1713501655:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/bai.py
+: 1713501760:0;git pull
+: 1713501926:0;pip install tensorflow
+: 1713502030:0;git pull
+: 1713502366:0;pip install fastapi
+: 1713502461:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713502517:0;pip install sklearn
+: 1713502573:0;pip install --upgrade pip
+: 1713502605:0;pip install scikit-learn --upgrade
+: 1713502679:0;pip install seaborn
+: 1713504892:0;python -u "/Users/meet/Downloads/stack-overflow-label-predictor-main/src/api.py"
+: 1713504905:0;pip install fastapi
+: 1713504921:0;python src/api.py
+: 1713504931:0;ls
+: 1713504932:0;ll
+: 1713504942:0;python3 src/api.py
+: 1713505007:0;zzpython -u "/Users/meet/Downloads/stack-overflow-label-predictor-main/src/api.py"
+: 1713505015:0;python src/api.py
+: 1713505292:0;python -u "/Users/meet/Downloads/stack-overflow-label-predictor-main/src/api.py"
+: 1713505894:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713505895:0;git clone https://github.com/Ankit152/StackOverflow-Tag-Prediction.git
+: 1713505909:0;cd StackOverflow-Tag-Prediction
+: 1713505932:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713506116:0;pip install nltk
+: 1713506282:0;pip install pandas numpy matplotlib seaborn
+: 1713506293:0;python -u "/Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/StackOverflow-Tag-Prediction/tagEDA.ipynb"
+: 1713506939:0;git clone https://github.com/interestingsanskar07/Multi-class-classification-on-Stack-Overflow-questions.git
+: 1713506944:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1713508506:0;pip install bs4
+: 1713508823:0;git clone https://github.com/RPG-coder/TicTacToe-Game.git
+: 1713509393:0;python -u "/Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/StackOverflow-Tag-Prediction/new.py"
+: 1713555801:0;cd Week
+: 1713555806:0;cd ..
+: 1713555835:0;cd assignments0To1harkirat
+: 1713555838:0;clear
+: 1713555841:0;lazygit
+: 1713555862:0;cd 
+: 1713555866:0;clear
+: 1713555869:0;cd 
+: 1713555877:0;cd
+: 1713555892:0;cd assignments0To1harkirat
+: 1713555919:0;cd week8/week-8-1-youtube-clone
+: 1713555922:0;npm run dev
+: 1713561355:0;git clone git@github.com:100xDevs-hkirat/week-12.2.git
+: 1713561482:0;cd hKiratsProjectYTClone
+: 1713561510:0;ls -la
+: 1713561555:0;rm -rf .git
+: 1713562739:0;npm run dev
+: 1713564694:0;cd ..
+: 1713564723:0;npx create-next-app@latest
+: 1713565956:0;npm create vite@latest
+: 1713566014:0;cd week-8-1-2/
+: 1713566017:0;npm i
+: 1713566107:0;npm run dev
+: 1713566715:0;npm install -D tailwindcss postcss autoprefixer\
+npx tailwindcss init -p
+: 1713566772:0;npm run dev
+: 1713620589:0;lazygit
+: 1713650287:0;npm install @storybook/builder-vite --save-dev
+: 1713651069:0;npm run storybook
+: 1714049610:0;lazygit
+: 1714051357:0;npm run start
+: 1714051380:0;npm run dev
+: 1714055667:0;cd ..
+: 1714055692:0;npm create vite@latest
+: 1714055775:0;cd week-8-2-paytmFrontend
+: 1714055788:0;npm i
+: 1714055813:0;npm run dev
+: 1714056000:0;cd ..
+: 1714073848:0;cd week8
+: 1714073876:0;cd assignments0To1harkirat/week8
+: 1714073901:0;mkdir paytm
+: 1714073913:0;cd paytm
+: 1714073931:0;cd ..
+: 1714073941:0;ls
+: 1714073946:0;git clone https://github.com/100xdevs-cohort-2/paytm.git
+: 1714073960:0;ls -la
+: 1714073972:0;cd paytm
+: 1714073975:0;ls 
+: 1714073977:0;ls -la
+: 1714073998:0;rm -rf .git
+: 1714074004:0;ls -la
+: 1714074008:0;cd 
+: 1714074234:0;cd assignments0To1harkirat/week8/paytm
+: 1714074288:0;ls
+: 1714074324:0;Docker build ./ -t mongodb:4.7-replset
+: 1714074404:0;Docker run mongodb:4.7-replset
+: 1714074446:0;lazygit
+: 1714074630:0;Docker run --name mongodb-replset -p 27017:27017 -d mongodb:4.7-replset
+: 1714074728:0;docker ps
+: 1714074749:0;docker kill c2ab7a2785dd
+: 1714074757:0;Docker run --name mongodb-replset -p 27017:27017 -d mongodb:4.7-replset
+: 1714074799:0;docker ps
+: 1714074815:0;Docker run --name mongodb-replset22 -p 27017:27017 -d mongodb:4.7-replset
+: 1714075054:0;cd backend
+: 1714075058:0;npm i
+: 1714075064:0;cd frontend
+: 1714075067:0;npm i
+: 1714075074:0;nodemon index.js
+: 1714075176:0;npm i dotenv
+: 1714075184:0;nodemon index.js
+: 1714383332:0;npm run dev
+: 1714383339:0;nodemon index.js
+: 1714383345:0;lazygit
+: 1714384849:0;npm i cors 
+: 1714384851:0;lazygit
+: 1714384866:0;nodemon index.js
+: 1714397632:0;npm i jsonwebtoken
+: 1714397639:0;nodemon index.js
+: 1714412079:0;node --watch index.js
+: 1714412111:0;nodemon index.js
+: 1714476179:0;lazygit
+: 1714478931:0;nodemon index.js
+: 1714512061:0;npm i react-router-dom
+: 1714512069:0;nodemon index.js
+: 1714512079:0;npm run dev
+: 1714512291:0;npm install -D tailwindcss postcss autoprefixer\
+npx tailwindcss init -p
+: 1714512351:0;npm run dev
+: 1714517485:0;npm i axios
+: 1714517489:0;npm run dev
+: 1714519071:0;nodemon index.js
+: 1714520742:0;ssh terminal.shop
+: 1714643487:0;lazygit
+: 1714643492:0;npm run dev
+: 1714643497:0;nodemon index.js
+: 1714663283:0;cd ..
+: 1714663287:0;cd .
+: 1714663290:0;ls
+: 1714663293:0;cd ..
+: 1714663298:0;ls
+: 1714663319:0;mkdir week9
+: 1714663326:0;cd week9
+: 1714663550:0;npm create vite@latest
+: 1714663577:0;cd week-9-1
+: 1714663579:0;npm i
+: 1714663598:0;npm run dev
+: 1714669703:0;npm i axios
+: 1714669705:0;npm run dev
+: 1714673206:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1714673350:0;python -u "/Users/meet/Downloads/main (1).py"
+: 1714673375:0;python -u "/Users/meet/Downloads/tempCodeRunnerFile.py"
+: 1714673428:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/main (1).py"
+: 1714674405:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/EXP8.py
+: 1714674633:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP2.py"
+: 1714674633:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1714674677:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP2.py"
+: 1714674707:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP3.py"
+: 1714674714:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP4.py"
+: 1714674752:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+: 1714674757:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+: 1714674762:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+: 1714674770:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+: 1714674900:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+: 1714674905:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+: 1714674974:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+: 1714675033:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+: 1714675069:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+: 1714675151:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+: 1714675159:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP4.py"
+: 1714675288:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+: 1714675448:0;python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+: 1714675583:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+: 1714676558:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+: 1714676827:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+: 1714677058:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+: 1714677176:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+: 1714677181:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+: 1714677231:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP4.py"
+: 1714677252:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP3.py"
+: 1714677258:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP2.py"
+: 1714752246:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+: 1714752248:0;/usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+: 1714752255:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+: 1714752413:0;pip install socket
+: 1714752584:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connectionless client server using UDP..py"
+: 1714754950:0;lazygit
+: 1714754959:0;cd assignments0To1harkirat
+: 1714754961:0;lazygit
+: 1714756142:0;python -u "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+: 1714756156:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+: 1714756989:0;tshark -i eth0\
+
+: 1714757005:0;brew install tshark
+: 1714757157:0;brew install --cask wireshark
+: 1714757559:0;tshark -i eth0\
+
+: 1714757897:0;tshark -i en0\
+
+: 1714758052:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+: 1714758153:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/new1clientSide.py
+: 1714758172:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+: 1714758227:0;/Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connectionless client server using UDP..py"
+: 1714760523:0;cd "/Users/meet/Downloads/vim/" && javac exp8.java && java exp8
+: 1714760615:0;cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+: 1714760765:0;cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+: 1714760936:0;cd "/Users/meet/Downloads/vim/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+: 1714761011:0;cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+: 1714761165:0;cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+: 1714761334:0;cd "/Users/meet/Downloads/vim/" && javac TcpDateClient.java && java TcpDateClient
+: 1714761438:0;cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+: 1714761467:0;cd "/Users/meet/Downloads/vim/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+: 1714761516:0;cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+: 1714761542:0;cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+: 1714761551:0;cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+: 1714761560:0;cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+: 1714761605:0;cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+: 1714761653:0;cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+: 1714761775:0;cd "/Users/meet/Downloads/vim/" && javac udpchatclient.java && java udpchatclient
+: 1714761813:0;cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+: 1714761830:0;cd "/Users/meet/Downloads/vim/" && javac udpchatclient.java && java udpchatclient
+: 1714761876:0;cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+: 1714762111:0;cd "/Users/meet/Downloads/vim/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+: 1714762137:0;cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/" && javac udpchatclient.java && java udpchatclient
+: 1714762227:0;cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+: 1714762235:0;cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/" && javac udpchatclient.java && java udpchatclient
+: 1714762257:0;cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+: 1714763156:0;cd "/Users/meet/Downloads/vim/Exp8/" && javac TcpDateClient.java && java TcpDateClient
+: 1714763829:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+: 1714763853:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+: 1714764278:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/server.py
+: 1714764283:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/client.py
+: 1714764628:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+: 1714764634:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+: 1714764665:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+: 1714764689:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+: 1714764746:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+: 1714764753:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+: 1714764794:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/client.py
+: 1714764805:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/server.py
+: 1714764816:0;/Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/client.py
+: 1714764857:0;[200~   tshark -i eth0
+: 1714765156:0;tclsh ns2.tcl
+: 1714850333:0;clear
+: 1714850336:0;npm run dev
+: 1714850378:0;cd assignments0To1harkirat/week9/week-9-1
+: 1714850380:0;npm run dev
+: 1714851142:0;cd assignments0To1harkirat/week9/week-9-1
+: 1714851145:0;npm run dev
+: 1714851153:0;cd assignments0To1harkirat
+: 1714851155:0;lazygit
+: 1714858104:0;cd ..
+: 1714858112:0;mkdir week-9-2
+: 1714858118:0;cd week-9-2
+: 1714858129:0;npm init -y
+: 1714858136:0;tsc --init
+: 1714858161:0;npm i
+: 1714858183:0;touch index.ts
+: 1714858196:0;nodemon index.ts
+: 1714858579:0;npm tsc --init
+: 1714858625:0;tsc -b
+: 1714858717:0;node index.ts
+: 1714858725:0;nodemon index.ts
+: 1714861025:0;nodemon src/index.ts
+: 1714861035:0;tsc -b
+: 1714861936:0;nodemon src/index.ts
+: 1714910418:0;tsc -b
+: 1714910441:0;cd assignments0To1harkirat/week9/week-9-2
+: 1714910444:0;tsc -b
+: 1714924008:0;cd assignments0To1harkirat/week9/week-9-2
+: 1714924021:0;nodemon src/index.ts
+: 1714924179:0;tsc -b
+: 1714924183:0;nodemon src/index.ts
+: 1714938826:0;cd ..
+: 1714938844:0;cd week10/week-10-0-1
+: 1714939286:0;cd 
+: 1714939323:0;cd assignments0To1harkirat/week10/week-10-0-1
+: 1714939382:0;npm init -y
+: 1714939974:0;npm i pg @types/pg
+: 1714941645:0;psql
+: 1714941698:0;npm i dotenv
+: 1714941727:0;touch utils.ts
+: 1714941740:0;touch create-table.ts
+: 1714943188:0;node create-table.ts
+: 1714943250:0;npm run build
+: 1714943264:0;tsc init
+: 1714943296:0;tsc init -y
+: 1714943318:0;npx tsc --init
+: 1714943324:0;npm run build
+: 1714943347:0;node create-table.ts
+: 1714943476:0;node create-table.js
+: 1714943494:0;npm run build
+: 1714943497:0;node create-table.js
+: 1714995616:0;psql postgresql://hackathonmj641:5Ddwf8ReSqiG@ep-bold-resonance-a1ldlagx-pooler.ap-southeast-1.aws.neon.tech/testdb?sslmode=require
+: 1714995759:0;psql postgresql://hackathonmj641:5Ddwf8ReSqiG@ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech/testdb?sslmode=require
+: 1714995967:0;psql -h ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech -U hackathonmj641 -d testdb -p 5432\
+
+: 1714996335:0;npm run build
+: 1714996412:0;node dist/create-table.js
+: 1714997109:0;lazygit
+: 1714997709:0;cd assignments0To1harkirat
+: 1714997724:0;cd assignments0To1harkirat/week10/week-10-0-1
+: 1714997733:0;psql -h ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech -U hackathonmj641 -d testdb -p 5432\
+
+: 1714997776:0;clear
+: 1714997781:0;lazygit
+: 1714998551:0;npm run build
+: 1714998621:0;node dist/insert-data.js
+: 1714998850:0;psql -h ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech -U hackathonmj641 -d testdb -p 5432\
+
+: 1714999110:0;node dist/insert-data.js
+: 1714999792:0;brew remove wireshark --cask
+: 1714999914:0;brew list
+: 1714999953:0;brew autoremove
+: 1715000022:0;brew autoremove --dry-run\
+
+: 1715000033:0;brew autoremove\
+
+: 1715000042:0;brew cleanup\
+
+: 1715000131:0;brew deps [package_name]\
+
+: 1715000140:0;brew deps docker\
+
+: 1715000155:0;brew deps docker --cask\
+
+: 1715000260:0;lazygit 
+: 1715001441:0;cd ~
+: 1715001525:0;cp .zsh_history /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/dotFiles/zsh_history_backup.txt
+: 1715002019:0;source ~/.zshrc\
+
+: 1715002337:0;cp .zsh_history /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/dotFiles/zsh_history_backup.txt

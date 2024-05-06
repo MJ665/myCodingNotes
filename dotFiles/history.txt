@@ -1143,22 +1143,427 @@
  1143  fio test.fio
  1144  fio fio.fio
  1145  lazygit
- 1146* cd ..
- 1147* cd week7/week-7-1
- 1148* npm create vite@latest
- 1149* npm i
- 1150* npm i react-router-dom
- 1151* npm run dev
- 1152* nvim
- 1153* cd assignments0To1harkirat
- 1154* nvim
- 1155* npm run dev
- 1156* npm i
- 1157* npm run dev
- 1158* npm i recoil
- 1159* npm run dev
+ 1146  cd ..
+ 1147  cd week7/week-7-1
+ 1148  npm create vite@latest
+ 1149  npm i
+ 1150  npm i react-router-dom
+ 1151  npm run dev
+ 1152  nvim
+ 1153  cd assignments0To1harkirat
+ 1154  nvim
+ 1155  npm run dev
+ 1156  npm i
+ 1157  npm run dev
+ 1158  npm i recoil
+ 1159  npm run dev
  1160  cd dotFiles
  1161  touch history.txt
  1162  cd ..
  1163  lazygit 
  1164  cd dotFiles
+ 1165  history > history.txt
+ 1166  cd ..
+ 1167  lazygit
+ 1168  git clone https://github.com/Rishabh672003/stack-overflow-label-predictor.git
+ 1169  git clone git@github.com:Rishabh672003/stack-overflow-label-predictor.git
+ 1170  cd stack-overflow-label-predictor
+ 1171  pip i
+ 1172  pip install requirements.txt
+ 1173  python -u "/Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/main2.py"
+ 1174  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1175  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/main2.py
+ 1176  pip install numpy
+ 1177  ls
+ 1178  cd stack-overflow-label-predictor
+ 1179  las
+ 1180  ls
+ 1181  pip install -r requirements.txt
+ 1182  ls
+ 1183  ll
+ 1184  lazygit
+ 1185  npm run dev
+ 1186  lazygit
+ 1187  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1188  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+ 1189  pip install pymysql sqlalchemy
+ 1190  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+ 1191  clear
+ 1192  npm run dev
+ 1193  clear
+ 1194  cd assignments0To1harkirat
+ 1195  lazygit
+ 1196  cd assignments0To1harkirat/week7/week-7-1/
+ 1197  npm run dev
+ 1198  oicd ..
+ 1199  cd ..
+ 1200  cd week-7-4/7.4-async-queries
+ 1201  npm i
+ 1202  npm run dev
+ 1203  cd ..
+ 1204  cd atom-family
+ 1205  npm i
+ 1206  npm run dev
+ 1207  cd ..
+ 1208  cd selector-family
+ 1209  npm i 
+ 1210  npm run dev
+ 1211  cd ..
+ 1212  cd week-5-Assignment  
+ 1213  ls
+ 1214  npm cr
+ 1215  npm cre
+ 1216  npm create vite@latest
+ 1217  cd mySol
+ 1218  npm i
+ 1219  npm run dev
+ 1220  cd ..
+ 1221  npm i 
+ 1222  npm run dev
+ 1223  npm i 
+ 1224  npm run dev
+ 1225  npm i run dev
+ 1226  npm i
+ 1227  npmrun dev
+ 1228  npm run dev
+ 1229  lazygit
+ 1230  cd assignments0To1harkirat
+ 1231  clear
+ 1232  lazygit
+ 1233  clear
+ 1234  cd assignments0To1harkirat/week8
+ 1235  npx create-next-app@lastest
+ 1236  npm install next
+ 1237  npx create-next-app@latest
+ 1238  cd week-8-1-youtube-clone
+ 1239  npm run dev
+ 1240  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1241  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+ 1242  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1243  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+ 1244  pip install matplotlib
+ 1245  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/new.py
+ 1246  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1247  pip install fastapi
+ 1248  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/fastapi.py
+ 1249  la
+ 1250  cd src
+ 1251  ls
+ 1252  python fastapi.py
+ 1253  python main2.py
+ 1254  python fastapi.py
+ 1255  ls
+ 1256  cd ..
+ 1257  pip install stramlit
+ 1258  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1259  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/fastapi.py
+ 1260  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/stack-overflow-label-predictor/src/bai.py
+ 1261  git pull
+ 1262  pip install tensorflow
+ 1263  git pull
+ 1264  pip install fastapi
+ 1265  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1266  pip install sklearn
+ 1267  pip install --upgrade pip
+ 1268  pip install scikit-learn --upgrade
+ 1269  pip install seaborn
+ 1270  python -u "/Users/meet/Downloads/stack-overflow-label-predictor-main/src/api.py"
+ 1271  pip install fastapi
+ 1272  python src/api.py
+ 1273  ls
+ 1274  ll
+ 1275  python3 src/api.py
+ 1276  zzpython -u "/Users/meet/Downloads/stack-overflow-label-predictor-main/src/api.py"
+ 1277  python src/api.py
+ 1278  python -u "/Users/meet/Downloads/stack-overflow-label-predictor-main/src/api.py"
+ 1279  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1280  git clone https://github.com/Ankit152/StackOverflow-Tag-Prediction.git
+ 1281  cd StackOverflow-Tag-Prediction
+ 1282  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1283  pip install nltk
+ 1284  pip install pandas numpy matplotlib seaborn
+ 1285  python -u "/Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/StackOverflow-Tag-Prediction/tagEDA.ipynb"
+ 1286  git clone https://github.com/interestingsanskar07/Multi-class-classification-on-Stack-Overflow-questions.git
+ 1287  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1288  pip install bs4
+ 1289  git clone https://github.com/RPG-coder/TicTacToe-Game.git
+ 1290  python -u "/Users/meet/Desktop/trial/Sem4Internship/queryClassificationSystem/StackOverflow-Tag-Prediction/new.py"
+ 1291  cd Week
+ 1292  cd ..
+ 1293  cd assignments0To1harkirat
+ 1294  clear
+ 1295  lazygit
+ 1296  cd 
+ 1297  clear
+ 1298  cd 
+ 1299  cd
+ 1300  cd assignments0To1harkirat
+ 1301  cd week8/week-8-1-youtube-clone
+ 1302  npm run dev
+ 1303  git clone git@github.com:100xDevs-hkirat/week-12.2.git
+ 1304  cd hKiratsProjectYTClone
+ 1305  ls -la
+ 1306  rm -rf .git
+ 1307  npm run dev
+ 1308  cd ..
+ 1309  npx create-next-app@latest
+ 1310  npm create vite@latest
+ 1311  cd week-8-1-2/
+ 1312  npm i
+ 1313  npm run dev
+ 1314  npm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p
+ 1315  npm run dev
+ 1316  lazygit
+ 1317  npm install @storybook/builder-vite --save-dev
+ 1318  npm run storybook
+ 1319  lazygit
+ 1320  npm run start
+ 1321  npm run dev
+ 1322  cd ..
+ 1323  npm create vite@latest
+ 1324  cd week-8-2-paytmFrontend
+ 1325  npm i
+ 1326  npm run dev
+ 1327  cd ..
+ 1328  cd week8
+ 1329  cd assignments0To1harkirat/week8
+ 1330  mkdir paytm
+ 1331  cd paytm
+ 1332  cd ..
+ 1333  ls
+ 1334  git clone https://github.com/100xdevs-cohort-2/paytm.git
+ 1335  ls -la
+ 1336  cd paytm
+ 1337  ls 
+ 1338  ls -la
+ 1339  rm -rf .git
+ 1340  ls -la
+ 1341  cd 
+ 1342  cd assignments0To1harkirat/week8/paytm
+ 1343  ls
+ 1344  Docker build ./ -t mongodb:4.7-replset
+ 1345  Docker run mongodb:4.7-replset
+ 1346  lazygit
+ 1347  Docker run --name mongodb-replset -p 27017:27017 -d mongodb:4.7-replset
+ 1348  docker ps
+ 1349  docker kill c2ab7a2785dd
+ 1350  Docker run --name mongodb-replset -p 27017:27017 -d mongodb:4.7-replset
+ 1351  docker ps
+ 1352  Docker run --name mongodb-replset22 -p 27017:27017 -d mongodb:4.7-replset
+ 1353  cd backend
+ 1354  npm i
+ 1355  cd frontend
+ 1356  npm i
+ 1357  nodemon index.js
+ 1358  npm i dotenv
+ 1359  nodemon index.js
+ 1360  npm run dev
+ 1361  nodemon index.js
+ 1362  lazygit
+ 1363  npm i cors 
+ 1364  lazygit
+ 1365  nodemon index.js
+ 1366  npm i jsonwebtoken
+ 1367  nodemon index.js
+ 1368  node --watch index.js
+ 1369  nodemon index.js
+ 1370  lazygit
+ 1371  nodemon index.js
+ 1372  npm i react-router-dom
+ 1373  nodemon index.js
+ 1374  npm run dev
+ 1375  npm install -D tailwindcss postcss autoprefixer\nnpx tailwindcss init -p
+ 1376  npm run dev
+ 1377  npm i axios
+ 1378  npm run dev
+ 1379  nodemon index.js
+ 1380  ssh terminal.shop
+ 1381  lazygit
+ 1382  npm run dev
+ 1383  nodemon index.js
+ 1384  cd ..
+ 1385  cd .
+ 1386  ls
+ 1387  cd ..
+ 1388  ls
+ 1389  mkdir week9
+ 1390  cd week9
+ 1391  npm create vite@latest
+ 1392  cd week-9-1
+ 1393  npm i
+ 1394  npm run dev
+ 1395  npm i axios
+ 1396  npm run dev
+ 1397  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1398  python -u "/Users/meet/Downloads/main (1).py"
+ 1399  python -u "/Users/meet/Downloads/tempCodeRunnerFile.py"
+ 1400  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/main (1).py"
+ 1401  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/EXP8.py
+ 1402  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP2.py"
+ 1403  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1404  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP2.py"
+ 1405  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP3.py"
+ 1406  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP4.py"
+ 1407  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+ 1408  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+ 1409  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+ 1410  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+ 1411  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+ 1412  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+ 1413  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+ 1414  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+ 1415  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+ 1416  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+ 1417  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP4.py"
+ 1418  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+ 1419  python -u "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+ 1420  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+ 1421  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+ 1422  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP8.py"
+ 1423  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP7.py"
+ 1424  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP6.py"
+ 1425  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP5.py"
+ 1426  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP4.py"
+ 1427  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP3.py"
+ 1428  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Volumes/MEET14AIML2/BAIPracc/bai exp/EXP2.py"
+ 1429  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+ 1430  /usr/local/bin/python3 /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/printEnvVariablesToFile.py /Users/meet/.vscode/extensions/ms-python.python-2024.4.1/python_files/deactivate/zsh/envVars.txt
+ 1431  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+ 1432  pip install socket
+ 1433  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connectionless client server using UDP..py"
+ 1434  lazygit
+ 1435  cd assignments0To1harkirat
+ 1436  lazygit
+ 1437  python -u "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+ 1438  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+ 1439  tshark -i eth0\n
+ 1440  brew install tshark
+ 1441  brew install --cask wireshark
+ 1442  tshark -i eth0\n
+ 1443  tshark -i en0\n
+ 1444  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+ 1445  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/new1clientSide.py
+ 1446  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connection_oriented TCP_IP.py"
+ 1447  /Users/meet/.pyenv/versions/3.9.6/bin/python "/Users/meet/Downloads/vim/connectionless client server using UDP..py"
+ 1448  cd "/Users/meet/Downloads/vim/" && javac exp8.java && java exp8
+ 1449  cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+ 1450  cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+ 1451  cd "/Users/meet/Downloads/vim/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 1452  cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+ 1453  cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+ 1454  cd "/Users/meet/Downloads/vim/" && javac TcpDateClient.java && java TcpDateClient
+ 1455  cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+ 1456  cd "/Users/meet/Downloads/vim/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 1457  cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+ 1458  cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+ 1459  cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+ 1460  cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+ 1461  cd "/Users/meet/Downloads/vim/" && javac TcpDateServer.java && java TcpDateServer
+ 1462  cd "/Users/meet/Downloads/vim/" && javac tcpdateclient.java && java tcpdateclient
+ 1463  cd "/Users/meet/Downloads/vim/" && javac udpchatclient.java && java udpchatclient
+ 1464  cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+ 1465  cd "/Users/meet/Downloads/vim/" && javac udpchatclient.java && java udpchatclient
+ 1466  cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+ 1467  cd "/Users/meet/Downloads/vim/" && javac tempCodeRunnerFile.java && java tempCodeRunnerFile
+ 1468  cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/" && javac udpchatclient.java && java udpchatclient
+ 1469  cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+ 1470  cd "/Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/harkiratTut/harkiratCourse0-1/" && javac udpchatclient.java && java udpchatclient
+ 1471  cd "/Users/meet/Downloads/vim/" && javac udpchatserver.java && java udpchatserver
+ 1472  cd "/Users/meet/Downloads/vim/Exp8/" && javac TcpDateClient.java && java TcpDateClient
+ 1473  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+ 1474  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+ 1475  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/server.py
+ 1476  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/client.py
+ 1477  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+ 1478  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+ 1479  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+ 1480  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+ 1481  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/server.py
+ 1482  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionOrientedClient/client.py
+ 1483  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/client.py
+ 1484  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/server.py
+ 1485  /Users/meet/.pyenv/versions/3.9.6/bin/python /Users/meet/Downloads/vim/connectionLessClientUDP/client.py
+ 1486  ^[[200~   tshark -i eth0
+ 1487  tclsh ns2.tcl
+ 1488  clear
+ 1489  npm run dev
+ 1490  cd assignments0To1harkirat/week9/week-9-1
+ 1491  npm run dev
+ 1492  cd assignments0To1harkirat/week9/week-9-1
+ 1493  npm run dev
+ 1494  cd assignments0To1harkirat
+ 1495  lazygit
+ 1496  cd ..
+ 1497  mkdir week-9-2
+ 1498  cd week-9-2
+ 1499  npm init -y
+ 1500  tsc --init
+ 1501  npm i
+ 1502  touch index.ts
+ 1503  nodemon index.ts
+ 1504  npm tsc --init
+ 1505  tsc -b
+ 1506  node index.ts
+ 1507  nodemon index.ts
+ 1508  nodemon src/index.ts
+ 1509  tsc -b
+ 1510  nodemon src/index.ts
+ 1511  tsc -b
+ 1512  cd assignments0To1harkirat/week9/week-9-2
+ 1513  tsc -b
+ 1514  cd assignments0To1harkirat/week9/week-9-2
+ 1515  nodemon src/index.ts
+ 1516  tsc -b
+ 1517  nodemon src/index.ts
+ 1518  cd ..
+ 1519  cd week10/week-10-0-1
+ 1520  cd 
+ 1521  cd assignments0To1harkirat/week10/week-10-0-1
+ 1522  npm init -y
+ 1523  npm i pg @types/pg
+ 1524  psql
+ 1525  npm i dotenv
+ 1526  touch utils.ts
+ 1527  touch create-table.ts
+ 1528  node create-table.ts
+ 1529  npm run build
+ 1530  tsc init
+ 1531  tsc init -y
+ 1532  npx tsc --init
+ 1533  npm run build
+ 1534  node create-table.ts
+ 1535  node create-table.js
+ 1536  npm run build
+ 1537  node create-table.js
+ 1538  psql postgresql://hackathonmj641:5Ddwf8ReSqiG@ep-bold-resonance-a1ldlagx-pooler.ap-southeast-1.aws.neon.tech/testdb?sslmode=require
+ 1539  psql postgresql://hackathonmj641:5Ddwf8ReSqiG@ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech/testdb?sslmode=require
+ 1540  psql -h ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech -U hackathonmj641 -d testdb -p 5432\n
+ 1541  npm run build
+ 1542  node dist/create-table.js
+ 1543  lazygit
+ 1544  cd assignments0To1harkirat
+ 1545  cd assignments0To1harkirat/week10/week-10-0-1
+ 1546  psql -h ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech -U hackathonmj641 -d testdb -p 5432\n
+ 1547  clear
+ 1548  lazygit
+ 1549  npm run build
+ 1550  node dist/insert-data.js
+ 1551  psql -h ep-bold-resonance-a1ldlagx.ap-southeast-1.aws.neon.tech -U hackathonmj641 -d testdb -p 5432\n
+ 1552  node dist/insert-data.js
+ 1553  brew remove wireshark --cask
+ 1554  brew list
+ 1555  brew autoremove
+ 1556  brew autoremove --dry-run\n
+ 1557  brew autoremove\n
+ 1558  brew cleanup\n
+ 1559  brew deps [package_name]\n
+ 1560  brew deps docker\n
+ 1561  brew deps docker --cask\n
+ 1562  lazygit 
+ 1563  cd ~
+ 1564  cp .zsh_history /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/dotFiles/zsh_history_backup.txt
+ 1565  source ~/.zshrc\n
+ 1566  cp .zsh_history /Users/meet/Desktop/Coding/~Coding_Janauary2023_till_/myCodingNotes/dotFiles/zsh_history_backup.txt
+ 1567  exec zsh
+ 1568  cd dotFiles
+ 1569  ls
