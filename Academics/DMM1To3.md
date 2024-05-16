@@ -73,6 +73,7 @@ System, Healthcare Information Management System
 # Chapter 1
 
 ----
+## 2 Markers C1
 ----
 
 
@@ -213,3 +214,81 @@ These answers provide a concise yet comprehensive overview of each topic.
 
 
 
+
+
+
+
+
+
+-----
+-----
+-----
+-----
+## 5 Marker C1
+----
+----
+
+Explain the differences between data models, schemas, and instances in the context of database systems.
+
+
+Analyze the advantages and disadvantages of database systems compared to traditional file systems, considering factors such as data integrity, scalability, and ease of access.
+
+
+Describe Major issues in Data Mining(Include real world examples)
+
+
+Demonstrate how different data models are applied in real-world database systems.
+
+
+Compare and contrast characteristics of databases with those of traditional file systems.
+
+
+Explain the types of patterns to be mined in Data Mining.
+
+
+Discuss the application of Data Mining.
+
+
+
+
+
+-----
+-----
+-----
+-----
+## 10 Marker C1
+----
+----
+
+
+
+A company has recently migrated its data management system from a traditional file system to a database system. As the newly appointed Database Administrator (DBA), outline the steps you would take to ensure a smooth transition and discuss the potential benefits of this migration.
+
+
+A healthcare organization is exploring the implementation of data mining techniques to improve patient care and optimize resource allocation. Describe the process of selecting appropriate data mining technologies and outline potential applications in healthcare analytics.
+
+
+Analyze the impact of data mining on decision-making processes in various industries, citing specific examples to illustrate its practical applications and potential benefits.
+
+
+Summarize the fundamental characteristics of databases and their significance in modern data management practices.
+
+
+Evaluate the importance of data normalization techniques in database design, explaining how they contribute to data integrity, efficiency, and scalability.
+
+
+Discuss the major issues encountered in data mining projects, including data quality, scalability, and interpretability, and propose strategies for addressing these challenges effectively.
+
+
+Assess the role of metadata in organizing and managing data effectively within a database system, discussing its significance in facilitating data analysis and retrieval processes.
+
+
+
+
+----
+
+
+
+
+
+----
