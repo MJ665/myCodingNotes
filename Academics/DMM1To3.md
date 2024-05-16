@@ -1276,6 +1276,68 @@ Write SQL statements to create the tables defined in database Hospital Managemen
 ----
 ----
 
+Below are the SQL statements to create tables for a Hospital Management System database and insert sample data into each table:
+
+1. **Create Tables:**
+
+```sql
+-- Create Patients Table
+CREATE TABLE Patients (
+    PatientID INT PRIMARY KEY AUTO_INCREMENT,
+    PatientName VARCHAR(50) NOT NULL,
+    DateOfBirth DATE NOT NULL,
+    Gender VARCHAR(10) NOT NULL,
+    Address VARCHAR(100),
+    PhoneNumber VARCHAR(15)
+);
+
+-- Create Doctors Table
+CREATE TABLE Doctors (
+    DoctorID INT PRIMARY KEY AUTO_INCREMENT,
+    DoctorName VARCHAR(50) NOT NULL,
+    Specialty VARCHAR(50) NOT NULL,
+    PhoneNumber VARCHAR(15),
+    Email VARCHAR(100)
+);
+
+-- Create Appointments Table
+CREATE TABLE Appointments (
+    AppointmentID INT PRIMARY KEY AUTO_INCREMENT,
+    PatientID INT,
+    DoctorID INT,
+    AppointmentDate DATE NOT NULL,
+    StartTime TIME NOT NULL,
+    EndTime TIME NOT NULL,
+    Reason VARCHAR(255),
+    FOREIGN KEY (PatientID) REFERENCES Patients(PatientID),
+    FOREIGN KEY (DoctorID) REFERENCES Doctors(DoctorID)
+);
+```
+
+2. **Insert Sample Data:**
+
+```sql
+-- Insert Sample Patients
+INSERT INTO Patients (PatientName, DateOfBirth, Gender, Address, PhoneNumber) VALUES 
+('Alice', '1990-05-15', 'Female', '123 Main St, City', '123-456-7890'),
+('Bob', '1985-08-20', 'Male', '456 Elm St, Town', '456-789-0123'),
+('Charlie', '1978-12-10', 'Male', '789 Oak St, Village', '789-012-3456');
+
+-- Insert Sample Doctors
+INSERT INTO Doctors (DoctorName, Specialty, PhoneNumber, Email) VALUES 
+('Dr. Smith', 'Cardiology', '111-222-3333', 'drsmith@example.com'),
+('Dr. Johnson', 'Orthopedics', '444-555-6666', 'drjohnson@example.com'),
+('Dr. Lee', 'Pediatrics', '777-888-9999', 'drlee@example.com');
+
+-- Insert Sample Appointments
+INSERT INTO Appointments (PatientID, DoctorID, AppointmentDate, StartTime, EndTime, Reason) VALUES 
+(1, 1, '2024-05-17', '09:00:00', '09:30:00', 'Regular Checkup'),
+(2, 2, '2024-05-18', '10:00:00', '10:30:00', 'Follow-up Appointment'),
+(3, 3, '2024-05-19', '11:00:00', '11:30:00', 'Vaccination');
+```
+
+These SQL statements create tables for Patients, Doctors, and Appointments in a Hospital Management System database, and insert sample data into each table to populate patient, doctor, and appointment information. Adjust the data types and sample data according to the specific requirements of your hospital management system.
+
 ----
 ----
 ----
@@ -1293,7 +1355,22 @@ Assume the database of Admission Management System, Compose an SQL query to retr
 ----
 
 
+Certainly! Below is the SQL query to retrieve the names of students who are enrolled in a specific course, including relevant details such as student names and enrollment status:
 
+```sql
+SELECT Students.StudentName, Enrollment.EnrollmentStatus
+FROM Students
+JOIN Enrollment ON Students.StudentID = Enrollment.StudentID
+JOIN Courses ON Enrollment.CourseID = Courses.CourseID
+WHERE Courses.CourseName = 'Your Specific Course Name';
+```
+
+In this query:
+- We select the student's name from the Students table and the enrollment status from the Enrollment table.
+- We use JOIN operations to link the Students, Enrollment, and Courses tables based on their respective keys (StudentID and CourseID).
+- We filter the results based on a specific course name using the WHERE clause. Replace 'Your Specific Course Name' with the name of the course you're interested in.
+  
+This query will retrieve the names of students who are enrolled in the specified course along with their enrollment status. Adjust the table and column names according to your database schema.
 
 
 
