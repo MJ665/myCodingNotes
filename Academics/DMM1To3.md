@@ -981,9 +981,36 @@ Draw ER diagram of Hospital management system. Convert the ER diagram to tables.
 ----
 ----
 
+![HMS ER](./ERHMS.jpg)
 
+The image you sent depicts an Entity-Relationship (ER) diagram for a hospital management system. It illustrates the entities involved in the system, their attributes, and the relationships between them. Here’s a breakdown of the ER diagram:
 
+* Entities:
+  * Patient
+  * Hospital
+  * Doctor
+  * Medical Record
 
+* Attributes:
+  * Patient: PName, PAddress, PDiagnosis, Pat-id
+  * Hospital: Hosp-id, Hos-Name, HAddress, HCity
+  * Doctor: Doc-id, DName, Qualification, Salary
+  * Medical Record: Record-id, Date_of_examination, Problem
+
+* Relationships:
+  * A patient can be admitted to one hospital (1:N).
+  * A hospital can have many patients admitted (N:1).
+  * A doctor can have many medical records (1:N).
+  * A medical record is associated with one doctor (N:1). 
+
+Here’s how the ER diagram translates to tables in a relational database:
+
+| Table Name | Attributes | Primary Key | Foreign Key |
+|---|---|---|---|
+| Patient | Pat-id, PName, PAddress, PDiagnosis | Pat-id | |
+| Hospital | Hosp-id, Hos-Name, HAddress, HCity | Hosp-id | |
+| Doctor | Doc-id, DName, Qualification, Salary | Doc-id | |
+| Medical Record | Record-id, Date_of_examination, Problem, Doc-id, Pat-id | Record-id | Doc-id (references Doctor.Doc-id), Pat-id (references Patient.Pat-id) | 
 
 ----
 ----
@@ -1001,9 +1028,28 @@ Draw EER diagram of Railway Reservation system. Convert the ER diagram to tables
 ----
 ----
 
+![ERRS](ERRS.jpeg)
 
+Based on the image you provided, which is an ER diagram for a Railway Reservation System, here are the tables in a relational database:
 
+| Table Name | Attributes | Primary Key | Foreign Key |
+|---|---|---|---|
+| Passenger | Passenger_ID, Passenger_Name, Age, Gender | Passenger_ID | |
+| Train | Train_ID, Train_Name, Source_Station (references Station.Station_Name), Destination_Station (references Station.Station_Name), Departure_Date | Train_ID | |
+| Station | Station_Name | Station_Name | |
+| Ticket | Ticket_ID, Passenger_ID (references Passenger.Passenger_ID), Train_ID (references Train.Train_ID), Journey_Date, Seat_Number, Class, Fare | Ticket_ID | | 
 
+Here's a breakdown of the tables and their relationships:
+
+* **Passenger:** Stores information about passengers including their ID, name, age, and gender.
+* **Train:** Stores information about trains including their ID, name, source station, destination station, and departure date. 
+* **Station:** Stores the names of stations.
+* **Ticket:** Stores ticketing information including the ticket ID, passenger ID (foreign key referencing Passenger.Passenger_ID), train ID (foreign key referencing Train.Train_ID), journey date, seat number, class (e.g., economy, business), and fare.
+
+Some points to note:
+
+* The ER diagram shows a many-to-many relationship between Train and Station. This is because a train can have many stations on its route, and a station can have many trains stopping by. In the tables, we don't explicitly represent this many-to-many relationship. Instead, we can create a separate table to link trains and stations if needed. 
+* The  departure time attribute is missing from the Train table in the image you provided. You can include this attribute if it's relevant to your system.
 
 ----
 ----
