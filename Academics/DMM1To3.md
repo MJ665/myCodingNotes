@@ -1121,7 +1121,43 @@ Explain the steps envolved in creating ER Diagram. Draw ER disgram for Library M
 ----
 ----
 
+![ER Lms](ERLMS.png)
 
+Sure, I can help you with that. Here are the steps involved in creating an Entity-Relationship (ER) Diagram for a library management system:
+
+1. **Identify the Entities:**  The first step is to identify the real-world objects or concepts that will be stored information about in your database system. In a library management system, these entities could include books, members, staff, publishers, and borrowings.
+
+2. **Define the Attributes:** Once you have identified the entities, you need to define the attributes or characteristics that describe each entity.  For example, some attributes of a Book entity might be book title, author, ISBN, and publication date.
+
+3. **Identify the Relationships:**  The next step is to identify the relationships between the entities. These relationships define how the entities are connected to each other. In a library management system, a member might borrow many books, and a book might be borrowed by many members.
+
+4. **Depict the ER Diagram Visually:**  Finally, you can use a graphical notation to depict the entities, attributes, and relationships in your ER diagram. Rectangles represent entities, ovals represent attributes, and diamonds represent relationships. Lines connect entities and relationships, and cardinalities (e.g., 1:N, N:M) are used to specify the number of occurrences of one entity in relation to another.
+
+Here’s an ER diagram for a library management system based on the image you provided:
+
+* **Entities:**
+  * Book
+  * Author
+  * Publisher
+  * Member
+  * Borrowing
+
+* **Attributes:**
+  * Book: Book-id, Title, Author (references Author.Author-name), Publisher (references Publisher.Pub-name), Available
+  * Author: Author-name
+  * Publisher: Pub-name, Address
+  * Member: Member-id, Member-name, Member-type, Expiry-date
+  * Borrowing: Borrowing-id, Book-id (references Book.Book-id), Member-id (references Member.Member-id), Issue-date, Due-date
+
+* **Relationships:**
+  * A book can be written by one author (1:N).
+  * An author can write many books (N:1).
+  * A book is published by one publisher (1:N).
+  * A publisher can publish many books (N:1).
+  * A member can borrow many books (1:N).
+  * A book can be borrowed by many members (N:1).
+  
+I hope this helps!
 
 
 
