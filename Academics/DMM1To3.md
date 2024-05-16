@@ -1155,6 +1155,27 @@ Define normalization and discuss its importance in relational database design.
 ----
 ----
 
+
+**Define normalization and discuss its importance in relational database design.**
+
+Normalization is a database design technique used to organize data in a relational database efficiently, reducing redundancy and dependency. It involves breaking down large tables into smaller, related tables and establishing relationships between them. The main goal of normalization is to eliminate data anomalies such as insertion, update, and deletion anomalies, and to ensure data integrity and consistency.
+
+The process of normalization typically involves applying a series of normalization forms, each representing a higher level of normalization. These normalization forms include First Normal Form (1NF), Second Normal Form (2NF), Third Normal Form (3NF), Boyce-Codd Normal Form (BCNF), Fourth Normal Form (4NF), and Fifth Normal Form (5NF).
+
+The importance of normalization in relational database design can be summarized as follows:
+
+1. **Data Organization:** Normalization helps in organizing data into logical, manageable units, making it easier to maintain and update.
+
+2. **Reduction of Redundancy:** By eliminating redundant data, normalization reduces storage space and minimizes the risk of data inconsistency.
+
+3. **Data Integrity:** Normalization reduces the risk of data anomalies such as insertion, update, and deletion anomalies, ensuring data integrity and consistency.
+
+4. **Efficient Querying:** Normalized databases are more efficient for querying and retrieving data, as they minimize the need for complex join operations and improve query performance.
+
+5. **Scalability:** Normalized databases are more scalable, allowing for easier expansion and modification of the database schema as the application requirements evolve.
+
+Overall, normalization is a fundamental aspect of relational database design, ensuring that databases are well-structured, efficient, and maintainable.
+
 ----
 ----
 ----
@@ -1166,6 +1187,42 @@ You are tasked with designing a database schema for a university. The database n
 ----
 ----
 ----
+
+
+
+**SQL Queries for the "Courses" Table:**
+
+a. **Retrieve all course names and their corresponding department names:**
+```sql
+SELECT c.CourseName, d.DepartmentName
+FROM Courses c
+JOIN Departments d ON c.DepartmentID = d.DepartmentID;
+```
+
+b. **Retrieve the details of a course with a specific CourseID:**
+```sql
+SELECT *
+FROM Courses
+WHERE CourseID = <specific_course_id>;
+```
+
+**SQL Queries for Updating and Deleting Courses:**
+
+a. **Update the name of a course:**
+```sql
+UPDATE Courses
+SET CourseName = 'New Course Name'
+WHERE CourseID = <specific_course_id>;
+```
+
+b. **Delete a course from the table:**
+```sql
+DELETE FROM Courses
+WHERE CourseID = <specific_course_id>;
+```
+
+These SQL queries demonstrate how to interact with the "Courses" table in a relational database designed for a university management system.
+
 
 ----
 ----
@@ -1179,6 +1236,34 @@ You are tasked with designing a database schema for a university. The database n
 ----
 ----
 ----
+
+
+Certainly! Below are the SQL queries to update and delete a course from the "Courses" table:
+
+a. **Update the name of a course:**
+```sql
+UPDATE Courses
+SET CourseName = 'New Course Name'
+WHERE CourseID = <specific_course_id>;
+```
+
+In this query:
+- `UPDATE Courses` specifies the table to update.
+- `SET CourseName = 'New Course Name'` sets the new name for the course.
+- `WHERE CourseID = <specific_course_id>` specifies the condition to update the course with a specific CourseID.
+
+b. **Delete a course from the table:**
+```sql
+DELETE FROM Courses
+WHERE CourseID = <specific_course_id>;
+```
+
+In this query:
+- `DELETE FROM Courses` specifies the table from which to delete the course.
+- `WHERE CourseID = <specific_course_id>` specifies the condition to delete the course with a specific CourseID.
+
+Replace `<specific_course_id>` with the actual CourseID of the course you want to update or delete. These queries will effectively update the name of a course and delete a course from the "Courses" table in the university database schema.
+
 
 ----
 ----
@@ -1198,7 +1283,6 @@ Write SQL statements to create the tables defined in database Hospital Managemen
 
 
 Assume the database of Admission Management System, Compose an SQL query to retrieve the names of students who are enrolled in a specific course. Include relevant details such as student names and enrollment status.
-
 
 
 
