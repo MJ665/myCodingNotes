@@ -688,29 +688,121 @@ In conclusion, metadata plays a critical role in organizing and managing data ef
 
 Define the Entity-Relationship (ER) model and explain its role in database design.
 
+----
+----
+
+1. **Define the Entity-Relationship (ER) model and explain its role in database design.**
+   - The Entity-Relationship (ER) model is a conceptual data model used to represent the relationships between entities in a database. It defines entities as objects or things in the real world and specifies the relationships between them.
+   - The ER model helps in visualizing the structure of a database by representing entities as rectangles, attributes as ovals, and relationships as lines connecting entities.
+   - Its role in database design is to provide a clear and concise representation of the data requirements and relationships within an organization, serving as a blueprint for designing the database schema.
+
+-----
+-----
+-----
 
 Differentiate between entity types and entity sets in the context of the ER model.
 
 
+-----
+-----
+2. **Differentiate between entity types and entity sets in the context of the ER model.**
+   - Entity Type: An entity type represents a collection of similar entities sharing the same attributes. It defines the properties and behavior of entities of a particular type.
+   - Entity Set: An entity set is a collection of instances of an entity type at a particular point in time. It represents the actual data stored in the database.
+   - In essence, an entity type is a template or blueprint for entities, while an entity set is the actual collection of instances of that entity type.
+
+
+----
+----
+----
+----
+
 Justify the need of ER diagrams in DBMS.
 
+----
+----
+----
+
+
+3. **Justify the need of ER diagrams in DBMS.**
+   - ER diagrams provide a visual representation of the database schema, including entities, attributes, and relationships, which helps in better understanding the database structure.
+   - They serve as a communication tool between stakeholders, such as database designers, developers, and end-users, facilitating discussions and clarifying requirements.
+   - ER diagrams aid in identifying potential design flaws, such as redundancy, inconsistency, or missing relationships, early in the design phase, leading to a more robust database design.
+   - They serve as a documentation tool for documenting the database schema, making it easier to maintain and update the database over time.
+
+----
+----
+----
 
 Describe the terms entity and entity sets.
+
+----
+----
+----
+
+
+4. **Describe the terms entity and entity sets.**
+   - Entity: An entity represents a real-world object or concept, such as a person, place, thing, or event, that can be uniquely identified and described. Entities have attributes that describe their properties or characteristics.
+   - Entity Set: An entity set is a collection of similar entities sharing the same attributes. It represents the set of all instances of an entity type at a particular point in time.
+
+
+----
+----
+----
 
 
 List attributes of DBMS
 
+----
+----
+----
+
+5. **List attributes of DBMS.**
+   - Attributes of a DBMS include:
+     1. Data Storage
+     2. Data Retrieval
+     3. Data Manipulation
+     4. Data Security
+     5. Data Integrity
+     6. Concurrency Control
+     7. Backup and Recovery
+     8. Database Administration
+     9. Query Optimization
+     10. Data Dictionary Management
+
+
+----
+----
+----
+
 
 Outline different types of keys in DBMS
 
+-----
+-----
+
+6. **Outline different types of keys in DBMS.**
+   - Different types of keys in DBMS include:
+     1. Primary Key
+     2. Foreign Key
+     3. Candidate Key
+     4. Super Key
+     5. Alternate Key
+
+-----
+-----
 
 Illustrate the degree of relationship case.
 
+-----
+-----
 
 
 
 
 
+7. **Illustrate the degree of relationship case.**
+   - The degree of relationship in a database refers to the number of entity types participating in a relationship. It can be unary, binary, ternary, etc., depending on the number of entity types involved.
+   - For example, in a binary relationship between "Student" and "Course," the degree of relationship is binary because it involves two entity types: Student and Course.
 
 
 
