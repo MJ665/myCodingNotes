@@ -662,3 +662,315 @@ In conclusion, metadata plays a critical role in organizing and managing data ef
 
 
 ----
+----
+----
+----
+----
+----
+----
+----
+
+# Chapter 2 
+
+
+----
+----
+----
+## 2 Markers C2
+
+
+----
+----
+----
+----
+
+
+
+Define the Entity-Relationship (ER) model and explain its role in database design.
+
+
+Differentiate between entity types and entity sets in the context of the ER model.
+
+
+Justify the need of ER diagrams in DBMS.
+
+
+Describe the terms entity and entity sets.
+
+
+List attributes of DBMS
+
+
+Outline different types of keys in DBMS
+
+
+Illustrate the degree of relationship case.
+
+
+
+
+
+
+
+
+
+
+----
+----
+----
+----
+## 5 Markers C2
+
+
+----
+----
+----
+----
+
+
+Distinguish between strong and weak entity.
+
+
+Explain composite and multivaled attributes with example.
+
+
+Consider a relational database for a university with the following tables: Students: StudentID Name Age DepartmentID (Foreign Key) Departments: DepartmentID DepartmentName Identify the attributes in the "Students" and "Departments" tables.
+
+
+You are tasked with designing a database schema for a university. The database needs to store information about students, courses, and departments. Consider a new table named "Courses" with the following attributes: CourseID CourseName DepartmentID (Foreign Key)  Identify and list potential candidate keys for the 'Courses' table.
+
+
+Consider a database schema for a library management system with the following tables: Books: Columns: book_id, title, author, genre, year_published Members: Columns: member_id, name, email, phone Loans: Columns: loan_id, book_id, member_id, loan_date, return_date Write SQL queries for the following tasks:  1. Insert a new book into the Books table. Title: "The Great Gatsby", Author: "F. Scott Fitzgerald", Genre: "Fiction", Year Published: 1925.  2. Insert a new member into the Members table. Name: "Alice Johnson", Email: "alice@example.com", Phone: "123-456-7890".
+
+
+Explain the concept of foreigh keys with example
+Summarize the concept of composite keys with example
+
+
+
+
+
+
+
+
+
+----
+----
+----
+----
+----
+----
+----
+----
+## 10 Markers C2
+----
+----
+----
+
+
+
+
+Illustrate in brief the concept of cardinality in DBMS with example.
+
+
+
+
+Describe in detail different types of database keys with suitable example.
+
+
+
+Draw ER diagram of Hospital management system. Convert the ER diagram to tables.
+
+
+
+Draw EER diagram of Railway Reservation system. Convert the ER diagram to tables.
+
+
+
+Justify the need of EER in detail.
+
+
+
+
+Explain the steps envolved in creating ER Diagram. Draw ER disgram for Library Management System.
+
+
+
+Distinguisg between Specialization and Generalization
+
+
+
+
+----
+----
+----
+
+
+
+
+
+----
+----
+----
+----
+----
+----
+# Chapter 3
+----
+## 2 Markers C3
+
+
+
+Define SQL and explain its role in relational database management systems.
+
+
+
+Explain the purpose of views in SQL databases and how they are created.
+
+
+Define normalization and discuss its importance in relational database design.
+
+
+You are tasked with designing a database schema for a university. The database needs to store information about students, courses, and departments. Consider a new table named "Courses" with the following attributes: CourseID CourseName DepartmentID (Foreign Key)  Write SQL queries to: a. Retrieve all course names and their corresponding department names. b. Retrieve the details of a course with a specific CourseID.
+
+
+
+You are tasked with designing a database schema for a university. The database needs to store information about students, courses, and departments. Consider a new table named "Courses" with the following attributes: CourseID CourseName DepartmentID (Foreign Key)  Write SQL queries to: a. Update the name of a course. b. Delete a course from the table.
+
+
+Write SQL statements to create the tables defined in database Hospital Management System. Also, insert sample data into each table to populate student, course, and enrollment information.
+
+
+
+Assume the database of Admission Management System, Compose an SQL query to retrieve the names of students who are enrolled in a specific course. Include relevant details such as student names and enrollment status.
+
+
+
+
+
+
+----
+----
+----
+----
+
+
+
+
+
+
+----
+----
+----
+----
+----
+----
+----
+## 5 Markers C3
+
+
+
+Differentiate between Data Definition Language (DDL) and Data Manipulation Language (DML) in SQL.
+
+
+
+Describe the purpose of Data Control Language (DCL) in SQL and provide an example.
+
+
+
+Discuss the concept of joins in SQL and provide an example of their application.
+
+
+
+Explain the role of Transaction Control Language (TCL) in managing transactions in SQL databases.
+
+
+
+Describe DDL. Write an SQL query using Data Definition Language (DDL) to create a new table named "Employees" with columns for employee ID, name, and department.
+
+
+ What are the primary DML commands used in SQL, and how are they utilized to manipulate data within a database?. Write an SQL query to insert new records into the "Employees" table.
+
+
+
+Explain TCL. Write an SQL query using Transaction Control Language (TCL) to commit a transaction after updating employee records in the "Employees" table.
+
+
+
+
+
+----
+----
+----
+----
+
+
+
+
+
+
+
+
+----
+----
+----
+----
+----
+----
+----
+## 10 Markers C3
+
+
+
+
+---
+---
+---
+
+Create a view named "StudentCourseSummary" that presents a summary of student enrollments, including student names, course titles, and enrollment statuses. Implement a transaction using SQL Transaction Control Language to update enrollment records for a specific student, ensuring proper commit or rollback procedures.
+
+
+
+
+Write SQL statements to create the tables defined in your university management system database schema. Additionally, insert sample data into each table to populate information about students, courses, instructors, and enrollment records. Ensure that the data insertion adheres to referential integrity constraints.
+
+
+
+
+
+Develop an SQL query to retrieve detailed information about a specific student, including their name, ID, enrolled courses, and corresponding instructors. Ensure that the query efficiently retrieves the required data and handles cases where a student may be enrolled in multiple courses.
+
+
+
+
+Implement a SQL transaction to process a course enrollment request for a student. The transaction should involve inserting enrollment details into the database while simultaneously updating the course availability status. Ensure that the transaction maintains data consistency and can be rolled back in case of errors.
+
+
+
+
+
+Construct an SQL query using joins and subqueries to determine the average GPA of students enrolled in a particular course. Additionally, retrieve the names of top-performing students (based on GPA) in that course. Present the query results in a clear and concise format.
+
+
+
+
+Discuss the role of SQL Data Control Language (DCL) commands in enforcing data security and access control within the university management system database. Explain how DCL commands such as GRANT and REVOKE can be used to assign privileges to users and ensure data confidentiality and integrity. Provide examples of specific scenarios where DCL commands would be applied to maintain data security.
+
+
+
+
+Explain different normalization techniques.
+
+
+
+
+
+
+
+----
+----
+----
+
+----
+----
+----
