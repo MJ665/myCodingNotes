@@ -1259,3 +1259,539 @@ Formalizing a game allows for the application of AI techniques like search algor
 ----
 ----
 ----
+
+
+
+Module 4:- Knowledge & Reasoning
+2 Mark Topics:-
+1.	Transform the Following(First order logic) into Conjunctive Normal Form.
+
+----
+----
+----
+
+
+----
+----
+----
+2.	Describe the Properties of Knowledge Representation System.
+•	Types of Knowledge
+•	Explain Knowledge Representation Techniques – Logical, Semantic etc.
+•	Quantifiers in FOL
+•	Explain Knowledge Engineering Process.
+•	Define Reasoning & Explain types of Reasoning.
+
+----
+----
+----
+
+
+
+----
+----
+----
+
+5 Mark Topics:-
+1.	Represent Each of these Sentences in Propositional Logic.
+a.	If I take History, I cannot take Economics.
+b.	If I must take either Japanese or Italian but not both.
+c.	I must take atleast two of cs520, cs552 & cs564.
+
+----
+----
+----
+
+
+To represent each of these sentences in propositional logic, we'll define propositions for the conditions involved and then express the sentences using logical operators.
+
+a. **If I take History, I cannot take Economics.**
+Let:
+- \( H \) represent "I take History".
+- \( E \) represent "I take Economics".
+
+The sentence can be represented as:
+\[ H \rightarrow \neg E \]
+
+b. **If I must take either Japanese or Italian but not both.**
+Let:
+- \( J \) represent "I take Japanese".
+- \( I \) represent "I take Italian".
+
+The sentence can be represented as the exclusive OR (XOR) operation:
+\[ (J \lor I) \land \neg (J \land I) \]
+
+c. **I must take at least two of cs520, cs552 & cs564.**
+Let:
+- \( C_1 \) represent "I take cs520".
+- \( C_2 \) represent "I take cs552".
+- \( C_3 \) represent "I take cs564".
+
+The sentence can be represented as:
+\[ (C_1 \land C_2) \lor (C_1 \land C_3) \lor (C_2 \land C_3) \]
+
+These representations capture the logical relationships between the conditions specified in each sentence using propositional logic.
+
+----
+----
+----
+2.	Explain the syntax of First Order Logic . How does FOL extend propositional logic in terms of Expressiveness.
+
+----
+----
+----
+
+### Syntax of First Order Logic (FOL)
+
+#### Background Theory:
+First Order Logic (FOL) extends propositional logic by introducing quantifiers and variables, allowing for more complex expressions and reasoning about objects and their properties.
+
+#### Syntax Components:
+1. **Predicates**: Represent properties or relations between objects.
+   - Example: \( P(x) \) where \( P \) is a predicate and \( x \) is a variable.
+
+2. **Variables**: Symbols that represent objects or entities.
+   - Example: \( x, y, z \)
+
+3. **Constants**: Symbols denoting specific objects or entities.
+   - Example: \( a, b, c \)
+
+4. **Quantifiers**: Specify the scope of variables.
+   - **Universal Quantifier (\( \forall \))**: Indicates that a statement holds for all objects in a domain.
+   - **Existential Quantifier (\( \exists \))**: Indicates that a statement holds for at least one object in a domain.
+
+5. **Functions**: Represent mappings from one set of objects to another.
+   - Example: \( f(x) \) where \( f \) is a function and \( x \) is a variable.
+
+6. **Connectives**: Logical operators for combining atomic propositions.
+   - Example: \( \land \) (AND), \( \lor \) (OR), \( \lnot \) (NOT), \( \rightarrow \) (IMPLIES), \( \leftrightarrow \) (IFF).
+
+### Expressiveness of FOL over Propositional Logic
+
+#### How FOL extends propositional logic in terms of expressiveness:
+1. **Variables and Quantifiers**: FOL allows for the representation of statements involving variables and quantifiers, enabling reasoning about objects and their properties universally or existentially.
+   
+2. **Predicates and Functions**: FOL includes predicates to represent properties and relations between objects, and functions to represent mappings from one set of objects to another, enabling more complex relationships to be expressed.
+
+3. **Complex Statements**: FOL allows for the construction of more complex statements involving combinations of predicates, functions, variables, and quantifiers, enabling the expression of nuanced relationships and constraints.
+
+4. **Ability to Quantify**: FOL enables statements to be quantified universally or existentially over variables, allowing for generalizations and specific instances to be reasoned about.
+
+In summary, FOL extends propositional logic by introducing variables, quantifiers, predicates, and functions, which significantly increases its expressiveness and enables reasoning about objects and their properties in a more sophisticated manner.
+
+
+
+
+----
+----
+----
+3.	Discuss Bayesian Network with Suitable illustration.
+
+
+----
+----
+----
+
+### 3. Discuss Bayesian Network with Suitable Illustration
+
+#### Background Theory:
+Bayesian networks, also known as belief networks or Bayes nets, are graphical models that represent probabilistic relationships between variables. They are widely used in AI for reasoning under uncertainty, decision making, and probabilistic inference.
+
+#### Explanation:
+- **Bayesian Network Structure**:
+  - A Bayesian network consists of nodes representing random variables and directed edges representing probabilistic dependencies between them.
+  - Each node represents a variable, and edges indicate the direction of influence.
+  
+- **Conditional Probability Tables (CPTs)**:
+  - CPTs associated with each node specify the conditional probability distribution of that node given its parents in the network.
+  - They capture the probabilistic dependencies between variables.
+
+- **Example Illustration**:
+  - Consider a medical diagnosis scenario with variables: \(Symptoms\), \(Disease\), and \(Test\).
+  - The Bayesian network for this scenario might look like this:
+    ![Bayesian Network Illustration](https://i.imgur.com/MVxjBOo.png)
+    
+- **Interpretation**:
+  - In this example, \(Symptoms\) is influenced by \(Disease\), and \(Test\) is influenced by both \(Symptoms\) and \(Disease\).
+  - Each node has associated conditional probability tables representing the likelihood of different states given the states of its parent nodes.
+
+#### Advantages of Bayesian Networks:
+- **Modularity**: The modular structure allows for easy modification and updating of knowledge.
+- **Efficient Inference**: Bayesian networks facilitate efficient probabilistic inference, allowing for quick updates based on new evidence.
+- **Uncertainty Handling**: They provide a principled framework for representing and reasoning under uncertainty.
+
+#### Applications of Bayesian Networks:
+- **Medical Diagnosis**: Diagnosing diseases based on symptoms and test results.
+- **Risk Assessment**: Assessing risks in various domains such as finance, healthcare, and engineering.
+- **Predictive Modeling**: Predicting outcomes in areas like weather forecasting, stock market prediction, and sports analytics.
+
+#### Conclusion:
+Bayesian networks provide a powerful framework for representing and reasoning about uncertain knowledge in a wide range of domains. By capturing probabilistic dependencies between variables and facilitating efficient inference, they enable sophisticated decision-making and analysis in AI systems.
+
+----
+----
+----
+4.	Draw resolution graph using resolution by considering the following scenario.
+Consider the following axioms:
+1.	Anyone whom Mary Loves is a football star.
+2.	Any student who does not pass not play.
+3.	John is a student.
+4.	Any student who does not study does not pass.
+5.	Anyone who does not play is not a football star.
+Conclusion:- If John does not study, then Mary does not love John.
+•	Explain Knowledge Based Agents – Capabilities, Architecture & Functions.
+•	Explain in Detail – The Wumpus World Problem.
+•	Explain Forward Chaining & Backward Chaining.
+•	Apply Unification. Unify(A1, A2).
+
+
+----
+----
+----
+
+
+### 4. Draw Resolution Graph using Resolution
+
+#### Background Theory:
+Resolution is a logical inference rule used to infer new clauses from existing ones in first-order logic. It involves identifying complementary literals in clauses and resolving them to generate new clauses.
+
+#### Resolution Steps:
+1. **Convert Axioms to Clauses**:
+   - \(C_1\): \((\lnot L(x) \lor F(x))\)
+   - \(C_2\): \((\lnot P(x) \lor \lnot P(x))\)
+   - \(C_3\): \(S(John)\)
+   - \(C_4\): \((\lnot S(x) \lor \lnot P(x))\)
+   - \(C_5\): \((\lnot P(x) \lor \lnot F(x))\)
+
+2. **Convert Conclusion to Clause**:
+   - \(C_6\): \((\lnot S(John) \lor \lnot L(Mary, John))\)
+
+3. **Apply Resolution**:
+   - Resolve \(C_4\) and \(C_6\) on \(P(x)\) to derive \(C_7\): \((\lnot S(John) \lor \lnot F(John))\)
+   - Resolve \(C_1\) and \(C_7\) on \(\lnot F(John)\) to derive \(C_8\): \((\lnot L(Mary, John))\)
+
+4. **Resolution Graph**:
+   - \(C_1, C_2, C_3, C_4, C_5, C_6, C_7, C_8\)
+   - \(C_8\) represents the conclusion.
+
+### Explanation of Knowledge-Based Agents
+
+#### Capabilities:
+- **Knowledge Representation**: Agents store knowledge about their environment, goals, and actions.
+- **Reasoning**: Agents infer new knowledge from existing knowledge using logical inference rules.
+- **Learning**: Agents update their knowledge based on experience, feedback, or new information.
+- **Problem Solving**: Agents use their knowledge to make decisions and achieve goals.
+
+#### Architecture:
+- **Percept**: Agents receive information from the environment through sensors.
+- **Knowledge Base (KB)**: Stores the agent's knowledge about the world.
+- **Inference Engine**: Performs reasoning and inference over the knowledge base to derive new information.
+- **Action**: Agents execute actions based on their knowledge and goals.
+- **Learning Component**: Agents update their knowledge based on feedback or new experiences.
+
+#### Functions:
+1. **Perception**: Gather information about the environment.
+2. **Knowledge Acquisition**: Learn new knowledge from experience or external sources.
+3. **Reasoning**: Infer new knowledge from existing knowledge using logical inference rules.
+4. **Decision Making**: Select actions to achieve goals based on inferred knowledge.
+5. **Learning**: Update knowledge based on feedback or new information.
+
+In summary, knowledge-based agents use knowledge representation, reasoning, learning, and problem-solving techniques to perceive, reason about, and act in their environment.
+
+These answers provide a clear and concise explanation of resolution and knowledge-based agents, fitting the requirements for a 5-mark question.
+
+
+
+----
+----
+----
+Module 5:- Planning & Learning
+2 Marks Topics-
+1.	State the Main Objectives of Planning, & why it is important for AI systems?
+
+----
+----
+----
+
+
+
+----
+----
+----
+
+2.	Define the Planning Problem in the Context of Artificial Intelligence.
+
+----
+----
+----
+
+
+
+----
+----
+----
+3.	Summarize the Need of Planning.
+
+----
+----
+----
+
+
+
+
+
+----
+----
+----
+
+4.	Name the Different Types of Planning.
+
+----
+----
+----
+
+
+
+
+
+----
+----
+----
+5.	Show the Representation of Goals in a Planning Problem.
+
+----
+----
+----
+
+
+
+
+----
+----
+----
+
+
+6.	Discuss Any one form of Learning.
+
+----
+----
+----
+
+
+
+
+
+
+----
+----
+----
+7.	Outline the Mathematical Formula to Calculate Entropy of any Attribute in ID3 Algorithm.
+•	Define Entropy & Information Gain.
+•	Define Learning & list types of Learning – Rote, Advice, Parameter adjust, etc.
+
+----
+----
+----
+
+
+
+
+
+
+----
+----
+----
+5 Mark Topics:-
+1.	Explain the Concept of Conditional Planning in AI. How does it differ from Traditional Planning Approaches?
+
+----
+----
+----
+
+
+### 1. Explain the Concept of Conditional Planning in AI
+
+#### Background Theory:
+Conditional planning in AI involves generating plans that depend on the outcomes of actions, allowing for adaptive decision-making in dynamic environments. Unlike traditional planning approaches, which assume deterministic actions and outcomes, conditional planning considers uncertainty and adjusts plans accordingly.
+
+#### Explanation:
+- **Conditional Planning**:
+  - Conditional planning involves generating plans that contain conditional branches based on possible outcomes of actions.
+  - Plans include decision points where actions are selected based on the observed or predicted state of the environment.
+
+- **Key Components**:
+  - **Actions**: Represent possible actions that the agent can take in the environment.
+  - **States**: Represent possible states of the environment, including both observable and unobservable states.
+  - **Conditional Branches**: Decision points in plans where actions are selected based on the current or predicted state of the environment.
+  
+- **Example Scenario**:
+  - Consider a delivery robot navigating through a city:
+    - If the road is clear, the robot proceeds with its delivery.
+    - If there is heavy traffic, the robot may choose an alternative route.
+    - If the delivery location is unreachable due to a road closure, the robot may delay the delivery or choose a different destination.
+    
+- **Differences from Traditional Planning**:
+  - **Handling Uncertainty**: Conditional planning accounts for uncertainty in the environment, allowing plans to adapt to unexpected events or changes.
+  - **Flexibility**: Plans in conditional planning are more flexible and adaptive, as they can incorporate multiple possible outcomes of actions.
+  - **Complexity**: Conditional planning introduces additional complexity due to the need to reason about multiple possible scenarios and outcomes.
+
+- **Advantages**:
+  - **Robustness**: Plans generated through conditional planning are more robust and resilient to unexpected events.
+  - **Adaptability**: Conditional planning enables agents to adapt their behavior based on the observed or predicted state of the environment.
+  - **Efficiency**: Despite increased complexity, conditional planning can lead to more efficient plans by considering various contingencies in advance.
+
+In summary, conditional planning in AI involves generating plans with conditional branches based on possible outcomes of actions, allowing agents to adapt their behavior in response to uncertainty and dynamic environments. This approach differs from traditional planning by considering multiple possible scenarios and outcomes, leading to more robust and adaptive plans.
+
+
+
+----
+----
+----
+
+2.	Compare & Contrast Inductive Learning & Deductive Learning.
+
+
+----
+----
+----
+
+
+## Inductive vs. Deductive Learning (Basic AI Exam Prep)
+
+### Compare & Contrast Inductive Learning & Deductive Learning
+
+#### Background Theory:
+Inductive learning and deductive learning are two fundamental approaches in machine learning and knowledge acquisition. While both aim to derive knowledge from data, they differ in their methodologies and applications.
+
+#### Explanation:
+
+- **Inductive Learning**:
+  - **Methodology**: Inductive learning involves deriving general rules or patterns from specific examples or observations.
+  - **Process**: It generalizes from specific instances to form general hypotheses or theories.
+  - **Examples**: Decision trees, neural networks, clustering algorithms.
+  - **Application**: Commonly used for classification tasks where the goal is to predict the class label of new instances based on past observations.
+  - **Advantages**: Can handle noisy or incomplete data, suitable for large datasets, ability to capture complex relationships.
+
+- **Deductive Learning**:
+  - **Methodology**: Deductive learning involves deriving specific conclusions from general principles or rules.
+  - **Process**: It applies known rules or principles to specific instances to derive conclusions or make predictions.
+  - **Examples**: Rule-based systems, expert systems, theorem proving.
+  - **Application**: Commonly used in expert systems where knowledge is represented explicitly as rules or logical statements.
+  - **Advantages**: Provides transparent and interpretable models, suitable for domains with well-defined rules and principles, can handle symbolic and structured data.
+
+#### Comparison:
+
+1. **Methodology**:
+   - Inductive learning generalizes from specific examples to form general rules, while deductive learning applies general rules to specific instances.
+   
+2. **Process**:
+   - Inductive learning focuses on bottom-up reasoning, starting from specific instances and generalizing to form hypotheses.
+   - Deductive learning employs top-down reasoning, starting from general principles and applying them to derive specific conclusions.
+   
+3. **Examples**:
+   - Inductive learning algorithms include decision trees, neural networks, and clustering methods.
+   - Deductive learning techniques include rule-based systems, expert systems, and theorem proving.
+
+#### Contrast:
+
+1. **Approach**:
+   - Inductive learning is data-driven, focusing on deriving knowledge from observed data.
+   - Deductive learning is knowledge-driven, focusing on applying existing knowledge to make predictions or derive conclusions.
+   
+2. **Scope**:
+   - Inductive learning is suitable for domains with large amounts of data and where patterns need to be discovered.
+   - Deductive learning is suitable for domains with well-defined rules and principles, where explicit knowledge representation is important.
+
+In summary, while both inductive and deductive learning aim to derive knowledge from data, they differ in their methodologies, processes, and applications. Inductive learning focuses on generalizing from specific examples, while deductive learning applies existing knowledge to derive specific conclusions.
+
+| Feature                 | Inductive Learning | Deductive Learning |
+|-------------------------|---------------------|--------------------|
+| Direction               | Specific to General  | General to Specific |
+| Starting Point          | Examples, Data      | Rules, Knowledge   |
+| Conclusion Certainty    | Probabilistic        | Certain (if premises are true) |
+
+**Here's a more detailed explanation:**
+
+**Inductive Learning:**
+
+- Imagine observing many sunny days after nights. You might **induce** a general rule: "If it's night, then it will probably be sunny tomorrow." This is a common approach in machine learning, where algorithms learn patterns from data to make predictions.
+- **Advantages:** Useful for discovering new patterns and uncovering hidden relationships in data.
+- **Disadvantages:**  Inferences might be wrong, especially with limited data. Requires careful evaluation of the learned rules.
+
+**Deductive Learning:**
+
+- Imagine knowing the general rule: "All birds have wings." You can then **deduce** that a specific robin (a bird) must have wings. This is often used in logic and expert systems, where established knowledge is applied to draw conclusions.
+- **Advantages:** Guarantees a correct conclusion if the starting rules (premises) are true. Provides a clear reasoning path.
+- **Disadvantages:** Relies on having the right general rules in the first place. May not be suitable for situations where new knowledge needs to be discovered.
+
+**Remember:**
+
+- Both inductive and deductive learning are important for AI.
+- The choice of approach depends on the specific problem and the available information.
+
+Focus on understanding these core concepts and how they differ in your exam. 
+
+
+----
+----
+----
+
+
+3.	Consider problem of changing a flat tire. The goal is to have a good spare tire properly mounted on to the car's axle, where the initial state has a flat tire on the axle and a good spare tire in the trunk. Give the ADL description for the problem.
+
+----
+----
+----
+
+
+
+
+
+----
+----
+----
+
+
+4.	Draw Decision Tree for the given Dataset.
+
+
+•	Explain State Space Planning & its Types – Forward Search & Backward Search.
+•	Explain Partial Order Planning & its contents.
+•	Explain the Concept of Hierarchial Planning in AI. How does it differ from Traditional Planning Approaches?
+•	Explain Inductive Learning & Decision Trees – ID3 Algorithm
+
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
+
+----
+----
+----
