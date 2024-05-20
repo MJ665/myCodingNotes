@@ -205,6 +205,37 @@ Here are concise and structured answers for each of the provided 2-mark question
 ----
 
 
+### 1. Discuss Various Foundation Areas with AI in Detail
+
+#### Background Theory:
+Artificial Intelligence (AI) encompasses a wide range of techniques and methodologies aimed at creating systems that can perform tasks requiring human-like intelligence. These systems are built upon several foundational areas that contribute to their development and functionality.
+
+#### Detailed Explanation:
+1. **Machine Learning (ML)**:
+   - ML algorithms enable AI systems to learn from data and improve performance over time without explicit programming.
+   - Techniques include supervised learning, unsupervised learning, and reinforcement learning.
+   - Applications: Predictive analytics, recommendation systems, image recognition.
+
+2. **Natural Language Processing (NLP)**:
+   - NLP focuses on enabling computers to understand, interpret, and generate human language.
+   - Techniques include sentiment analysis, text summarization, and language translation.
+   - Applications: Chatbots, virtual assistants, language translation services.
+
+3. **Computer Vision**:
+   - Computer vision involves enabling machines to interpret and analyze visual information from the real world.
+   - Techniques include image classification, object detection, and image segmentation.
+   - Applications: Autonomous vehicles, facial recognition, medical image analysis.
+
+4. **Robotics**:
+   - Robotics integrates AI, sensors, and mechanical systems to create machines capable of performing physical tasks autonomously.
+   - Techniques include motion planning, manipulation, and sensor fusion.
+   - Applications: Industrial automation, surgical robotics, service robots.
+
+5. **Knowledge Representation and Reasoning**:
+   - Knowledge representation involves encoding knowledge in a format that computers can understand and reason with.
+   - Techniques include logic-based reasoning, ontologies, and semantic networks.
+   - Applications: Expert systems, semantic web, decision support systems.
+
 
 
 ----
@@ -220,7 +251,31 @@ Here are concise and structured answers for each of the provided 2-mark question
 ----
 
 
+### 2. List & Explain in Detail The Types of Artificial Intelligence with Example of Each
 
+#### Background Theory:
+Artificial Intelligence (AI) can be categorized into different types based on its capabilities and functionalities. Each type represents a distinct approach to building intelligent systems.
+
+#### Detailed Explanation:
+1. **History of AI**:
+   - AI has evolved over decades, starting with symbolic AI in the 1950s, followed by the emergence of neural networks and machine learning in the 1980s.
+   - Recent advancements in deep learning and reinforcement learning have led to significant breakthroughs in AI applications.
+
+2. **Intelligence & Types of Intelligence**:
+   - Intelligence refers to the ability to learn, understand, and apply knowledge to solve problems.
+   - Types of intelligence include:
+     - **Linguistic Intelligence**: Ability to understand and manipulate language. Example: Chatbots like Siri or Alexa.
+     - **Musical Intelligence**: Ability to understand and create music. Example: Music recommendation systems like Spotify.
+
+3. **Components of AI**:
+   - AI systems consist of several components that enable them to exhibit intelligent behavior:
+     - **Reasoning**: The ability to draw conclusions and make decisions based on available information.
+     - **Learning**: The capability to acquire knowledge and improve performance over time.
+     - **Perception**: The process of interpreting and understanding sensory inputs from the environment.
+     - **Problem Solving**: The ability to formulate and solve problems using algorithms or heuristics.
+     - **Linguistic Intelligence**: Understanding and generating human language, enabling communication with users in natural language.
+
+These foundational areas and types of AI provide the building blocks for creating intelligent systems capable of performing a wide range of tasks across various domains.
 
 
 
@@ -462,7 +517,48 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 
 
+## Model-Based Agents: Architecture and Explanation (Basic AI Exam Prep)
 
+**Model-Based Agents:**
+
+These agents maintain an internal representation (model) of the environment they operate in. This model helps them reason about the potential consequences of their actions before taking them. Unlike simple reflex agents, model-based agents are not solely reliant on immediate sensor data.
+
+**Architecture Diagram:**
+
+```
+       Percepts (Sensors)
+          |
+       Model
+          |
+       Action Selection
+          |
+       Actions (Actuators)
+```
+
+**Components:**
+
+1. **Percepts (Sensors):** Gather information about the world (e.g., robot explorer's camera capturing images).
+2. **Model:** An internal representation of the environment, including:
+    - **State:** The current state of the world (e.g., robot's location, objects present).
+    - **Dynamics:** How the world changes due to actions (e.g., robot movement, object interactions).
+3. **Action Selection:** Chooses actions based on the model and the desired goal. It considers:
+    - Predicted outcomes of actions.
+    - Goal achievement in the simulated environment.
+4. **Actions (Actuators):** Physical actions the agent takes (e.g., robot moves based on the chosen action).
+
+**Working:**
+
+1. **Perceive:** The agent senses the environment to update its internal model (e.g., robot explorer sees a wall on its left).
+2. **Model Update:** The model is updated with the new information from the percepts (e.g., "wall" added to the robot's map).
+3. **Action Selection:** Considering the goal (e.g., reach a specific location) and the updated model, the agent chooses an action with the highest chance of success (e.g., turn right to avoid the wall).
+4. **Action Execution:** The chosen action is carried out in the real world (e.g., robot turns right).
+
+**Benefits:**
+
+- **Planning:** Can plan actions based on predicted outcomes in the model.
+- **Adaptability:** Can handle partially observable environments and unexpected changes by updating the model.
+
+**Remember:** This is a simplified explanation. Building and maintaining accurate models can be challenging, especially in complex environments. Focus on understanding the core concept of using an internal model to guide action selection for your exam. 
 
 ----
 ----
@@ -473,7 +569,48 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 ----
 
+## Goal-Based Agents: Architecture and Explanation (Basic AI Exam Prep)
 
+**Goal-Based Agents:**
+
+These agents are designed to achieve specific objectives or goals in their environment. Unlike simpler reflex agents that react directly to stimuli, goal-based agents consider future consequences and plan their actions accordingly.
+
+**Architecture Diagram:**
+
+```
+       Percepts (Sensors)
+          |
+       Goal Module
+          |
+       Plan Generator
+          |
+       Action Module
+          |
+       Actions (Actuators)
+```
+
+**Components:**
+
+1. **Percepts (Sensors):** Gather information from the environment (e.g., robot arm sensors detecting object location).
+2. **Goal Module:** Stores the desired goal state (e.g., pick up a cup).
+3. **Plan Generator:** Develops a sequence of actions to achieve the goal (e.g., move arm, grasp cup, lift cup).
+4. **Action Module:** Executes the planned actions (e.g., sends commands to robot arm).
+5. **Actions (Actuators):** Physical actions the agent takes in the environment (e.g., robot arm movements).
+
+**Working:**
+
+1. **Perceive:** The agent senses the environment to understand its current state.
+2. **Set Goal:** The goal module receives the desired goal (e.g., pick up a cup).
+3. **Plan Generation:** The plan generator uses the current state, goal state, and knowledge about the environment to create a sequence of actions (e.g., move arm closer, grasp cup, lift cup).
+4. **Action Execution:** The action module sends commands to execute the planned actions (e.g., robot arm extends, closes gripper, lifts cup).
+5. **Monitoring:** The agent may continuously monitor its progress and replan if necessary due to unexpected changes or obstacles.
+
+**Benefits:**
+
+- **Flexibility:** Can handle complex goals and adapt plans based on changing situations.
+- **Reasoning:** Can consider future consequences before taking actions.
+
+**Remember:** This is a basic overview. Goal-based agents may involve more sophisticated planning algorithms and knowledge representation techniques. Focus on understanding the key concept of using a goal to guide a sequence of actions for your exam.
 
 
 ----
@@ -486,7 +623,34 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 
 
+## Utility-Based Agents: Sketch, Working, and Applications (Basic AI Exam Prep)
 
+**Sketch:**
+
+Imagine an agent with sensors (eyes, ears) perceiving the environment and actuators (arms, legs) to take actions. Inside, there's a decision-making process based on:
+
+- **Sensors:** Provide raw information about the world.
+- **Utility Function:** Assigns a score (utility) to different situations (states) the agent might encounter. Higher scores represent more desirable situations.
+- **Action Selection:** The agent chooses the action that leads to the state with the highest expected utility.
+
+**Working:**
+
+1. **Perceive:** The agent gathers information from its environment (e.g., a robot vacuum cleaner senses dust on the floor).
+2. **Evaluate:** The agent uses its utility function to determine the "happiness" (utility) associated with different actions it can take (e.g., cleaning the dust vs. going to recharge). Factors like dirt level, battery life, and cleaning priority would influence the utility values.
+3. **Act:** The agent chooses the action with the highest expected utility (e.g., if cleaning the dust has a higher utility than recharging at that moment, the agent cleans).
+
+**Real-Time Applications:**
+
+- **Robot Vacuum Cleaners:** Utility functions consider dirt level, battery life, and cleaning schedule to decide when and where to clean.
+- **Personal Assistants:** Utility functions might prioritize urgent tasks, user preferences, and time constraints to suggest actions like booking appointments or reminding about deadlines.
+- **Self-Driving Cars:** Utility functions consider traffic conditions, safety, and destination to choose the best route and driving behavior.
+
+**Benefits:**
+
+- **Flexibility:** Can handle complex situations by considering multiple factors.
+- **Adaptability:** Can adjust behavior based on changing goals or environments by updating the utility function.
+
+**Remember:** This is a simplified explanation. Utility functions can be complex, and real-world applications involve additional considerations. Focus on understanding the core concept of maximizing "happiness" through actions for your exam.
 
 
 
@@ -504,7 +668,67 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 
 
+## 8-Puzzle Problem Formulation and Solution (Basic AI Exam Prep)
 
+**Formalization:**
+
+1. **State:** A configuration of the 8 tiles on the 3x3 board, with one empty space. Represented as a matrix or a string.
+2. **Initial State:** The starting configuration of the tiles.
+3. **Goal State:** The desired configuration where tiles are arranged in a specific order, with the empty space in a particular position.
+4. **Actions:** Moving the empty space to an adjacent tile (up, down, left, right), creating a new configuration.
+5. **Cost Function:** Typically, moving a tile costs 1 unit.
+
+**Example:**
+
+```
+Initial State:   Goal State:
+[1, 2, 3]       [1, 2, 3]
+[4, 5, 6]  ->   [4, 8, 5]
+[7, 8,  ]       [7, 6,  ]
+```
+
+**Solving with an uninformed search algorithm (e.g., BFS) is possible but can be inefficient.**
+
+**Learning Agent/Simple Reflex Agent:**
+
+**Architecture:**
+
+```
+       Percepts (Sensors)
+          |
+       Agent Program
+          |
+       Actions (Actuators)
+```
+
+- **Percepts:** Information the agent receives from the environment (e.g., tile positions in 8-puzzle).
+- **Agent Program:** Maps the percepts to actions based on a set of pre-defined rules (e.g., move the empty space towards a specific tile).
+- **Actions:** The agent's actions in the environment (e.g., moving the tile in 8-puzzle).
+
+**Simple reflex agents react directly to percepts without considering the history or future consequences.**
+
+**Water Jug Problem:**
+
+**Example:**
+
+You have two jugs (capacity 5 liters and 3 liters) and need to fill a 4-liter jug. Actions include filling, emptying, and pouring water between jugs. The goal is to reach a state where the 4-liter jug is full.
+
+**Intelligent Agent Characteristics:**
+
+- **Perceptibility:** Ability to sense the environment.
+- **Reactivity:** Ability to respond to changes in the environment.
+- **Learning:** Ability to improve performance over time.
+- **Reasoning:** Ability to draw conclusions based on knowledge.
+- **Adaptation:** Ability to change behavior based on new information.
+
+**Intelligent Agent Architecture:**
+
+Similar to the simple reflex agent, but with additional capabilities:
+
+- **Learning Module:** Learns from experience and updates its knowledge base.
+- **Reasoning Module:** Uses knowledge and reasoning to make decisions.
+
+**Remember:** This is a basic overview. Focus on understanding the key concepts and formulating answers concisely for your exam. 
 
 
 ----
@@ -734,6 +958,60 @@ These answers provide clear, concise explanations for each of the given 2-mark t
 ----
 ----
 
+#### Refer Hand written Notes of Diya and sagar for this for diagram and process of solving
+#### Definition of Constraint Satisfaction Problem (CSP)
+A Constraint Satisfaction Problem (CSP) is a mathematical problem defined by a set of variables, each with a domain of values, and a set of constraints that specify allowable combinations of values.
+
+#### Components of CSP
+1. **Variables**: \(X = \{X_1, X_2, ..., X_n\}\)
+2. **Domains**: \(D = \{D_1, D_2, ..., D_n\}\), where each \(D_i\) is the set of possible values for \(X_i\)
+3. **Constraints**: \(C = \{C_1, C_2, ..., C_m\}\), where each \(C_i\) specifies allowable combinations of values for a subset of variables.
+
+#### Graph Colouring Problem
+Graph colouring is a specific type of CSP where the objective is to colour the vertices of a graph such that no two adjacent vertices share the same colour.
+
+1. **Variables**: Each vertex in the graph is a variable.
+   - Example: For a graph \(G\) with vertices \(V = \{V1, V2, V3, V4\}\), each vertex \(Vi\) is a variable.
+2. **Domains**: The set of colours available.
+   - Example: If three colours are available, the domain for each variable could be \( \{Red, Green, Blue\}\).
+3. **Constraints**: No two adjacent vertices can have the same colour.
+   - Example: If \(V1\) and \(V2\) are adjacent, the constraint is \(V1 \neq V2\).
+
+#### Formulation of Graph Colouring as a CSP
+- **Variables**: \(V1, V2, V3, V4\)
+- **Domains**: \(D(V1) = D(V2) = D(V3) = D(V4) = \{Red, Green, Blue\}\)
+- **Constraints**:
+  - \(V1 \neq V2\)
+  - \(V2 \neq V3\)
+  - \(V3 \neq V4\)
+  - \(V4 \neq V1\)
+  - \(V1 \neq V3\) (if \(V1\) and \(V3\) are also adjacent)
+  
+#### Solving Graph Colouring
+1. **Backtracking**: A standard algorithm used to solve CSPs, including graph colouring.
+   - **Step 1**: Assign a colour to a vertex.
+   - **Step 2**: Move to the next vertex and assign a colour that does not violate any constraints.
+   - **Step 3**: If a conflict occurs, backtrack and change the colour of the previous vertex.
+   - **Step 4**: Repeat until all vertices are coloured without conflicts or all possibilities are exhausted.
+
+2. **Constraint Propagation**: Techniques like forward checking or arc consistency can be used to reduce the search space.
+   - **Forward Checking**: After assigning a colour to a vertex, eliminate that colour from the domains of all adjacent vertices.
+   - **Arc Consistency (AC-3)**: Ensure that for every pair of variables, there are consistent values in their domains that satisfy the constraints.
+
+#### Example
+Consider a simple graph with 3 vertices \(V1, V2, V3\), and edges between each pair (a triangle).
+- **Step 1**: Colour \(V1\) with Red.
+- **Step 2**: Colour \(V2\) with Green (since \(V2\) is adjacent to \(V1\)).
+- **Step 3**: Colour \(V3\) with Blue (since \(V3\) is adjacent to both \(V1\) and \(V2\)).
+- **Result**: Each vertex is coloured differently, satisfying all constraints.
+
+#### Applications
+- **Scheduling Problems**: Assigning time slots to events where no two overlapping events can occur at the same time.
+- **Map Colouring**: Colouring regions on a map such that no two adjacent regions have the same colour.
+
+In summary, graph colouring as a CSP involves defining variables, domains, and constraints, and solving the problem typically with backtracking and constraint propagation techniques to ensure all constraints are met without conflicts.
+
+
 
 
 ----
@@ -745,7 +1023,85 @@ These answers provide clear, concise explanations for each of the given 2-mark t
 ----
 ----
 
+#### Refer Hand written Notes of Diya and sagar for this for diagram and process of solving
+## A* Search for Reaching H from A (Basic AI Exam Prep)
 
+**Short Background:**
+
+The A* search algorithm is a powerful tool for finding the shortest path in a maze-like situation (represented by a graph). It considers two things:
+
+1. **Actual Cost (g(n))**: The distance traveled so far from the starting point (A) to the current point (n).
+2. **Estimated Cost (h(n))**: A guess (heuristic) of how much further it might take to reach the goal (H) from the current point (n).
+
+A* combines these into a single `f(n)` value:
+
+- **f(n) = g(n) + h(n)**
+
+The algorithm prioritizes exploring paths with the lowest `f(n)`, aiming to reach the goal efficiently.
+
+**Graph Example:**
+
+```
+      B (2)  -- C (3)
+     /        \
+    A (0)       D (1)
+                \
+                 E (2) -- F (1)
+                      \
+                       G (2) -- H (0)
+```
+
+**Heuristic Function (Manhattan Distance):**
+
+In this example, we'll use a simple heuristic called the Manhattan distance, which estimates the straight-line distance (ignoring obstacles) between two points.
+
+```
+h(n) = abs(X_goal - X_n) + abs(Y_goal - Y_n)
+```
+
+**Stepwise Representation:**
+
+1. **Initialization:**
+   - Open List: Contains nodes to be explored, starting with A (g(A) = 0).
+   - Closed List: Stores visited nodes (initially empty).
+
+2. **Iteration Loop:**
+   - While the open list is not empty:
+      - Pick the node with the lowest `f(n)` from the open list (current node).
+      - Move the current node to the closed list.
+      - If the current node is the goal (H), terminate and return the path cost (g(H)).
+      - Explore the current node's neighbors (B, D in this case).
+      - For each neighbor:
+         - Calculate the tentative cost to reach it: g'(neighbor) = g(current) + cost of edge between them.
+         - If the neighbor is not in the closed list:
+            - If the neighbor is not in the open list, add it with g(neighbor) = g'(neighbor) and estimated cost h(neighbor). Calculate f(neighbor) = g(neighbor) + h(neighbor).
+            - If the neighbor is already in the open list, but the tentative cost (g'(neighbor)) is lower than the current cost in the open list, update the neighbor's cost (g(neighbor)) and recalculate f(neighbor).
+
+3. **No Path Found:**
+   - If the loop completes without finding H, there's no path from A to H.
+
+**Running the Algorithm:**
+
+We'll trace the steps to illustrate the process:
+
+1. **Iteration 1:**
+   - Open List: {A: f(A) = 0}
+   - We explore A's neighbors (B, D) and add them to the open list:
+      - Open List: {A: f(A) = 0, B: f(B) = 2, D: f(D) = 1}
+
+2. **Iteration 2:**
+   - D has the lowest f(D), so it becomes the current node. We explore its neighbor (E) and add it to the open list:
+      - Open List: {B: f(B) = 2, D: f(D) = 1, E: f(E) = 3}
+
+3. **Iteration 3:**
+   - B has the next lowest f(B). We explore its neighbor (C) and add it to the open list:
+      - Open List: {C: f(C) = 5, B: f(B) = 2, D: f(D) = 1, E: f(E) = 3}
+
+(We continue exploring based on the lowest f(n) values until we reach H.)
+
+**Remember:** This is a simplified example. The actual implementation might involve data structures (like priority queues) for efficient handling of the open list.
+
+By following these steps and understanding the A* algorithm's logic, you should be able to tackle similar pathfinding problems in your Basic AI exam.
 
 ----
 ----
@@ -756,6 +1112,68 @@ These answers provide clear, concise explanations for each of the given 2-mark t
 ----
 ----
 
+#### Refer Hand written Notes of Diya and sagar for this for diagram and process of solving
+
+## Alpha-Beta Pruning for Max Node (Basic AI Exam Prep)
+
+**Short Background:**
+
+Alpha-Beta Pruning is a technique used to improve the efficiency of the Minimax algorithm, which is commonly used for two-player zero-sum games (like chess). It works by pruning (ignoring) parts of the game tree that cannot possibly influence the final decision, leading to faster computation.
+
+Here's the key concept:
+
+- **Max Node:** Tries to maximize its score (e.g., winning the game).
+- **Min Node:** Tries to minimize the opponent's score (e.g., making the opponent lose).
+
+Alpha-Beta Pruning maintains two values:
+
+- **Alpha:** Represents the highest score guaranteed for the maximizing player.
+- **Beta:** Represents the lowest score guaranteed for the minimizing player.
+
+**Example (provided by you is missing, so let's use a generic one):**
+
+```
+      (Max) A (5)
+     /        \
+   (Min) B (3)  (Max) C (7)
+  /      \        /    \
+(Min) D (1) (Max) E (2) (Min) F (4) (Max) G (6)
+```
+
+**Stepwise Representation:**
+
+1. **Start at Max Node (A):**
+   - Initialize alpha (α) to negative infinity (-∞). Beta (β) is irrelevant for the root (Max) node.
+   - Explore A's children (B and C).
+
+2. **Min Node (B):**
+   - Initialize beta (β) to positive infinity (+∞).
+   - Explore B's children (D and E).
+
+3. **Min Node (D):**
+   - Beta (β) is already +∞. D's score (1) is less than β. No need to explore further. Update β to 1 (guaranteed minimum score for Max from B).
+
+4. **Max Node (E):**
+   - Alpha (α) is still -∞. E's score (2) is greater than α. Update α to 2.
+
+5. **Back to Min Node (B):**
+   - We already found a guaranteed minimum score of 1 for Max from B (via D). No need to explore E. Update B's score to 1 (minimum B can guarantee for Max).
+
+6. **Max Node (C):**
+   - Alpha (α) is now 2. C's score (7) is greater than α. Update α to 7. Continue exploring C's children.
+
+7. **Similar logic applies for remaining nodes (F and G):** Prune unnecessary branches based on alpha and beta values.
+
+8. **Return to Max Node (A):**
+   - With alpha (α) at 7, we know Max can guarantee at least a score of 7. No need to explore further branches.
+
+**Outcome:**
+
+The final score for Max (A) is 7, which is the highest achievable score based on alpha-beta pruning. We efficiently avoided exploring unnecessary branches of the game tree.
+
+**Remember:** This is a simplified example. The actual implementation might involve maintaining alpha and beta values throughout the tree traversal.
+
+By understanding these steps and the logic behind alpha-beta pruning, you should be able to apply it to similar game tree problems in your Basic AI exam.
 
 
 
@@ -771,8 +1189,70 @@ These answers provide clear, concise explanations for each of the given 2-mark t
 ----
 ----
 ----
+#### Refer Hand written Notes of Diya and sagar for this for diagram and process of solving
 
 
+## Uninformed vs. Informed Search (Basic AI Exam Prep)
+
+**Uninformed Search:**
+
+- Explores the search space systematically without any knowledge about the goal.
+- Examples: Breadth-First Search (BFS), Depth-First Search (DFS).
+- Advantages: Guaranteed to find a solution if one exists (for complete search algorithms like BFS).
+- Disadvantages: Can be slow and inefficient for large search spaces, especially when the goal is far away.
+
+**Informed Search:**
+
+- Leverages additional information (heuristics) to guide the search towards the goal.
+- Examples: A* search, Greedy Search.
+- Advantages: Faster and more efficient than uninformed search, especially for complex problems.
+- Disadvantages: Not guaranteed to find the optimal solution (shortest path) always. Relies on the quality of the heuristic function.
+
+**Problems with Hill-Climbing Algorithm:**
+
+- **Local Maxima:** Can get stuck at a state that's better than its neighbors but not the global optimum (best solution).
+- **Plateaus:** May wander around in regions with similar cost values, making slow progress.
+- **Ridges:** Might get trapped on a ridge leading away from the goal.
+
+**Breadth-First Search (BFS) Example:**
+
+Imagine searching for a friend in a maze. BFS would explore all levels of the maze systematically, level by level (like a fire spreading).
+
+**Example:**
+
+```
+       A
+     /   \
+    B     C
+   / \   / \
+  D   E F   G (Goal)
+```
+
+BFS would visit nodes in this order: A, B, C, D, E, F, then G (goal).
+
+**Depth-First Search (DFS) Example:**
+
+DFS would explore a single path as deep as possible before backtracking. It's like following a single tunnel until you reach a dead end.
+
+**Example (using the same maze):**
+
+DFS might visit nodes in this order: A, B, D, then either backtrack or continue to a dead end (like E). It would eventually find the goal (G) after exploring other branches.
+
+**Formalizing a Game:**
+
+A game can be formally defined as a system with the following components:
+
+- **Players:** Who are involved in the game (e.g., human vs. computer, two players).
+- **States:** The possible configurations the game can be in (e.g., chessboard positions).
+- **Initial State:** The starting point of the game (e.g., starting positions of chess pieces).
+- **Actions:** The possible moves or decisions players can take (e.g., moving chess pieces).
+- **Transition Function:** How the game state changes after an action is taken (e.g., new chessboard position after a move).
+- **Terminal Test:** Determines if the game is over (e.g., checkmate in chess).
+- **Utility Function (Optional):** Assigns a score or value to each terminal state (e.g., +1 for win, -1 for loss).
+
+Formalizing a game allows for the application of AI techniques like search algorithms and game playing strategies.
+
+**Remember:** This is a basic overview. Your exam might delve deeper into specific algorithms or game theories. Focus on understanding the core concepts.
 
 ----
 ----
