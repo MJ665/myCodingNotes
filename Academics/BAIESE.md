@@ -528,6 +528,27 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 ----
 
+### Module 3: Searching Techniques
+
+#### 1. Compare Depth-Limited Search vs. Iterative Deepening Search
+
+- **Depth-Limited Search (DLS)**:
+  - **Definition**: A variant of Depth-First Search (DFS) that limits the depth of exploration to a predetermined level \( l \).
+  - **Characteristics**:
+    - Avoids infinite loops in cyclic graphs.
+    - May fail to find a solution if the limit \( l \) is too low.
+  - **Space Complexity**: \( O(l) \) (linear in the depth limit).
+  - **Time Complexity**: \( O(b^l) \) (where \( b \) is the branching factor and \( l \) is the depth limit).
+  - **Example Use Case**: Searching for a path within a bounded depth in large graphs.
+
+- **Iterative Deepening Search (IDS)**:
+  - **Definition**: A combination of Depth-First Search and Breadth-First Search that repeatedly applies Depth-Limited Search with increasing limits until a solution is found.
+  - **Characteristics**:
+    - Finds the shortest path to the goal (optimal for uniform cost).
+    - Combines the space efficiency of DFS with the optimality of BFS.
+  - **Space Complexity**: \( O(d) \) (linear in the depth of the shallowest goal).
+  - **Time Complexity**: \( O(b^d) \) (where \( d \) is the depth of the shallowest goal).
+  - **Example Use Case**: Solving puzzles like the 8-puzzle or 15-puzzle.
 
 
 
@@ -541,6 +562,16 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 ----
 
+#### 2. Outline Steps Included in Genetic Algorithm
+
+1. **Initialization**: Generate an initial population of potential solutions randomly.
+2. **Selection**: Evaluate the fitness of each individual and select the fittest individuals for reproduction.
+3. **Crossover (Recombination)**: Combine pairs of selected individuals to create offspring by exchanging portions of their structure.
+4. **Mutation**: Introduce random changes to individual offspring to maintain genetic diversity.
+5. **Replacement**: Replace some or all of the population with the new generation.
+6. **Termination**: Repeat the process until a stopping criterion is met (e.g., a solution is found, a maximum number of generations is reached, or the fitness level is satisfactory).
+
+
 
 
 
@@ -553,6 +584,19 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 ----
 ----
+
+#### 3. Give Algorithmic Steps for Genetic Algorithm
+
+1. **Start**: Generate an initial population of \( P \) individuals.
+2. **Evaluate**: Compute the fitness of each individual in the population.
+3. **Repeat**:
+   - **Selection**: Select \( P \) parents from the current population based on fitness.
+   - **Crossover**: Perform crossover on pairs of parents to produce offspring.
+   - **Mutation**: Apply mutation to some offspring.
+   - **Evaluation**: Evaluate the fitness of the new individuals.
+   - **Replacement**: Form a new population by replacing some or all of the old population with the new individuals.
+4. **Until**: A stopping criterion is met (e.g., a solution is found, a maximum number of generations is reached, or the fitness level is satisfactory).
+5. **End**: Output the best solution found.
 
 
 ----
@@ -569,6 +613,15 @@ Module 2:- Intelligent Agents & Problem Solving
 
 
 
+#### 4. Discuss Drawbacks of Min-Max Algorithm
+- **Computationally Expensive**: 
+  - Time complexity is \( O(b^d) \) where \( b \) is the branching factor and \( d \) is the depth of the tree. This makes it impractical for large game trees.
+- **Limited to Perfect Information**:
+  - Requires complete information about the game, which is not feasible for games with hidden elements or uncertainty.
+- **Memory Intensive**:
+  - High space complexity due to storing all nodes in the game tree.
+- **Difficulty Handling Deep Trees**:
+  - Struggles with deep game trees due to exponential growth, necessitating the use of heuristics or pruning methods like alpha-beta pruning.
 
 ----
 ----
@@ -580,6 +633,21 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 
 
+
+#### 5. Differentiate A* & Best-First Search (Greedy)
+- **A\***:
+  - **Heuristic Function**: \( f(n) = g(n) + h(n) \)
+    - \( g(n) \): Cost from the start node to node \( n \).
+    - \( h(n) \): Estimated cost from node \( n \) to the goal.
+  - **Optimal and Complete**: Guaranteed to find the least-cost path if \( h(n) \) is admissible (never overestimates the true cost).
+  - **Example**: Pathfinding algorithms in navigation systems.
+  
+- **Best-First Search (Greedy)**:
+  - **Heuristic Function**: \( f(n) = h(n) \)
+    - Focuses solely on the estimated cost to the goal.
+  - **Not Guaranteed Optimal**: May not find the least-cost path as it doesn’t consider the cost already incurred.
+  - **Faster but Less Reliable**: Can be quicker in some cases but may lead to suboptimal solutions.
+  - **Example**: Simple maze-solving algorithms where speed is prioritized over path cost.
 
 
 ----
@@ -597,6 +665,63 @@ Module 2:- Intelligent Agents & Problem Solving
 ----
 
 
+#### 6. List Components of Constraint Satisfaction Problem (CSP)
+- **Variables**: The set of entities to be assigned values.
+- **Domains**: The possible values each variable can take.
+- **Constraints**: The rules that restrict the values the variables can simultaneously take.
+
+### Explain Adversarial Search
+- **Definition**: A search strategy used in games where players compete against each other.
+- **Key Concepts**:
+  - **Minimax Algorithm**: Evaluates the best possible move assuming the opponent is also playing optimally.
+  - **Alpha-Beta Pruning**: Optimizes the minimax algorithm by eliminating branches that cannot influence the final decision.
+- **Application**: Chess, checkers, and other two-player turn-based games.
+
+### Advantages & Disadvantages – BFS & DFS, A*
+
+- **Breadth-First Search (BFS)**:
+  - **Advantages**:
+    - Completeness: Guaranteed to find a solution if one exists.
+    - Finds the shortest path in an unweighted graph.
+  - **Disadvantages**:
+    - High memory usage: Stores all nodes at the current level.
+    - Can be slow for deep graphs.
+  
+- **Depth-First Search (DFS)**:
+  - **Advantages**:
+    - Low memory usage: Only stores the current path.
+    - Can be faster for deep solutions.
+  - **Disadvantages**:
+    - Not guaranteed to find the shortest path.
+    - Can get stuck in loops without cycle detection.
+  
+- **A\***:
+  - **Advantages**:
+    - Optimal and complete with an admissible heuristic.
+    - Efficient pathfinding when \( h(n) \) is accurate.
+  - **Disadvantages**:
+    - Can be slow and memory-intensive for large graphs with poor heuristics.
+
+### Define – Uniform Cost Search, Bidirectional Search
+
+- **Uniform Cost Search**:
+  - **Definition**: A search strategy that expands the least-cost node first.
+  - **Characteristics**: Similar to Dijkstra's algorithm, optimal for finding the lowest cost path.
+  - **Application**: Pathfinding in weighted graphs.
+
+- **Bidirectional Search**:
+  - **Definition**: A search strategy that simultaneously searches forward from the start node and backward from the goal node.
+  - **Characteristics**: Reduces search time by meeting in the middle.
+  - **Application**: Shortest path problems in large graphs.
+
+### Tabu Search
+- **Definition**: An advanced local search method that uses memory structures to avoid cycling back to previously visited solutions.
+- **Key Concepts**:
+  - **Tabu List**: Stores recently visited solutions or moves to prevent immediate revisitation.
+  - **Aspiration Criteria**: Allows certain tabu moves if they result in a better solution than previously found.
+- **Application**: Optimization problems like scheduling, traveling salesman problem.
+
+These answers provide clear, concise explanations for each of the given 2-mark topics, fitting the requirements for brevity and structure.
 
 
 ----
