@@ -1,6 +1,7 @@
 # BAI ESE
 ## TENTATIVE
 ###  THIS IS NOT PROVIDED BY JAGRUTI MAM IISE KAAM CHALA LO
+###  Dont forget to read the hand written notes of sagar and diya they are most IMP
 
 
 1
