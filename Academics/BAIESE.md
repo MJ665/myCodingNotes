@@ -185,7 +185,6 @@ Here are concise and structured answers for each of the provided 2-mark question
   - **Artificial Intelligence**: Exhibited by machines and systems.
     - *Example*: Chess-playing computer, autonomous driving systems.
 
-These answers are structured to be clear and concise, fitting the requirements of a 2-mark question.
 
 
 
