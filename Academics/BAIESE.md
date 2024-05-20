@@ -560,6 +560,8 @@ These agents maintain an internal representation (model) of the environment they
 
 **Remember:** This is a simplified explanation. Building and maintaining accurate models can be challenging, especially in complex environments. Focus on understanding the core concept of using an internal model to guide action selection for your exam. 
 
+
+![Model Based Agent](ModelBasedAgent.png)
 ----
 ----
 ----
@@ -612,7 +614,7 @@ These agents are designed to achieve specific objectives or goals in their envir
 
 **Remember:** This is a basic overview. Goal-based agents may involve more sophisticated planning algorithms and knowledge representation techniques. Focus on understanding the key concept of using a goal to guide a sequence of actions for your exam.
 
-
+![Goal based agent](GoalBasedAgent.png)
 ----
 ----
 ----
