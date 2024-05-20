@@ -1262,8 +1262,8 @@ Formalizing a game allows for the application of AI techniques like search algor
 
 
 
-Module 4:- Knowledge & Reasoning
-2 Mark Topics:-
+## Module 4:- Knowledge & Reasoning
+### 2 Markers M4
 1.	Transform the Following(First order logic) into Conjunctive Normal Form.
 
 ----
@@ -1546,8 +1546,8 @@ These answers provide a clear and concise explanation of resolution and knowledg
 ----
 ----
 ----
-Module 5:- Planning & Learning
-2 Marks Topics-
+## Module 5:- Planning & Learning
+### 2 Markers M5
 1.	State the Main Objectives of Planning, & why it is important for AI systems?
 
 ----
@@ -1726,7 +1726,7 @@ These answers provide concise definitions and outlines as required for a 2-mark 
 ----
 ----
 ----
-5 Mark Topics:-
+### 5 Markers M5
 1.	Explain the Concept of Conditional Planning in AI. How does it differ from Traditional Planning Approaches?
 
 ----
@@ -2020,10 +2020,150 @@ Here's a simplified breakdown of ID3:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Module 6:- Expert Systems & Sub-Areas of AI
+2 Mark Topics:-
+1. Discuss how Expert Systems differ from Traditional Software Applications?
+
+
+
+
+2. List Tools used in ML.
+
+
+
+3. State the Primary Purpose of an Expert System.
+
+
+
+
+4. Describe Various Phases in NLP.
+
+
+
+5. Explain Applications of Soft Computing.
+
+
+
+
+
+6. Compare & Contrast Conventional Systems vs Expert Systems.
+
+
+
+
+7. Describe Various Components of Robotics.
+• Explain Speech Recognition using NLP.
+
+
+
 ----
 ----
 ----
 
+### Module 6: Expert Systems & Sub-Areas of AI
+
+#### 1. Expert Systems vs Traditional Software Applications
+
+**Expert Systems:**
+- **Focus**: Specialized in a particular domain and mimic human expertise.
+- **Knowledge Representation**: Use knowledge base and inference engine for decision-making.
+- **Decision Process**: Apply rules and heuristics to solve complex problems.
+- **Adaptability**: Can handle uncertainty and ambiguity in problem-solving.
+- **Examples**: Medical diagnosis systems, financial advising systems.
+
+**Traditional Software Applications:**
+- **General Purpose**: Designed for broad use across various domains.
+- **Functionality**: Execute predefined algorithms or processes.
+- **Decision Process**: Follow predetermined logic without adapting to new situations.
+- **Limitation**: Lack the ability to handle complex decision-making tasks or domain-specific expertise.
+
+#### 2. Tools Used in Machine Learning
+
+- **Python Libraries**: Scikit-learn, TensorFlow, Keras, PyTorch.
+- **Data Processing Tools**: Pandas, NumPy.
+- **Visualization Tools**: Matplotlib, Seaborn.
+- **Cloud Platforms**: Google Cloud AI Platform, Amazon SageMaker.
+- **AutoML Tools**: Google AutoML, H2O.ai, DataRobot.
+
+#### 3. Primary Purpose of an Expert System
+
+The primary purpose of an expert system is to replicate the decision-making abilities of a human expert in a specific domain. It achieves this by using a knowledge base to store domain-specific knowledge and an inference engine to apply this knowledge to solve problems or make decisions.
+
+#### 4. Various Phases in Natural Language Processing (NLP)
+
+1. **Tokenization**: Breaking text into words or phrases (tokens).
+2. **Text Preprocessing**: Removing noise, stopwords, and normalizing text.
+3. **Part-of-Speech Tagging**: Assigning grammatical tags to words.
+4. **Parsing**: Analyzing the syntactic structure of sentences.
+5. **Named Entity Recognition (NER)**: Identifying and classifying named entities.
+6. **Semantic Analysis**: Understanding the meaning of text and extracting relationships between words.
+7. **Sentiment Analysis**: Determining the sentiment or opinion expressed in text.
+8. **Machine Translation**: Translating text from one language to another.
+
+#### 5. Applications of Soft Computing
+
+- **Fuzzy Logic**: Control systems, pattern recognition.
+- **Neural Networks**: Image recognition, natural language processing.
+- **Evolutionary Algorithms**: Optimization problems, data mining.
+- **Probabilistic Reasoning**: Medical diagnosis, risk assessment.
+
+#### 6. Conventional Systems vs Expert Systems
+
+**Conventional Systems**:
+- Follow predefined algorithms or rules.
+- Limited adaptability to changing conditions.
+- Not domain-specific.
+
+**Expert Systems**:
+- Mimic human expertise in specific domains.
+- Adapt to uncertainty and ambiguity.
+- Domain-specific knowledge representation.
+
+#### 7. Various Components of Robotics
+
+1. **Sensors**: Gather information from the environment.
+2. **Actuators**: Execute actions in the environment.
+3. **Control System**: Process sensor data and generate commands for actuators.
+4. **End Effectors**: Devices for interacting with the environment (e.g., grippers).
+5. **Power Supply**: Provides energy to operate the robot.
+6. **Manipulator**: Mechanical arm for performing tasks.
+7. **Controller**: Software or hardware for controlling robot movements.
+
+*Speech Recognition using NLP*:
+Speech recognition in robotics involves using natural language processing techniques to convert spoken language into text or commands that the robot can understand and act upon. NLP algorithms analyze audio input, identify words or phrases, and convert them into text using techniques such as acoustic modeling, language modeling, and hidden Markov models.
+
+These answers provide detailed yet easily understandable explanations for each topic, covering the important aspects of Expert Systems and Sub-Areas of AI for your Basic of AI exam preparation.
+
+
+
+
+----
+----
+----
+
+5 Mark Topics :-
+• Define Expert Systems & Discuss it’s Applications.
+• What is Natural Language Processing(NLP) and how is it applied using TextRazor?
+• Explain Prompt Engineering & How it Can be Integrated with OpenAI tools & Services?
+• Differntiate between ML & DL.
 ----
 ----
 ----
